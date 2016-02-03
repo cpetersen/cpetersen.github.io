@@ -1,0 +1,15 @@
+layout: post
+title:  "Wind Map"
+date:   2013-06-06 23:18:45 -0700
+categories:
+  - Data Visualization
+  - Map
+---
+
+ ![A humbling map of real-time wind patterns in Tornado Alley](/attachments/7abfef38b76feaedc2b1e29fc59421d7/image.png)  
+
+ Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy! 
+
+ Found on  [IO9](http://io9.com/a-humbling-map-of-real-time-wind-patterns-in-tornado-al-509037773). 
+
+ 

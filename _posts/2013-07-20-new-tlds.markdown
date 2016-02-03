@@ -1,0 +1,136 @@
+layout: post
+title:  "New TLDs"
+date:   2013-07-20 18:37:38 -0700
+categories:
+  - Web
+---
+
+Wow there's a boat load of new TLD's coming. There are some really interesting ones, and some that are just bizarre. (.gripe,.melbourne anyone).
+
+I'm particularly interested in "app" and "data".
+
+ Here's the full list: 
+
+ * ads
+ * airforce
+ * app
+ * art
+ * associates
+ * auction
+ * auto
+ * baby
+ * basketball
+ * berlin
+ * bid
+ * bike
+ * blog
+ * broadway
+ * business
+ * buy
+ * bzh
+ * cab
+ * cam
+ * career
+ * cars
+ * center
+ * church
+ * city
+ * clothing
+ * cloud
+ * coach
+ * codes
+ * construction
+ * contractors
+ * coupon
+ * cpa
+ * cymru
+ * data
+ * deal
+ * democrat
+ * dental
+ * desi
+ * diet
+ * docs
+ * dog
+ * durban
+ * earth
+ * eco
+ * email
+ * engineer
+ * equipment
+ * estate
+ * film
+ * fishing
+ * flowers
+ * food
+ * furniture
+ * gay
+ * gmbh
+ * green
+ * gripe
+ * guide
+ * guru
+ * health
+ * help
+ * helsinki
+ * hiv
+ * holdings
+ * hosting
+ * hotel
+ * how
+ * immobilien
+ * insurance
+ * kim
+ * kiwi
+ * koeln
+ * land
+ * lat
+ * live
+ * ltd
+ * management
+ * melbourne
+ * menu
+ * mobile
+ * music
+ * news
+ * now
+ * nyc
+ * online
+ * paris
+ * party
+ * pictures
+ * play
+ * plumbing
+ * poker
+ * property
+ * radio
+ * red
+ * reisen
+ * rugby
+ * salon
+ * school
+ * shop
+ * singles
+ * site
+ * soy
+ * sports
+ * surgery
+ * swiss
+ * systems
+ * tattoo
+ * tech
+ * thai
+ * theater
+ * trading
+ * university
+ * uno
+ * ventures
+ * versicherung
+ * vip
+ * voyage
+ * web
+ * webcam
+ * wedding
+ * wiki
+
+ 

@@ -1,0 +1,9 @@
+layout: post
+title:  "Ratchet"
+date:   2012-11-06 11:38:23 -0800
+categories:
+  - Web
+  - Software
+---
+
+ [Ratchet](http://maker.github.com/ratchet/)  is an interesting project. I'm glad people who want to prototype iOS apps have a  [bootstrap](http://twitter.github.com/bootstrap/)  like framework to do so. However, I still prefer  [RubyMotion](http://www.rubymotion.com)  and something like  [Pixate](http://www.pixate.com)  for rapidly prototyping mobile apps.

@@ -1,0 +1,29 @@
+layout: post
+title:  "Bitcore"
+date:   2014-02-14 15:43:54 -0800
+categories:
+  - Software
+  - Bitcoin
+  - Node.js
+---
+
+
+
+ > 
+
+ >  > 
+
+ > 
+ > 
+ >  ![bb685be558a08f1bf3a74964091bcaa2.png](/attachments/bb685be558a08f1bf3a74964091bcaa2/image.png) 
+ > 
+ >  A pure, powerful core for your bitcoin project. 
+ > 
+ > Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin.
+ > 
+ > 
+ > 
+
+ > 
+
+ Bitcore looks like a very interesting project. I was more than a little surprised to see it was written in Node, but the distributed nature of Bitcoin is probably a pretty good fit with the async nature of Node. Should make interacting with Bitcoin programmatically a bit more accessible. 

@@ -1,0 +1,18 @@
+layout: post
+title:  "Hangover"
+date:   2013-05-29 03:44:36 -0700
+categories:
+  - Science
+---
+
+Mathematical proof that by stacking overhanging blocks, you can support of a block that is completely over a ledge. I love mathematical explanations of such simple phenomena.
+
+ > 
+ > 
+ > 
+|![](/attachments/ee68b588464afb1c0fa7bf76698cb11f/image.png)|
+|---|
+
+ 
+ > 
+ > 

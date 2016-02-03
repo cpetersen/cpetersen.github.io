@@ -1,0 +1,10 @@
+layout: post
+title:  "KeyMe"
+date:   2014-03-25 18:11:08 -0700
+categories:
+  - Misc
+---
+
+  ![dfcc4027377a2bc0161c8d6f340ab274.png](/attachments/dfcc4027377a2bc0161c8d6f340ab274/image.png)  
+
+  [Key.me](http://key.me)  makes keys from a picture taken with your smart phone, it you’re looked out, they’ll make you a key and deliver it to you in under 60 minutes… if you happen to live in Manhattan that is. Pretty cool idea, but what caught my eye was, the “bitting code” and the fact that a lock smith can make your key from scratch using a process called code cutting. Basically, keys can be defined by a series of numbers, those numbers can be gleaned by looking at the key, and those numbers are enough to make the key. It’s one of those facts that is perfectly obvious in retrospect, but I never thought about until now. 

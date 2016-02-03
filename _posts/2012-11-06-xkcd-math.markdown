@@ -1,0 +1,11 @@
+layout: post
+title:  "xkcd: Math"
+date:   2012-11-06 23:50:01 -0800
+categories:
+  - Funny
+---
+
+It's funny because it's true.
+
+ >   ![Math](/attachments/6f4084c71619183902a9ed07bb4a88a8/image.png)  
+

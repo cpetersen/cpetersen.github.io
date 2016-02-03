@@ -1,0 +1,13 @@
+layout: post
+title:  "Next Year's 3-D Printers Promise Big Things"
+date:   2012-12-01 22:22:18 -0800
+categories:
+  - Maker
+---
+
+Lots of cool things coming in the 3d printing field. Printing with metal, huge printers, etc. very exciting stuff. 
+
+ >   ![Bike Frames and Race Cars](/attachments/0448414f74f28bddffb4612b7101d37e/image.png)  
+ > 
+ >  2012 has been a big year for 3-D printing, but the industry has quietly been growing for decades. And the innovations are impressive — for every new plywood-clad 3-D printer kit that makes the rounds on the internet, engineers are developing ways to print titanium parts for jet engines that will change the aerospace industry. 
+
