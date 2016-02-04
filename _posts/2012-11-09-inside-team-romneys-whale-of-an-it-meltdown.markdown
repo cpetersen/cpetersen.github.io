@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Inside Team Romney’s whale of an IT meltdown"
 date:   2012-11-09 19:50:17 -0800

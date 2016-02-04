@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Entrepreneurshit. The Truth About Building Startups"
 date:   2012-11-20 13:29:33 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Google is getting better at design... Fast"
 date:   2013-01-27 09:28:08 -0800

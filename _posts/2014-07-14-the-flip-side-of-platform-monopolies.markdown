@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Flip Side of Platform Monopolies"
 date:   2014-07-14 10:38:49 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "4K Gyro-stabilized Camera"
 date:   2013-04-02 19:20:55 -0700

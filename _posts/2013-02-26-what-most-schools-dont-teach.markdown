@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "What most schools don't teach"
 date:   2013-02-26 11:22:05 -0800

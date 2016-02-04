@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "There are no small changes"
 date:   2013-07-03 23:26:20 -0700

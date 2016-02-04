@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Next Year's 3-D Printers Promise Big Things"
 date:   2012-12-01 22:22:18 -0800

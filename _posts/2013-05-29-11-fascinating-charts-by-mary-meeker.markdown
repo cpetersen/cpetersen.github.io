@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "11 Fascinating Charts by Mary Meeker"
 date:   2013-05-29 20:39:54 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Y Combinator’s Startup School 2012"
 date:   2012-10-22 10:44:18 -0700

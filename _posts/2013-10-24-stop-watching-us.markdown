@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Stop Watching Us"
 date:   2013-10-24 12:53:55 -0700

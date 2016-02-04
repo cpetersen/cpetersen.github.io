@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Scarcest Resource at Startups..."
 date:   2013-07-09 20:36:59 -0700

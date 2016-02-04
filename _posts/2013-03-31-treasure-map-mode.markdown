@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Treasure Map Mode"
 date:   2013-03-31 12:09:51 -0700

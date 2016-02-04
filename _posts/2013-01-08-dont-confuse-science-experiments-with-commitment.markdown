@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Don’t Confuse Science Experiments With Commitment"
 date:   2013-01-08 10:42:02 -0800

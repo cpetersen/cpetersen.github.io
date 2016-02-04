@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Product Strategy Means Saying No"
 date:   2013-07-03 23:05:59 -0700

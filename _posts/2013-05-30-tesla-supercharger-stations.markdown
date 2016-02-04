@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Tesla Supercharger Stations"
 date:   2013-05-30 12:51:09 -0700

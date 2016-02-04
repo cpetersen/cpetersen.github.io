@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Grand Theft Art"
 date:   2014-04-04 14:17:26 -0700

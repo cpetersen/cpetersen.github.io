@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How the sky would look if the planets were as close as the moon"
 date:   2013-04-09 08:46:12 -0700

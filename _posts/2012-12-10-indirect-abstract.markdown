@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Indirect != Abstract"
 date:   2012-12-10 09:35:55 -0800

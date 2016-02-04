@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Brittle Grip"
 date:   2014-01-28 14:23:36 -0800

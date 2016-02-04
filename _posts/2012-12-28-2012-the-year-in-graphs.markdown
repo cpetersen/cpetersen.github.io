@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "2012: The Year in Graphs"
 date:   2012-12-28 14:15:36 -0800

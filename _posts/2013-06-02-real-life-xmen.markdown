@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Real Life X-Men"
 date:   2013-06-02 21:34:10 -0700

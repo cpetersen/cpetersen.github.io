@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The New Yorker’s Endorsement of Barack Obama"
 date:   2012-10-22 11:25:17 -0700

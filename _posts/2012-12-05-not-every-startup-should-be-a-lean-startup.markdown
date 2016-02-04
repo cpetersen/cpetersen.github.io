@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Not every startup should be a Lean Startup"
 date:   2012-12-05 10:26:37 -0800

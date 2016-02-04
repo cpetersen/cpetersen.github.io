@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Why is it hard to scale a database, in layman’s terms?"
 date:   2012-11-19 14:28:08 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Enterprise Cool Kids"
 date:   2013-01-28 10:14:19 -0800

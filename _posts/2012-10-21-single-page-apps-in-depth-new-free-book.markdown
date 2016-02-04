@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Single page apps in depth (new free book)"
 date:   2012-10-21 22:28:18 -0700

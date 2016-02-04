@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Empathy Vacuum"
 date:   2014-03-12 09:39:18 -0700

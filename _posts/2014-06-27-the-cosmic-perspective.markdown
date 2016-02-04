@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Cosmic Perspective"
 date:   2014-06-27 10:45:48 -0700

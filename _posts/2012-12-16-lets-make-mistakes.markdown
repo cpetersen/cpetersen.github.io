@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Let's make mistakes!"
 date:   2012-12-16 13:55:41 -0800

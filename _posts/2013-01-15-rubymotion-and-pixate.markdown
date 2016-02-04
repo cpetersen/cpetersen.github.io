@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "RubyMotion and Pixate"
 date:   2013-01-15 10:08:17 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Man Dives into an Exploding Volcano"
 date:   2014-09-08 09:59:35 -0700

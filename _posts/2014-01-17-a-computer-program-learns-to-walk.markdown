@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A Computer Program Learns to Walk"
 date:   2014-01-17 09:25:59 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Euclideon Geoverse"
 date:   2014-09-25 12:09:11 -0700

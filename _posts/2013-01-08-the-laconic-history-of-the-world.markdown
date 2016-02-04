@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Laconic History of the World"
 date:   2013-01-08 11:06:50 -0800

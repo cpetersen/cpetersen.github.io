@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Extracting 3D models from 2D images"
 date:   2013-09-10 16:17:46 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A Minimum Tax for the Wealthy"
 date:   2012-11-29 09:23:25 -0800

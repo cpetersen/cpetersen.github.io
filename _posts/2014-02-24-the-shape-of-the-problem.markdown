@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Shape of the Problem"
 date:   2014-02-24 12:14:18 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Short Circuit"
 date:   2014-02-24 12:14:46 -0800

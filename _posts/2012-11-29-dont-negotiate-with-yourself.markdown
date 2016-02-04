@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Don't negotiate with yourself"
 date:   2012-11-29 16:52:48 -0800

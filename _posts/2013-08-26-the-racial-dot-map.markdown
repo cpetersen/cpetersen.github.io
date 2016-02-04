@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Racial Dot Map"
 date:   2013-08-26 14:11:40 -0700

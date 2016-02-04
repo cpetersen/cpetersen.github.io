@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Chris Dixon on Good Ideas that look like Bad Ideas"
 date:   2014-02-16 07:27:00 -0800

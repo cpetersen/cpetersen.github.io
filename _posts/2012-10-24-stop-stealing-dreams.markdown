@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "STOP STEALING DREAMS"
 date:   2012-10-24 10:38:20 -0700

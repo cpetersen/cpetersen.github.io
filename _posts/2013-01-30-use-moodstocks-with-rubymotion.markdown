@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Use Moodstocks with RubyMotion"
 date:   2013-01-30 13:12:22 -0800

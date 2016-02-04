@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How Chicago's Data-Driven Campaign Triumphed"
 date:   2012-11-07 19:01:59 -0800

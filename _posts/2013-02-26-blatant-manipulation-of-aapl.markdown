@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Blatant manipulation of $AAPL"
 date:   2013-02-26 17:49:18 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Sometimes Design is Pulling your Clients into the Future"
 date:   2012-11-06 11:29:09 -0800

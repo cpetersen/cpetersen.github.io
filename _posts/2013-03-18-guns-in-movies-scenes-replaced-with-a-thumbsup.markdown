@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Guns in movies scenes replaced with a thumbs-up"
 date:   2013-03-18 09:51:18 -0700

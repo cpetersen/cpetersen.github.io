@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "More Git and GitHub Secrets"
 date:   2013-07-28 23:45:56 -0700

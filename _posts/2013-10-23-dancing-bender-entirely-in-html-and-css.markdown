@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Dancing Bender entirely in HTML and CSS"
 date:   2013-10-23 14:07:42 -0700

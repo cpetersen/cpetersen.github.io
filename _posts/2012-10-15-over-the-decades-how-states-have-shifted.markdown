@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Over the Decades, How States Have Shifted"
 date:   2012-10-15 21:55:02 -0700

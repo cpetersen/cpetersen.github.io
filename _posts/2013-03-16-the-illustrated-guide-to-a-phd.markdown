@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The illustrated guide to a Ph.D."
 date:   2013-03-16 22:33:27 -0700

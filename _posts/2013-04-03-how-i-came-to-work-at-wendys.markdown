@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How I Came to Work at Wendy's"
 date:   2013-04-03 09:14:40 -0700

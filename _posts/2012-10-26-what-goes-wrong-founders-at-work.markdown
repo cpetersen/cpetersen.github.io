@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "What Goes Wrong - Founders at Work"
 date:   2012-10-26 11:00:18 -0700

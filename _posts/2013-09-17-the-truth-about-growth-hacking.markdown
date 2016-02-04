@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Truth about Growth Hacking"
 date:   2013-09-17 23:17:00 -0700

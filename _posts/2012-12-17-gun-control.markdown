@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "“Gun” “Control”"
 date:   2012-12-17 13:21:21 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Quadcopter Pole Acrobatics"
 date:   2013-02-22 14:30:54 -0800

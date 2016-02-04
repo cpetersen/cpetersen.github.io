@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Beginners and Taste"
 date:   2013-06-03 12:40:22 -0700

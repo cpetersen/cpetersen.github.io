@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "As Swing Districts Dwindle, Can a Divided House Stand?"
 date:   2012-12-28 14:40:40 -0800

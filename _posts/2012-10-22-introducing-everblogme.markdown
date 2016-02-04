@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Introducing Everblog.me"
 date:   2012-10-22 10:49:50 -0700

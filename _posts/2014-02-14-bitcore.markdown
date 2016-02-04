@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Bitcore"
 date:   2014-02-14 15:43:54 -0800

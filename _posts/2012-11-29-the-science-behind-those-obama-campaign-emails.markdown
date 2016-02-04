@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Science Behind Those Obama Campaign E-Mails"
 date:   2012-11-29 15:21:37 -0800

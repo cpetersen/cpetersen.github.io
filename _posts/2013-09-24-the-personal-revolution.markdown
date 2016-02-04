@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Personal Revolution"
 date:   2013-09-24 12:02:14 -0700

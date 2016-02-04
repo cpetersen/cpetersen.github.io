@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Things have gotten a lot bigger"
 date:   2013-06-26 23:19:37 -0700

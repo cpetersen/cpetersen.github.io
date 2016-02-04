@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "All Markets Are Not Created Equal"
 date:   2012-11-14 10:15:07 -0800

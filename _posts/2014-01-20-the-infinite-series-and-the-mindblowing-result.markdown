@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Infinite Series and the Mind-Blowing Result."
 date:   2014-01-20 09:40:13 -0800

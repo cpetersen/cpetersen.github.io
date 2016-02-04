@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Falling and Spinning Camera"
 date:   2014-02-16 07:11:58 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "stacksort"
 date:   2013-03-18 11:29:21 -0700

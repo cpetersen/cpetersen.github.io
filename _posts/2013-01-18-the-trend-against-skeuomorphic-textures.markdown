@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Trend Against Skeuomorphic Textures"
 date:   2013-01-18 14:48:55 -0800

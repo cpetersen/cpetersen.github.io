@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How Bitcoin Works"
 date:   2013-10-11 07:03:35 -0700

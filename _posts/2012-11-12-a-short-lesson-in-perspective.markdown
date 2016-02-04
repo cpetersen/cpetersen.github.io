@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A Short Lesson in Perspective"
 date:   2012-11-12 10:13:50 -0800

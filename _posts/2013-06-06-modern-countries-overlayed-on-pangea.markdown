@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Modern countries overlayed on Pangea"
 date:   2013-06-06 23:14:40 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Graph That Changed Me"
 date:   2014-02-14 13:09:34 -0800

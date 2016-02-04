@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Jon Stewart Proposes an Entrepreneurial Policy. Don't Laugh."
 date:   2012-10-18 20:40:00 -0700

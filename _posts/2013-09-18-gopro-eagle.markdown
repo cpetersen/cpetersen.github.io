@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "GoPro + Eagle"
 date:   2013-09-18 11:03:38 -0700

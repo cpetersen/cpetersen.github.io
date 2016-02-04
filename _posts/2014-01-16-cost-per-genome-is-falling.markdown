@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Cost Per Genome is Falling"
 date:   2014-01-16 11:55:11 -0800

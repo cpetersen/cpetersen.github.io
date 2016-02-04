@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "People simply empty out"
 date:   2013-08-20 22:28:06 -0700

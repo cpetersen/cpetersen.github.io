@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "There’s An Enterprise Renaissance Going On"
 date:   2012-11-27 09:38:21 -0800

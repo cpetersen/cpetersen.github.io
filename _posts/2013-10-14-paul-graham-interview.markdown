@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Paul Graham Interview"
 date:   2013-10-14 07:31:27 -0700

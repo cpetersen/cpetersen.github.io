@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "xkcd: Congress"
 date:   2012-11-01 13:35:22 -0700

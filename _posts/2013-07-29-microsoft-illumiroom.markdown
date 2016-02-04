@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Microsoft IllumiRoom"
 date:   2013-07-29 00:08:13 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "7 Ways to Decompose Fat ActiveRecord Models"
 date:   2012-10-17 10:16:36 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Managing Nerds"
 date:   2014-04-16 12:11:40 -0700

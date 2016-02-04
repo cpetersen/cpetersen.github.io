@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How to Convince Investors"
 date:   2013-08-07 13:51:51 -0700

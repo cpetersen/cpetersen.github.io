@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Struggle"
 date:   2012-10-17 12:37:46 -0700

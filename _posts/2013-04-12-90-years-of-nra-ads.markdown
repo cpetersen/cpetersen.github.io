@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "90 years of NRA ads"
 date:   2013-04-12 18:05:34 -0700

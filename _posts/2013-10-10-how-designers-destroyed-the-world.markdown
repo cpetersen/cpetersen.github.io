@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How Designers Destroyed the World"
 date:   2013-10-10 09:21:35 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Is BitTorrent Sync Is A Dropbox Killer?"
 date:   2013-05-28 13:14:23 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Animagraffs - Animated infographics"
 date:   2014-06-30 09:43:17 -0700

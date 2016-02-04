@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Work vs Assets"
 date:   2013-04-12 08:44:56 -0700

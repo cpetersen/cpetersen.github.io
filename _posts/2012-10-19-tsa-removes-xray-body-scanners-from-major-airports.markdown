@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "TSA Removes X-Ray Body Scanners From Major Airports"
 date:   2012-10-19 11:34:00 -0700

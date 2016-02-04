@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Biden in 2006 schools Obama in 2013"
 date:   2013-06-16 17:17:01 -0700

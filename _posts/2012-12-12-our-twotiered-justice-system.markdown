@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Our two-tiered justice system"
 date:   2012-12-12 09:50:58 -0800

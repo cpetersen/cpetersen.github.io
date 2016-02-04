@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Self-Cleaning Paint"
 date:   2014-04-28 13:15:06 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Navy Seal Commencement Speech"
 date:   2014-07-01 13:12:23 -0700

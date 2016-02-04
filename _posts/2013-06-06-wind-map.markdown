@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Wind Map"
 date:   2013-06-06 23:18:45 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "What our solar system looks like from a non-fixed perspective"
 date:   2013-02-28 22:28:18 -0800

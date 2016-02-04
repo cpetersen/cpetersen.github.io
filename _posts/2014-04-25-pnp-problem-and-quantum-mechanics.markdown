@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "P≠NP Problem and Quantum Mechanics"
 date:   2014-04-25 08:47:14 -0700

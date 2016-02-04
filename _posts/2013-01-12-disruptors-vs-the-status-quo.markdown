@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Disruptors vs the Status Quo"
 date:   2013-01-12 20:14:47 -0800

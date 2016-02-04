@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Phreaks and Geeks"
 date:   2013-02-08 11:23:56 -0800

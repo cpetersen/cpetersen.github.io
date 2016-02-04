@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Agency problems"
 date:   2012-10-20 10:44:12 -0700

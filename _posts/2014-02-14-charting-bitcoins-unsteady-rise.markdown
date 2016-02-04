@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Charting Bitcoin's Unsteady Rise"
 date:   2014-02-14 13:20:05 -0800

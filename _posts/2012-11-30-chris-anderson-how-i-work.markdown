@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Chris Anderson, How I Work"
 date:   2012-11-30 17:48:38 -0800

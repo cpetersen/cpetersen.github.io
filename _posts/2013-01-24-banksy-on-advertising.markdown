@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Banksy on Advertising"
 date:   2013-01-24 07:30:20 -0800

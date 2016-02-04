@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Sudden hockey stick growth doesn’t just happen."
 date:   2012-10-18 20:37:27 -0700

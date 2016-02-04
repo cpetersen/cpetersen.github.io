@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How a Bottle is Recycled in 6 Gifs"
 date:   2013-06-19 22:09:52 -0700

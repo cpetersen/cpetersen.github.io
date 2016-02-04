@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Nate Silver backlash"
 date:   2012-10-30 13:44:15 -0700

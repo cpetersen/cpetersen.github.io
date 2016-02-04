@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Bitcoin/Block Chain Roundup"
 date:   2014-06-12 10:44:52 -0700

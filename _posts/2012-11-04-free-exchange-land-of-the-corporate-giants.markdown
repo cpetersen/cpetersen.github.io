@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Free exchange: Land of the corporate giants"
 date:   2012-11-04 08:49:25 -0800

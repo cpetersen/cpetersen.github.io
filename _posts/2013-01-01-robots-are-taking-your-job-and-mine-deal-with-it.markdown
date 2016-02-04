@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Robots are taking your job and mine: deal with it"
 date:   2013-01-01 16:10:32 -0800

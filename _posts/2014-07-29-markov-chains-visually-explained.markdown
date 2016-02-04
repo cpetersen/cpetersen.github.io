@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Markov Chains Visually Explained"
 date:   2014-07-29 14:15:07 -0700

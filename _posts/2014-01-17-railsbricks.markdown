@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "RailsBricks"
 date:   2014-01-17 12:41:26 -0800

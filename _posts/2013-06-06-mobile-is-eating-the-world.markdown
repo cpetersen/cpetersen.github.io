@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Mobile is eating the World"
 date:   2013-06-06 23:09:34 -0700

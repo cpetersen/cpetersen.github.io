@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Visualizing Algorithms"
 date:   2014-07-02 14:43:45 -0700

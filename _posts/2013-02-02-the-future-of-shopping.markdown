@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Future of Shopping"
 date:   2013-02-02 12:40:21 -0800

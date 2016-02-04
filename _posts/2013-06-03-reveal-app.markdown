@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Reveal App"
 date:   2013-06-03 12:20:04 -0700

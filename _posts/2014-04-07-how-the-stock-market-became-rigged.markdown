@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How the stock market became “rigged”"
 date:   2014-04-07 10:23:59 -0700

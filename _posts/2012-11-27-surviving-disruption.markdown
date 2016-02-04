@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Surviving Disruption"
 date:   2012-11-27 22:05:23 -0800

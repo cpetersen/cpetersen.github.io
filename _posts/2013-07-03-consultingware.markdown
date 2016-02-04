@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Consultingware"
 date:   2013-07-03 23:14:10 -0700

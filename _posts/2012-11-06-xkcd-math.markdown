@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "xkcd: Math"
 date:   2012-11-06 23:50:01 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "What Happens When You Drop A Magnet Inside A Copper Tube"
 date:   2014-02-04 12:35:14 -0800

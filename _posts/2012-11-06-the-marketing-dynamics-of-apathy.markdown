@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The marketing dynamics of apathy"
 date:   2012-11-06 11:31:32 -0800

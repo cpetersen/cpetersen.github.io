@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Simplicity | Francis Pedraza"
 date:   2012-11-07 19:10:54 -0800

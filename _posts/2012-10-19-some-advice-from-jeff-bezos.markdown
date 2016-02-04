@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Some advice from Jeff Bezos"
 date:   2012-10-19 11:41:56 -0700

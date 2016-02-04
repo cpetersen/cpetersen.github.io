@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Magical Tech Behind Paper For iPad"
 date:   2012-11-08 19:52:47 -0800

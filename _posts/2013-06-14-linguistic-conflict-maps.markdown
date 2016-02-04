@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Linguistic Conflict Maps"
 date:   2013-06-14 10:57:10 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A moment in time"
 date:   2012-12-03 22:06:29 -0800

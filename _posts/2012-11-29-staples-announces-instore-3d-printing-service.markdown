@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Staples Announces In-Store 3-D Printing Service"
 date:   2012-11-29 12:35:59 -0800

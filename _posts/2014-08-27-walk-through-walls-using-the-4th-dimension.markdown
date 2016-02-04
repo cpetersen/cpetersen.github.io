@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Walk through walls using the 4th Dimension"
 date:   2014-08-27 13:08:22 -0700

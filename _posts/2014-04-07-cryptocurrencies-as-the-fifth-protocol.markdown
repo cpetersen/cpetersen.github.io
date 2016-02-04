@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "CryptoCurrencies as the Fifth Protocol"
 date:   2014-04-07 10:29:16 -0700

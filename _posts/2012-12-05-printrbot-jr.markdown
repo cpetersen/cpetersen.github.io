@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Printrbot jr."
 date:   2012-12-05 11:11:36 -0800

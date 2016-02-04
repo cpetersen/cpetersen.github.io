@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Life is a game. This is your strategy guide"
 date:   2014-02-17 07:57:14 -0800

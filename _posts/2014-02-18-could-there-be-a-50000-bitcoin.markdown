@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Could there be a $50,000 bitcoin?"
 date:   2014-02-18 09:14:42 -0800

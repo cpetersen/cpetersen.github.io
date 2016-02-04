@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Jobs fight: Haves vs. the have-nots"
 date:   2012-12-30 11:41:40 -0800

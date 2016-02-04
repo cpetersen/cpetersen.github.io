@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Presidential Candidate Comparison: Top Contributors"
 date:   2012-10-26 08:57:53 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Hard Truths"
 date:   2013-07-20 12:01:43 -0700

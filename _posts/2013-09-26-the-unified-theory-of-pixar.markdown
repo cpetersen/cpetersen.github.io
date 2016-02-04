@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Unified Theory of Pixar"
 date:   2013-09-26 16:09:24 -0700

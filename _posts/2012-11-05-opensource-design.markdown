@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Open-source design"
 date:   2012-11-05 15:00:38 -0800

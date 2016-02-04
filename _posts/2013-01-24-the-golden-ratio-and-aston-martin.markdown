@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Golden Ratio and Aston Martin"
 date:   2013-01-24 07:40:03 -0800

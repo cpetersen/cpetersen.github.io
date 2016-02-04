@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "57 startup lessons"
 date:   2013-08-20 22:29:07 -0700

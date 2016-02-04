@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "iOS7 will be flat"
 date:   2013-05-25 01:02:47 -0700

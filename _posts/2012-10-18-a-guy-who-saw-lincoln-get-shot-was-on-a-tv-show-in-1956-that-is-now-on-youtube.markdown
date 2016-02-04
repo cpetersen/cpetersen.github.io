@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "A Guy Who *Saw* Lincoln Get Shot Was on a TV Show in 1956 That Is Now on YouTube"
 date:   2012-10-18 21:37:02 -0700

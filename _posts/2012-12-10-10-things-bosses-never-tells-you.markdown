@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "10 Things Bosses Never Tells You"
 date:   2012-12-10 09:45:44 -0800

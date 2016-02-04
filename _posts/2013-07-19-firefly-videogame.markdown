@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Firefly Videogame"
 date:   2013-07-19 13:45:43 -0700

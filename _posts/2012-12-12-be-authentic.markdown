@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Be Authentic"
 date:   2012-12-12 08:12:26 -0800

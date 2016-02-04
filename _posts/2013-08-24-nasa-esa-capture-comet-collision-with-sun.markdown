@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "NASA, ESA capture comet collision with Sun"
 date:   2013-08-24 21:55:04 -0700

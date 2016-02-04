@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Martin Luther King"
 date:   2013-01-21 13:39:21 -0800

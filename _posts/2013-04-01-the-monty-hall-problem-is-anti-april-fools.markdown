@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Monty Hall Problem is Anti April Fools"
 date:   2013-04-01 08:57:16 -0700

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "To eat or be eaten?"
 date:   2012-11-30 09:10:44 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Inequality for All"
 date:   2013-02-04 12:05:25 -0800

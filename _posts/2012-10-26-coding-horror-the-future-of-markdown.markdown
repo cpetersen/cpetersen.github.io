@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Coding Horror: The Future of Markdown"
 date:   2012-10-26 11:22:00 -0700

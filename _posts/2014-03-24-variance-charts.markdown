@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Variance Charts"
 date:   2014-03-24 14:19:24 -0700

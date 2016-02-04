@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Kurt Vonnegut term paper assignment"
 date:   2012-12-03 21:59:13 -0800

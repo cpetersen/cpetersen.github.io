@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Never Be a Customer's Doormat"
 date:   2013-08-06 11:07:03 -0700

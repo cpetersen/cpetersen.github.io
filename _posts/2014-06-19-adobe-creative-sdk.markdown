@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Adobe Creative SDK"
 date:   2014-06-19 12:54:42 -0700

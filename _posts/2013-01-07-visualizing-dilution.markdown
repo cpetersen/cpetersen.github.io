@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Visualizing Dilution"
 date:   2013-01-07 16:27:49 -0800

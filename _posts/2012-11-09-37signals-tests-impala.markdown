@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "37Signals tests Impala"
 date:   2012-11-09 20:30:34 -0800

@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Elon Musk's Mission to Mars"
 date:   2012-11-02 11:22:04 -0700

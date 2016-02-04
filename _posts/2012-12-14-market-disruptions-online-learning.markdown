@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Market Disruptions & Online Learning"
 date:   2012-12-14 11:54:07 -0800

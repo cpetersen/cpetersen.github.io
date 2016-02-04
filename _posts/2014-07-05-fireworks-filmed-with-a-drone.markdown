@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Fireworks filmed with a drone"
 date:   2014-07-05 11:52:14 -0700

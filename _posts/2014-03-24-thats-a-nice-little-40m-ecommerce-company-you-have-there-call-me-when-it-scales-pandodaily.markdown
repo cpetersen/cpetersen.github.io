@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "That’s a nice little $40M ecommerce company you have there. Call me when it scales | PandoDaily"
 date:   2014-03-24 11:18:00 -0700

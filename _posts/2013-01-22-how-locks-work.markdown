@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "How Locks Work"
 date:   2013-01-22 10:09:03 -0800

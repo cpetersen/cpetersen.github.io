@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Visually Stunning Math Concepts"
 date:   2014-04-07 10:23:34 -0700

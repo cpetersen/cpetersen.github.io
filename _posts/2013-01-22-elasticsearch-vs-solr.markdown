@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "ElasticSearch vs Solr"
 date:   2013-01-22 08:31:38 -0800

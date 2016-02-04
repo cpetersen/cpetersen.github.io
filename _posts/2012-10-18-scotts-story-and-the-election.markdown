@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Scott’s Story and the Election"
 date:   2012-10-18 17:02:18 -0700

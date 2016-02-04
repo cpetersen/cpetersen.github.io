@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "The Hardware Renaissance"
 date:   2012-10-23 11:53:07 -0700

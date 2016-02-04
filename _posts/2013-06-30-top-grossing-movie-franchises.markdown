@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "Top Grossing Movie Franchises"
 date:   2013-06-30 20:32:08 -0700

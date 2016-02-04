@@ -1,3 +1,4 @@
+---
 layout: post
 title:  "In Technology Wars, Using the Patent as a Sword"
 date:   2012-10-08 08:21:48 -0700
