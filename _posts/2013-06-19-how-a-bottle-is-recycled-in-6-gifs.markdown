@@ -6,7 +6,7 @@ original_url: http://www.npr.org/blogs/money/2013/06/11/190668206/how-a-used-bot
 categories:
 ---
 
- ![Gobs](/attachments/cbf5e3177549baa408bda5ae4041e75a/image.png)  
+ ![Gobs](/assets/import/cbf5e3177549baa408bda5ae4041e75a.gif)  
 
  NPR shows how a bottle is recycled in 6 Gifs.
 

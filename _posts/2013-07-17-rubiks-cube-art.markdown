@@ -6,7 +6,7 @@ categories:
   - Misc
 ---
 
- ![](/attachments/bc194ec1e6f6d650b73bb6a460b65c41/image.png)  
+ ![](/assets/import/bc194ec1e6f6d650b73bb6a460b65c41.jpg)  
 
  Wow, just wow. 
 

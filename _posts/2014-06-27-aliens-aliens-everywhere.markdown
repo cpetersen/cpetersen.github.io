@@ -7,7 +7,7 @@ categories:
   - Science
 ---
 
-  ![Stars-small.jpg](/attachments/31f59b22ea4052244849c0ebe6cffd02/image.png)  
+  ![Stars-small.jpg](/assets/import/31f59b22ea4052244849c0ebe6cffd02.jpg)  
 
  Aliens, Aliens everywhere… or maybe not. 
 

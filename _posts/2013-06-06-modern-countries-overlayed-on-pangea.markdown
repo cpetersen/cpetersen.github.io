@@ -10,7 +10,7 @@ categories:
 
  
 
-  ![Here's what Pangea looks like mapped with modern political borders](/attachments/eece069c7d782fd0b6f7a49546e6ab77/image.png)  
+  ![Here's what Pangea looks like mapped with modern political borders](/assets/import/eece069c7d782fd0b6f7a49546e6ab77.jpg)  
 
  Ever wonder where our current countries were before Pangea drifted apart? Yeah, me either, but it's an interesting map nonetheless.
 

@@ -8,7 +8,7 @@ categories:
   - Map
 ---
 
- ![A humbling map of real-time wind patterns in Tornado Alley](/attachments/7abfef38b76feaedc2b1e29fc59421d7/image.png)  
+ ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.gif)  
 
  Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy! 
 

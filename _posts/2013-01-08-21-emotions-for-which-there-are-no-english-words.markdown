@@ -10,7 +10,7 @@ categories:
 
 
 
- ![514aaec3555300b8d9b52d23f891215e.png](/attachments/514aaec3555300b8d9b52d23f891215e/image.png) 
+ ![514aaec3555300b8d9b52d23f891215e.png](/assets/import/514aaec3555300b8d9b52d23f891215e.png) 
 
  I'm fascinated by how language can affect how we think. This infographic shows 12 emotions for which english doesn't have a word.
 

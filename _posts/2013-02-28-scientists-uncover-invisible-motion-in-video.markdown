@@ -9,7 +9,7 @@ categories:
 
 
 
- ![6fc0eb6b782c23bf5415470c5c43b532.png](/attachments/6fc0eb6b782c23bf5415470c5c43b532/image.png) 
+ ![6fc0eb6b782c23bf5415470c5c43b532.png](/assets/import/6fc0eb6b782c23bf5415470c5c43b532.png) 
 
  This is incredibly impressive and potentially important work. Researchers have figured out a way to amplify tiny changes in color and position in video. This allows you to accurately measure a person's pulse or respiratory cycle from a video. Importantly it works with any video, it's entirely done in post-processing, so no special equipment required. 
 

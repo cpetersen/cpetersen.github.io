@@ -9,7 +9,7 @@ categories:
   - Infographic
 ---
 
-  ![2f5e136de5463ae02408a99c43dfcea8.png](/attachments/2f5e136de5463ae02408a99c43dfcea8/image.png)  
+  ![2f5e136de5463ae02408a99c43dfcea8.png](/assets/import/2f5e136de5463ae02408a99c43dfcea8.png)  
 
  Jacob O’Neal publishes animated infographics at  [Animagraffs.com](http://animagraffs.com) , very cool, very informative. I love this sort of stuff. 
 

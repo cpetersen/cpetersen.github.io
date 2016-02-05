@@ -7,7 +7,7 @@ categories:
   - Guns
 ---
 
-  ![](/attachments/7ffc788d9be0bc57725e2458ea359749/image.png)  
+  ![](/assets/import/nra_ads.png)  
 
  Mother Jones delves into the last 90 years of NRA advertising.
 

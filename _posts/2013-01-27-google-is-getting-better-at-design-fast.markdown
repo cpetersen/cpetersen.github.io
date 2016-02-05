@@ -11,7 +11,7 @@ categories:
 
 
 
- ![c2af86014c52f29f8ff4f31fe9d8badf.png](/attachments/c2af86014c52f29f8ff4f31fe9d8badf/image.png) 
+ ![c2af86014c52f29f8ff4f31fe9d8badf.png](/assets/import/c2af86014c52f29f8ff4f31fe9d8badf.png) 
 
  The Verge looks at how Google is getting better at design without a single designer (like Jony Ive at Apple) leading the charge. It really boils down to a bold vision from Larry Page and a consistent design language that comes from communication. 
 

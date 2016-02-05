@@ -9,7 +9,7 @@ categories:
 
    
 
- ![e99918ffe8cbfad175e39230d54ae278.png](/attachments/e99918ffe8cbfad175e39230d54ae278/image.png) 
+ ![e99918ffe8cbfad175e39230d54ae278.png](/assets/import/e99918ffe8cbfad175e39230d54ae278.png) 
 
  > Laughter and tears are both responses to frustration and exhaustion. I myself prefer to laugh since there is less cleaning up to do afterward.
 

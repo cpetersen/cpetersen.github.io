@@ -17,7 +17,7 @@ categories:
 
  > 
  > 
- >  ![bb685be558a08f1bf3a74964091bcaa2.png](/attachments/bb685be558a08f1bf3a74964091bcaa2/image.png) 
+ >  ![bb685be558a08f1bf3a74964091bcaa2.png](/assets/import/bb685be558a08f1bf3a74964091bcaa2.png) 
  > 
  >  A pure, powerful core for your bitcoin project. 
  > 

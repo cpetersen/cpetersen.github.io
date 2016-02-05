@@ -8,7 +8,7 @@ categories:
   - Infographic
 ---
 
-  ![884a216d513be435ac2046ee0ccb6e74.png](/attachments/884a216d513be435ac2046ee0ccb6e74/image.png) 
+  ![884a216d513be435ac2046ee0ccb6e74.png](/assets/import/884a216d513be435ac2046ee0ccb6e74.png) 
 
  This is a great infographic from  [visual.ly](http://visual.ly)  showing how dilution works in a start up company.
 

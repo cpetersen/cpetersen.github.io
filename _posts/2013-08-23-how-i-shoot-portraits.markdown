@@ -7,7 +7,7 @@ categories:
   - How I
 ---
 
-  ![](/attachments/be39d71444917cebe6ea507bd8fce156/image.png)  
+  ![](/assets/import/2013-08-06-a blue outfit.jpg)  
 
  I am by no means a great photographer, but I do have a couple of tricks when it comes to shooting portraits that I thought I'd share. Here they are, in order of importance. 
 

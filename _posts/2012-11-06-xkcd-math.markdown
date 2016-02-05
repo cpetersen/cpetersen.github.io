@@ -9,5 +9,5 @@ categories:
 
 It's funny because it's true.
 
- >   ![Math](/attachments/6f4084c71619183902a9ed07bb4a88a8/image.png)  
+ >   ![Math](/assets/import/6f4084c71619183902a9ed07bb4a88a8.png)  
 

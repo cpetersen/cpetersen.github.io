@@ -10,7 +10,7 @@ categories:
 
 
 
- >   ![](/attachments/e20978c0b6ae82059fea8a7e82fd75fc/image.png)  Simple rendering of why you probably don’t like RealPlayer very much 
+ >   ![](/assets/import/1*L4lFc5fqzNXGHmuZOA7zjw.png)  Simple rendering of why you probably don’t like RealPlayer very much 
  > 
  >  “That’s what happens when we do the right thing”, he said while pointing at the drop, “and that’s how much money we lose. We tried it just to see how bad it was for our bottom line. And this is what the data tells us.” 
 

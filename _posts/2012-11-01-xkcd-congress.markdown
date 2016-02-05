@@ -11,5 +11,5 @@ categories:
 
 Wow, the dark red bar in the house starting around 1992 is terrifying. I love  [XKCD](http://xkcd.com).
 
- >  [![Congress](/attachments/bd1498e61435d2fcbcc7835b195a7ee9/image.png)](http://xkcd.com/1127) 
+ >  [![Congress](/assets/import/bd1498e61435d2fcbcc7835b195a7ee9.png)](http://xkcd.com/1127) 
 

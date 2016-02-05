@@ -20,7 +20,7 @@ categories:
 
  Sound impossible? Business Insider  [explains the math](http://www.businessinsider.com/the-monty-hall-problem-2013-3?op=1)  here and Wikipedia  [confirms](http://en.wikipedia.org/wiki/Monty_Hall_problem). 
 
-  ![](/attachments/1faf98b2d621500746e5b7c23207c3b4/image.png)  
+  ![](/assets/import/1faf98b2d621500746e5b7c23207c3b4.jpg)  
 
  It sounds crazy, but it's true! Happy April Fools!
 

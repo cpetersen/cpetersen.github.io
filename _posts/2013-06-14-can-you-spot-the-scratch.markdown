@@ -7,7 +7,7 @@ categories:
   - Sales
 ---
 
-  ![](/attachments/7f6cc6650bd5a9bba5b230ab6aede216/image.png) 
+  ![](/assets/import/7f6cc6650bd5a9bba5b230ab6aede216.jpg) 
 
  > 
  > 

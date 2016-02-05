@@ -6,7 +6,7 @@ categories:
   - Science
 ---
 
-  ![](/attachments/b1810dfdbb94476d4f74d67caedbcf50/image.png)  
+  ![](/assets/import/cost_per_genome_apr.png)  
 
  The cost of sequencing a genome is falling faster than Moore’s law. 
 

@@ -10,6 +10,6 @@ categories:
 
 Senator Elizabeth Warren introduces an updated Glass Steagall act, with a great tag line. 
 
-  ![](/attachments/97259bff719fbabbd3462372e7c0acc4/image.png)  
+  ![](/assets/import/97259bff719fbabbd3462372e7c0acc4.jpg)  
 
  

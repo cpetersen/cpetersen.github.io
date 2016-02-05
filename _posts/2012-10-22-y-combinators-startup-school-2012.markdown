@@ -13,7 +13,7 @@ Lots of gems in this post, but my favorite is "focus over features".
  > 
  >  __Tom Preston-Werner__. Founder, Github
  > 
- >  ![](/attachments/11c24e4e237a4b32f036fbafba209116/image.png) 
+ >  ![](/assets/import/11c24e4e237a4b32f036fbafba209116.jpg) 
  > 
  > 
  >  * If you have customers willing to pay before you even have a billing system, that’s a good sign.

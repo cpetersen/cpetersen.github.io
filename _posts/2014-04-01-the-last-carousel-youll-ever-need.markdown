@@ -9,7 +9,7 @@ categories:
   - Javascript
 ---
 
-  ![c85b54cab44bbe64c8a780cef2da1d24.png](/attachments/c85b54cab44bbe64c8a780cef2da1d24/image.png)  
+  ![c85b54cab44bbe64c8a780cef2da1d24.png](/assets/import/c85b54cab44bbe64c8a780cef2da1d24.png)  
 
  Looks like a nice new entrant into the javascript carousel market. Looks pretty nice, I can think of a few places where I could use something like this… but there’s also this: 
 

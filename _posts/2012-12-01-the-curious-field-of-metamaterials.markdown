@@ -9,7 +9,7 @@ categories:
 
 Wow, I had no idea "metamaterials" like this existed (or could exist)! This article discusses cloaking devices and a material that does the opposite of compressing (negative compression) when you squeeze it among other things. 
 
- >   [![](/attachments/24dfcc49cacdd97ff0f86d8346a0bfe5/image.png)](http://4.bp.blogspot.com/-EZSqpPCx28U/ULqiQhs-L-I/AAAAAAAACUI/Eax9H2N9Dgs/s1600/metamaterials.png)  
+ >   [![](/assets/import/24dfcc49cacdd97ff0f86d8346a0bfe5.png)](http://4.bp.blogspot.com/-EZSqpPCx28U/ULqiQhs-L-I/AAAAAAAACUI/Eax9H2N9Dgs/s1600/metamaterials.png)  
  > 
  >  __ What are metamaterials?__ 
  > 

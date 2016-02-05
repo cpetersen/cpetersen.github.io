@@ -8,7 +8,7 @@ categories:
   - Space
 ---
 
-  ![bc4f30d551c3ec5ade0644ad7a297e80.png](/attachments/bc4f30d551c3ec5ade0644ad7a297e80/image.png) 
+  ![bc4f30d551c3ec5ade0644ad7a297e80.png](/assets/import/bc4f30d551c3ec5ade0644ad7a297e80.png) 
 
  A global scale reproduction of Mars done entirely in  [voxel.js](http://voxeljs.com/). Pretty awesome. 
 

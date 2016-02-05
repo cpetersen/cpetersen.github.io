@@ -9,7 +9,7 @@ categories:
 
 
 
- >   ![iABKaVuLqAoA.jpg](/attachments/a71b6fa6b6a2655f2b68af2d2231f742/image.png)  
+ >   ![iABKaVuLqAoA.jpg](/assets/import/a71b6fa6b6a2655f2b68af2d2231f742.jpg)  
  > 
  >  Drone ships would be safer, cheaper and less polluting for the $375 billion shipping industry that carries 90 percent of world trade, Rolls-Royce says. They might be deployed in regions such as the Baltic Sea within a decade, while regulatory hurdles and industry and union skepticism about cost and safety will slow global adoption, said Oskar Levander, the company’s vice president of innovation in marine engineering and technology. 
 

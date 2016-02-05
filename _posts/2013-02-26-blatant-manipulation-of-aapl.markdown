@@ -9,7 +9,7 @@ categories:
 
 
 
- ![AAPL.022613.jpg](/attachments/d5eb46efebb894cd1fcc66cda1bd7afe/image.png) 
+ ![AAPL.022613.jpg](/assets/import/d5eb46efebb894cd1fcc66cda1bd7afe.jpg) 
 
  This is really disgusting, hedge fund manager spreads a completely unverifiable rumor,  [on twitter](https://twitter.com/DougKass/statuses/306475843784425472)  nonetheless, and profits from the result. Some choice quotes from the article: 
 

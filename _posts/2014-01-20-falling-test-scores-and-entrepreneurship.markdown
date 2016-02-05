@@ -10,7 +10,7 @@ categories:
 
 
 
- >  ![Screen-Shot-2014-01-03-at-8.59.40-AM.png](/attachments/f8cf14a9d622492c59c535e85081a765/image.png)  Zhao found an interesting and surprising result.  There was an inverse correlation between test scores and perceived entrepreneurship capabilities. The top PISA-performing countries of Korea, Singapore, Taiwan and Japan scored the lowest on perceived capabilities or confidence in their ability to start a new business. 
+ >  ![Screen-Shot-2014-01-03-at-8.59.40-AM.png](/assets/import/f8cf14a9d622492c59c535e85081a765.png)  Zhao found an interesting and surprising result.  There was an inverse correlation between test scores and perceived entrepreneurship capabilities. The top PISA-performing countries of Korea, Singapore, Taiwan and Japan scored the lowest on perceived capabilities or confidence in their ability to start a new business. 
 
  > 
 

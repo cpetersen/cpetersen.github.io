@@ -12,7 +12,7 @@ categories:
 
 ***
 
- ____   __ ![Connected Device Growth](/attachments/4b3d667ff62780184146b58d82b4d70a/image.png)__ A major media company was kind enough to ask me to speak to their senior executives at an off-site last week. 
+ ____   __ ![Connected Device Growth](/assets/import/4b3d667ff62780184146b58d82b4d70a.jpg)__ A major media company was kind enough to ask me to speak to their senior executives at an off-site last week. 
 
 The topic was an overview of the digital industry.
 

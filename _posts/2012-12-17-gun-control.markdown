@@ -21,6 +21,6 @@ I don't think the author is explicitly calling for no gun regulation, but the "i
  > 
  > ### Gun
  > 
- >  ![liberator](/attachments/36cfc83cff05962b35f6160189b78468/image.png) 
+ >  ![liberator](/assets/import/36cfc83cff05962b35f6160189b78468.jpg) 
  > 
  > 

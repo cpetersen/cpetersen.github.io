@@ -9,7 +9,7 @@ categories:
 
 
 
- >   ![a_560x375.jpg](/attachments/3a1def8a2c6ede63eaac4d6f359ab8df/image.png)  
+ >   ![a_560x375.jpg](/assets/import/3a1def8a2c6ede63eaac4d6f359ab8df.jpg)  
  > 
  >  The last thought I had, and the saddest, was that many of these self-righteous Kappa Beta Phi members had surely been first-year bankers once. And in the 20, 30, or 40 years since, something fundamental about them had changed. Their pursuit of money and power had removed them from the larger world to the sad extent that, now, in the primes of their careers, the only people with whom they could be truly themselves were a handful of other prominent financiers. 
  > 

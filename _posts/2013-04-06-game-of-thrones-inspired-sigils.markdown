@@ -6,7 +6,7 @@ original_url: http://www.quora.com/Game-of-Thrones-TV-series/What-are-some-of-th
 categories:
 ---
 
-  ![](/attachments/ce18ec8f3fd579f7930d43fc3f7a1557/image.png) 
+  ![](/assets/import/ce18ec8f3fd579f7930d43fc3f7a1557.jpg) 
 
  A collection of Game of Thrones inspired sigils. People are so creative.
 

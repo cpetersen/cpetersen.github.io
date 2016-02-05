@@ -7,7 +7,7 @@ categories:
   - Space
 ---
 
-  ![](/attachments/d18332db041bbf3b6d5d037bad4c8a2e/image.png) 
+  ![](/assets/import/d18332db041bbf3b6d5d037bad4c8a2e.jpg) 
 
  This is what the planets would look like if they were as far away as the moon… gravitational forces notwithstanding.
 

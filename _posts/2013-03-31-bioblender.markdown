@@ -8,7 +8,7 @@ categories:
   - Science
 ---
 
-  ![BBSplash.png](/attachments/7202a809872ea3b997defdcd19055442/image.png) 
+  ![BBSplash.png](/assets/import/7202a809872ea3b997defdcd19055442.png) 
 
  > BioBlender is a software package built on the open-source 3D modeling software Blender.
  > 

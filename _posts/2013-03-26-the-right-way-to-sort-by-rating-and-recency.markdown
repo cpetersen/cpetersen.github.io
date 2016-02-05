@@ -8,7 +8,7 @@ categories:
   - Software
 ---
 
-  ![](/attachments/286d3b2264f6c700c1eab7b6f52c89e7/image.png) 
+  ![](/assets/import/286d3b2264f6c700c1eab7b6f52c89e7.png) 
 
  Let's say you have a website with user generated ratings. You might think that sorting items by rating would be an easy feature to implement. Well, depending on your definition of easy, you'd likely be wrong. The crux of the issue is, what happens when you have an item that has a single 5 star rating and another that has 1000 ratings with an average of 4.5 stars? 
 
@@ -26,7 +26,7 @@ categories:
 
  Where T is the time in hours and G is a configurable "Gravity". The following graph shows how the algorithm treats three different scores over time. 
 
- ![score_24_hours.gif](/attachments/8d65e532307459bdbcb9db784c3cb7cd/image.png) 
+ ![score_24_hours.gif](/assets/import/8d65e532307459bdbcb9db784c3cb7cd.gif) 
 
  These two methods could be combined, but I'll leave that as an exercise for the reader. 
 

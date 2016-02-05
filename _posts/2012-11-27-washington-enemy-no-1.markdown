@@ -19,4 +19,4 @@ The Republican party should jettison all of this Grover Norquist crap. Taxes are
 
 For 20 years Democrats have tried over and over to trick Republicans into breaking the pledge. It hasn't happened. This isn't my first rodeo.
 
-  ![image](/attachments/cde10a4d2202b7a41812cf7a056196e6/image.png)  
+  ![image](/assets/import/cde10a4d2202b7a41812cf7a056196e6.jpg)  

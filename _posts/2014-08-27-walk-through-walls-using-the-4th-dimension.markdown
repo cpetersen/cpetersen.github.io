@@ -8,6 +8,6 @@ categories:
   - Videogame
 ---
 
-This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9yW--eQaA2I" frameborder="0" allowfullscreen></iframe>
 
- 
+This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls.

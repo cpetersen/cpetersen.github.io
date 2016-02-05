@@ -7,7 +7,7 @@ categories:
   - Web
 ---
 
-  ![](/attachments/d0a43a00e69925bc21d2e9e8c111c31f/image.png)  
+  ![](/assets/import/dancing-bender.gif)  
 
  This dancing Bender was created entirely using HTML5 and CSS3. No javascript at all. Actually what you see above is an animated gif, click through for  [the actual HTML+CSS version](http://liveweave.com/RJPtIu). 
 

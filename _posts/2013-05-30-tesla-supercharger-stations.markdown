@@ -11,6 +11,6 @@ Tesla offers free charging for Model S owners at their Supercharger stations. Th
 
  > 
  > 
- >   ![Model S at Supercharger](/attachments/5d33906aa1b4d71332f27bb956f18a52/image.png)  
+ >   ![Model S at Supercharger](/assets/import/5d33906aa1b4d71332f27bb956f18a52.jpg)  
  > 
  > 

@@ -10,7 +10,7 @@ categories:
 
 
 
- ![2514641584_84cf3b8a89_o.jpeg](/attachments/6b179bfadcfe982d3bc7a5dccdd555b3/image.png) 
+ ![2514641584_84cf3b8a89_o.jpeg](/assets/import/6b179bfadcfe982d3bc7a5dccdd555b3.jpg) 
 
  There are some real gems in here. I think we can all agree that forcing recent grads to leave the country isn't a smart idea.
 

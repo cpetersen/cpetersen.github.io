@@ -9,5 +9,5 @@ categories:
 
 Mother Jones debunks 10 of the most common pro-gun myths in this well researched and well referenced article.
 
- >   ![gun ownership](/attachments/dc1ba15736c967b11e95c9adba4a04c9/image.png)  
+ >   ![gun ownership](/assets/import/dc1ba15736c967b11e95c9adba4a04c9.jpg)  
 

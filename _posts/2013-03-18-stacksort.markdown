@@ -11,7 +11,7 @@ This is a pretty amazing use of  [StackOverflow](http://stackoverflow.com).
 
 Based on  [this XKCD comic](http://xkcd.com/1185/).
 
- >   ![](/attachments/2761f8f3e2593f39d374a5c4fbba3271/image.png) 
+ >   ![](/assets/import/2761f8f3e2593f39d374a5c4fbba3271.png) 
  > 
  > ### stack __sort__ 
  > 

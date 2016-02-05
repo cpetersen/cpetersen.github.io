@@ -8,7 +8,7 @@ categories:
   - Map
 ---
 
-  ![](/attachments/aed69b5b7ab2c20f025ebd3a2e3cc7d2/image.png)  
+  ![](/assets/import/IMG_0055.PNG)  
 
  Explorer buildings in the Netherlands color coded by the year they were constructed.
 

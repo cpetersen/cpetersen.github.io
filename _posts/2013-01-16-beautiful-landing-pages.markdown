@@ -8,6 +8,6 @@ categories:
   - Design
 ---
 
- [![spotify_01_13](/attachments/dc3851789dd63ea6aee1fbab52edd0be/image.png)](http://www.spotify.com/int/video-splash/)  
+ [![spotify_01_13](/assets/import/dc3851789dd63ea6aee1fbab52edd0be.png)](http://www.spotify.com/int/video-splash/)  
 
  Need some inspiration for your next landing page?  [Land book](http://land-book.com)  is a collection of beautiful landing pages. I'll check them out next time I need to build/design one.
