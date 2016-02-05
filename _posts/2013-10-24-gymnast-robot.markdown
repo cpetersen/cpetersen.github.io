@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Gymnast Robot"
-date:   2013-10-24 12:53:33 -0700
+layout:       post
+title:        "Gymnast Robot"
+date:         2013-10-24 12:53:33 -0700
 categories:
   - Drones
   - Robots

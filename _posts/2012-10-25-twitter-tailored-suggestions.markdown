@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Twitter Tailored Suggestions"
-date:   2012-10-25 13:41:22 -0700
+layout:       post
+title:        "Twitter Tailored Suggestions"
+date:         2012-10-25 13:41:22 -0700
+original_url: https://support.twitter.com/articles/20169421
 categories:
   - Web
 ---

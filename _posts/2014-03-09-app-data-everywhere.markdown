@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "App Data, Everywhere"
-date:   2014-03-09 22:15:48 -0700
+layout:       post
+title:        "App Data, Everywhere"
+date:         2014-03-09 22:15:48 -0700
 categories:
   - Web
   - Software

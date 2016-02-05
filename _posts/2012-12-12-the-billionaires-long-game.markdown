@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Billionaires' Long Game"
-date:   2012-12-12 09:23:30 -0800
+layout:       post
+title:        "The Billionaires' Long Game"
+date:         2012-12-12 09:23:30 -0800
+original_url: http://robertreich.org/post/37752857908
 categories:
   - Finance
   - Politics

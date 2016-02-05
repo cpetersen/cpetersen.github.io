@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Learning Myth"
-date:   2014-08-25 09:24:19 -0700
+layout:       post
+title:        "The Learning Myth"
+date:         2014-08-25 09:24:19 -0700
+original_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-im-cautious-about-telling-my
 categories:
   - Education
   - Parenting

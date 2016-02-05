@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "NASA Satellites See Sandy Expand as Storm Intensifies"
-date:   2012-10-28 15:47:10 -0700
+layout:       post
+title:        "NASA Satellites See Sandy Expand as Storm Intensifies"
+date:         2012-10-28 15:47:10 -0700
 categories:
   - Misc
 ---

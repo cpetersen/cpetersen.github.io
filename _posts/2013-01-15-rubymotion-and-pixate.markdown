@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "RubyMotion and Pixate"
-date:   2013-01-15 10:08:17 -0800
+layout:       post
+title:        "RubyMotion and Pixate"
+date:         2013-01-15 10:08:17 -0800
+original_url: http://pixate.github.com/RubyMotion-Pixate/
 categories:
   - iOS
   - Software

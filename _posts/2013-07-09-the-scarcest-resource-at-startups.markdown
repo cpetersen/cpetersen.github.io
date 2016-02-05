@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Scarcest Resource at Startups..."
-date:   2013-07-09 20:36:59 -0700
+layout:       post
+title:        "The Scarcest Resource at Startups..."
+date:         2013-07-09 20:36:59 -0700
+original_url: https://www.blossom.io/blog/2013/06/26/the-scarcest-resource-at-startups-is-management-bandwidth.html?utm_content=wunderlist&utm_source=wunderlist&utm_medium=twitter&utm_campaign=wunderlist
 categories:
   - Startups
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "37Signals tests Impala"
-date:   2012-11-09 20:30:34 -0800
+layout:       post
+title:        "37Signals tests Impala"
+date:         2012-11-09 20:30:34 -0800
+original_url: http://37signals.com/svn/posts/3315-how-i-came-to-love-big-data-or-at-least-acknowledge-its-existence
 categories:
   - Software
   - Big Data

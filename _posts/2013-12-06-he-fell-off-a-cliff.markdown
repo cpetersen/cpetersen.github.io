@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "He Fell Off a Cliff"
-date:   2013-12-06 13:12:57 -0800
+layout:       post
+title:        "He Fell Off a Cliff"
+date:         2013-12-06 13:12:57 -0800
 categories:
   - Misc
 ---

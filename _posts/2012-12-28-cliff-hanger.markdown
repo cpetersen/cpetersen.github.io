@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Cliff Hanger"
-date:   2012-12-28 14:04:31 -0800
+layout:       post
+title:        "Cliff Hanger"
+date:         2012-12-28 14:04:31 -0800
+original_url: http://robertreich.org/
 categories:
   - Politics
 ---

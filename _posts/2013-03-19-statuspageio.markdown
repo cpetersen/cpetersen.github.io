@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "StatusPage.io"
-date:   2013-03-19 10:54:58 -0700
+layout:       post
+title:        "StatusPage.io"
+date:         2013-03-19 10:54:58 -0700
+original_url: https://www.statuspage.io/
 categories:
   - Web
   - Software

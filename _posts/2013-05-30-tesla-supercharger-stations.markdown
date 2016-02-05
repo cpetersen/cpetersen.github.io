@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Tesla Supercharger Stations"
-date:   2013-05-30 12:51:09 -0700
+layout:       post
+title:        "Tesla Supercharger Stations"
+date:         2013-05-30 12:51:09 -0700
+original_url: http://www.teslamotors.com/supercharger
 categories:
   - Misc
 ---

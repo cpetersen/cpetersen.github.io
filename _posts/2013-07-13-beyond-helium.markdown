@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Beyond Helium"
-date:   2013-07-13 21:56:32 -0700
+layout:       post
+title:        "Beyond Helium"
+date:         2013-07-13 21:56:32 -0700
+original_url: http://www.judegomila.com/post/55386351452/beyond-helium
 categories:
   - Misc
 ---

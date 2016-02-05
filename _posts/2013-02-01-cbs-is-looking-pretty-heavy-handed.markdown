@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "CBS is looking pretty heavy handed"
-date:   2013-02-01 18:08:53 -0800
+layout:       post
+title:        "CBS is looking pretty heavy handed"
+date:         2013-02-01 18:08:53 -0800
 categories:
 ---
 

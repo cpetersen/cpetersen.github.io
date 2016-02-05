@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Modern countries overlayed on Pangea"
-date:   2013-06-06 23:14:40 -0700
+layout:       post
+title:        "Modern countries overlayed on Pangea"
+date:         2013-06-06 23:14:40 -0700
+original_url: http://io9.com/heres-what-pangea-looks-like-mapped-with-modern-politi-509812695
 categories:
   - Misc
   - Map

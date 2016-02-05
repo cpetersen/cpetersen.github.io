@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "2012: The Year in Graphs"
-date:   2012-12-28 14:15:36 -0800
+layout:       post
+title:        "2012: The Year in Graphs"
+date:         2012-12-28 14:15:36 -0800
+original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/12/27/2012-the-year-in-graphs/
 categories:
   - Data Visualization
 ---

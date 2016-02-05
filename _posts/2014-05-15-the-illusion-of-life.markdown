@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The illusion of life"
-date:   2014-05-15 22:34:52 -0700
+layout:       post
+title:        "The illusion of life"
+date:         2014-05-15 22:34:52 -0700
 categories:
   - Misc
 ---

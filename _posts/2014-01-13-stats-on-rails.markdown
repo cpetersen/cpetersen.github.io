@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Stats on Rails"
-date:   2014-01-13 14:07:18 -0800
+layout:       post
+title:        "Stats on Rails"
+date:         2014-01-13 14:07:18 -0800
 categories:
   - Draft
 ---

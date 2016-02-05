@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Struggle"
-date:   2012-10-17 12:37:46 -0700
+layout:       post
+title:        "The Struggle"
+date:         2012-10-17 12:37:46 -0700
+original_url: http://bhorowitz.com/2012/06/15/the-struggle/
 categories:
   - Startups
   - NoEmbed

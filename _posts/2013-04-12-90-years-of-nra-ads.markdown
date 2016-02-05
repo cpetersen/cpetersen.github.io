@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "90 years of NRA ads"
-date:   2013-04-12 18:05:34 -0700
+layout:       post
+title:        "90 years of NRA ads"
+date:         2013-04-12 18:05:34 -0700
+original_url: http://www.motherjones.com/politics/2013/03/national-rifle-association-ads-history
 categories:
   - Guns
 ---

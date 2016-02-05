@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Banking should be Boring"
-date:   2013-07-12 09:29:40 -0700
+layout:       post
+title:        "Banking should be Boring"
+date:         2013-07-12 09:29:40 -0700
 categories:
   - Banks
 ---

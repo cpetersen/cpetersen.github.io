@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Tesla Battery Swap"
-date:   2013-06-26 21:53:01 -0700
+layout:       post
+title:        "Tesla Battery Swap"
+date:         2013-06-26 21:53:01 -0700
+original_url: http://www.teslamotors.com/batteryswap
 categories:
   - Technology
 ---

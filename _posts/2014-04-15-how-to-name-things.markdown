@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "How to Name Things"
-date:   2014-04-15 09:34:34 -0700
+layout:       post
+title:        "How to Name Things"
+date:         2014-04-15 09:34:34 -0700
 categories:
   - Startups
 ---

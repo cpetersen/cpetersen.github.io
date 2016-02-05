@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Sandflea is a Leaping Robot"
-date:   2013-04-06 15:32:29 -0700
+layout:       post
+title:        "Sandflea is a Leaping Robot"
+date:         2013-04-06 15:32:29 -0700
+original_url: http://bostondynamics.com/robot_sandflea.html
 categories:
   - Drones
 ---

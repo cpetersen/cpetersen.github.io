@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Unfixed Brain"
-date:   2013-12-01 16:46:56 -0800
+layout:       post
+title:        "The Unfixed Brain"
+date:         2013-12-01 16:46:56 -0800
 categories:
   - Science
 ---

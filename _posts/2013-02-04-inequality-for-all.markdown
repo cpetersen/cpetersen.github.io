@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Inequality for All"
-date:   2013-02-04 12:05:25 -0800
+layout:       post
+title:        "Inequality for All"
+date:         2013-02-04 12:05:25 -0800
+original_url: http://www.guardian.co.uk/film/2013/feb/02/inequality-for-all-us-economy-robert-reich
 categories:
   - Politics
   - Economics

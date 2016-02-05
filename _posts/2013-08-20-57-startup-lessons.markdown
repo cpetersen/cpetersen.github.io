@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "57 startup lessons"
-date:   2013-08-20 22:29:07 -0700
+layout:       post
+title:        "57 startup lessons"
+date:         2013-08-20 22:29:07 -0700
+original_url: http://www.defmacro.org/2013/07/23/startup-lessons.html
 categories:
   - Startups
 ---

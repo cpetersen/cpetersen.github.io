@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The last carousel you'll ever need"
-date:   2014-04-01 09:44:44 -0700
+layout:       post
+title:        "The last carousel you'll ever need"
+date:         2014-04-01 09:44:44 -0700
+original_url: http://kenwheeler.github.io/slick/
 categories:
   - Web
   - Software

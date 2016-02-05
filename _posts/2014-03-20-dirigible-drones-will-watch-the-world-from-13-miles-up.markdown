@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Dirigible Drones Will Watch the World From 13 Miles Up"
-date:   2014-03-20 12:43:32 -0700
+layout:       post
+title:        "Dirigible Drones Will Watch the World From 13 Miles Up"
+date:         2014-03-20 12:43:32 -0700
+original_url: http://www.wired.com/dangerroom/2014/03/dirgibles/
 categories:
   - Drones
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Blatant manipulation of $AAPL"
-date:   2013-02-26 17:49:18 -0800
+layout:       post
+title:        "Blatant manipulation of $AAPL"
+date:         2013-02-26 17:49:18 -0800
+original_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossible-apple-stock-split-helps-fund-manager-clear-profits
 categories:
   - Finance
 ---

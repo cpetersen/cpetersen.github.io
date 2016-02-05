@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Into The Atmosphere"
-date:   2013-12-12 08:28:00 -0800
+layout:       post
+title:        "Into The Atmosphere"
+date:         2013-12-12 08:28:00 -0800
 categories:
   - Misc
 ---

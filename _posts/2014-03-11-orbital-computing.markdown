@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Orbital Computing"
-date:   2014-03-11 18:09:56 -0700
+layout:       post
+title:        "Orbital Computing"
+date:         2014-03-11 18:09:56 -0700
+original_url: http://gigaom.com/2014/03/10/physicist-proposes-a-new-type-of-computing-at-sxsw-check-out-orbital-computing/
 categories:
   - NoEmbed
   - Computers

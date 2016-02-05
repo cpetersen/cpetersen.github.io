@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Drone Ships"
-date:   2014-02-25 13:47:11 -0800
+layout:       post
+title:        "Drone Ships"
+date:         2014-02-25 13:47:11 -0800
+original_url: http://www.bloomberg.com/news/2014-02-25/rolls-royce-drone-ships-challenge-375-billion-industry-freight.html
 categories:
   - Drones
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Infinite Series and the Mind-Blowing Result."
-date:   2014-01-20 09:40:13 -0800
+layout:       post
+title:        "The Infinite Series and the Mind-Blowing Result."
+date:         2014-01-20 09:40:13 -0800
+original_url: http://www.slate.com/blogs/bad_astronomy/2014/01/18/follow_up_the_infinite_series_and_the_mind_blowing_result.html
 categories:
   - Science
   - Math

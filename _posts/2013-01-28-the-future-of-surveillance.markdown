@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Future of Surveillance"
-date:   2013-01-28 12:04:40 -0800
+layout:       post
+title:        "The Future of Surveillance"
+date:         2013-01-28 12:04:40 -0800
 categories:
   - Technology
   - Drones

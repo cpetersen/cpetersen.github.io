@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Simplicity | Francis Pedraza"
-date:   2012-11-07 19:10:54 -0800
+layout:       post
+title:        "Simplicity | Francis Pedraza"
+date:         2012-11-07 19:10:54 -0800
+original_url: http://francispedraza.com/simplicity
 categories:
   - Misc
 ---

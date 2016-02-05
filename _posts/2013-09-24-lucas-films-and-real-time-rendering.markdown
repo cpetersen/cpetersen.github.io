@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Lucas Films and Real Time Rendering"
-date:   2013-09-24 11:43:23 -0700
+layout:       post
+title:        "Lucas Films and Real Time Rendering"
+date:         2013-09-24 11:43:23 -0700
+original_url: http://www.thatvideosite.com/v/11118/lucasfilm-shows-off-the-future-of-filmmaking-scenes-get-rendered-out-in-real-time-removing-the-need-for-post-production
 categories:
   - Movies
   - Videogame

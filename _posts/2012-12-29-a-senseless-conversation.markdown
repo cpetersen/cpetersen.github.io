@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "A Senseless Conversation"
-date:   2012-12-29 10:17:10 -0800
+layout:       post
+title:        "A Senseless Conversation"
+date:         2012-12-29 10:17:10 -0800
+original_url: https://sites.google.com/site/asenselessconversation/
 categories:
   - Misc
   - Short Story

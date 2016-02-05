@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Code Guide by @mdo"
-date:   2014-03-06 09:57:07 -0800
+layout:       post
+title:        "Code Guide by @mdo"
+date:         2014-03-06 09:57:07 -0800
+original_url: http://mdo.github.io/code-guide/
 categories:
   - Web
   - Software

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "7 Ways to Decompose Fat ActiveRecord Models"
-date:   2012-10-17 10:16:36 -0700
+layout:       post
+title:        "7 Ways to Decompose Fat ActiveRecord Models"
+date:         2012-10-17 10:16:36 -0700
+original_url: http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 categories:
   - Software
 ---

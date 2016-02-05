@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "You are not a storyteller"
-date:   2014-08-05 07:38:00 -0700
+layout:       post
+title:        "You are not a storyteller"
+date:         2014-08-05 07:38:00 -0700
 categories:
   - Misc
   - Design

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Mantis Shrimp"
-date:   2013-04-09 11:19:36 -0700
+layout:       post
+title:        "The Mantis Shrimp"
+date:         2013-04-09 11:19:36 -0700
+original_url: http://theoatmeal.com/comics/mantis_shrimp
 categories:
   - Funny
 ---

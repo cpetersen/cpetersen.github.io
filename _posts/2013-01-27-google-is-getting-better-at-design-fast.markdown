@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Google is getting better at design... Fast"
-date:   2013-01-27 09:28:08 -0800
+layout:       post
+title:        "Google is getting better at design... Fast"
+date:         2013-01-27 09:28:08 -0800
+original_url: http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution
 categories:
   - Web
   - Design

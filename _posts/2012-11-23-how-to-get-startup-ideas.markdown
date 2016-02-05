@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to Get Startup Ideas"
-date:   2012-11-23 22:25:17 -0800
+layout:       post
+title:        "How to Get Startup Ideas"
+date:         2012-11-23 22:25:17 -0800
+original_url: http://paulgraham.com/startupideas.html
 categories:
   - Startups
 ---

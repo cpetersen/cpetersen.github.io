@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Work vs Assets"
-date:   2013-04-12 08:44:56 -0700
+layout:       post
+title:        "Work vs Assets"
+date:         2013-04-12 08:44:56 -0700
+original_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
 categories:
   - Startups
 ---

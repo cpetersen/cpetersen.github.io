@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Phishing Has Gotten Very Good"
-date:   2013-03-01 22:33:28 -0800
+layout:       post
+title:        "Phishing Has Gotten Very Good"
+date:         2013-03-01 22:33:28 -0800
+original_url: http://www.schneier.com/blog/archives/2013/03/phishing_has_go.html
 categories:
   - Software
   - Security

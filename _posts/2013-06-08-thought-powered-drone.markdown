@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Thought powered drone"
-date:   2013-06-08 23:20:28 -0700
+layout:       post
+title:        "Thought powered drone"
+date:         2013-06-08 23:20:28 -0700
 categories:
   - Drones
 ---

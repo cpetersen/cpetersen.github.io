@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Open-source design"
-date:   2012-11-05 15:00:38 -0800
+layout:       post
+title:        "Open-source design"
+date:         2012-11-05 15:00:38 -0800
+original_url: http://www.economist.com/blogs/schumpeter/2012/11/open-source-design
 categories:
   - Maker
 ---

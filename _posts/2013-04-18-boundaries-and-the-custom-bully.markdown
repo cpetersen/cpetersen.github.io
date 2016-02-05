@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Boundaries and the Custom Bully"
-date:   2013-04-18 11:38:07 -0700
+layout:       post
+title:        "Boundaries and the Custom Bully"
+date:         2013-04-18 11:38:07 -0700
+original_url: http://sethgodin.typepad.com/seths_blog/2013/04/avoiding-the-custom-bully.html
 categories:
   - Startups
 ---

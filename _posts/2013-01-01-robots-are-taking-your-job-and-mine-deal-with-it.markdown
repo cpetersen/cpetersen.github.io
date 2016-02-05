@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Robots are taking your job and mine: deal with it"
-date:   2013-01-01 16:10:32 -0800
+layout:       post
+title:        "Robots are taking your job and mine: deal with it"
+date:         2013-01-01 16:10:32 -0800
+original_url: http://boingboing.net/2013/01/01/robots-are-taking-your-job-and.html
 categories:
   - Technology
 ---

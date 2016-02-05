@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Can a Jellyfish Unlock the Secret of Immortality?"
-date:   2012-11-28 17:55:50 -0800
+layout:       post
+title:        "Can a Jellyfish Unlock the Secret of Immortality?"
+date:         2012-11-28 17:55:50 -0800
+original_url: http://www.nytimes.com/2012/12/02/magazine/can-a-jellyfish-unlock-the-secret-of-immortality.html?hp&_r=0&pagewanted=all
 categories:
   - Science
 ---

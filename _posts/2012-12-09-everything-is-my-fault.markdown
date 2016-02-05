@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Everything is my fault"
-date:   2012-12-09 13:44:36 -0800
+layout:       post
+title:        "Everything is my fault"
+date:         2012-12-09 13:44:36 -0800
+original_url: http://sivers.org/my-fault
 categories:
   - Philosophy
 ---

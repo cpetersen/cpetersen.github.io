@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Metrics, Metrics Everywhere"
-date:   2013-03-21 14:05:50 -0700
+layout:       post
+title:        "Metrics, Metrics Everywhere"
+date:         2013-03-21 14:05:50 -0700
+original_url: http://pivotallabs.com/139-metrics-metrics-everywhere/
 categories:
   - Software
   - Metrics

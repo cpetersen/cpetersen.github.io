@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Who Gets Your Best?"
-date:   2013-09-20 12:34:32 -0700
+layout:       post
+title:        "Who Gets Your Best?"
+date:         2013-09-20 12:34:32 -0700
+original_url: http://sethgodin.typepad.com/seths_blog/2013/09/unreasonable-clients.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29
 categories:
   - Draft
 ---

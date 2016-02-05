@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Hangover"
-date:   2013-05-29 03:44:36 -0700
+layout:       post
+title:        "Hangover"
+date:         2013-05-29 03:44:36 -0700
+original_url: http://www.datagenetics.com/blog/may32013/index.html
 categories:
   - Science
 ---

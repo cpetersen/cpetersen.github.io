@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to Convince Investors"
-date:   2013-08-07 13:51:51 -0700
+layout:       post
+title:        "How to Convince Investors"
+date:         2013-08-07 13:51:51 -0700
+original_url: http://paulgraham.com/convince.html
 categories:
   - Startups
 ---

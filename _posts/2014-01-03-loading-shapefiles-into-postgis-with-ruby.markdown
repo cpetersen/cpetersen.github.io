@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Loading Shapefiles into PostGIS with Ruby"
-date:   2014-01-03 15:05:13 -0800
+layout:       post
+title:        "Loading Shapefiles into PostGIS with Ruby"
+date:         2014-01-03 15:05:13 -0800
 categories:
   - Software
   - Draft

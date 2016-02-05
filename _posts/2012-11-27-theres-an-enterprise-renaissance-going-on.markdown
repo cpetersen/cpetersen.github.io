@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "There’s An Enterprise Renaissance Going On"
-date:   2012-11-27 09:38:21 -0800
+layout:       post
+title:        "There’s An Enterprise Renaissance Going On"
+date:         2012-11-27 09:38:21 -0800
+original_url: http://techcrunch.com/2012/11/14/andreessen-horowitz-general-partner-peter-levine-theres-an-enterprise-renaissance-going-on/
 categories:
   - Startups
   - NoEmbed

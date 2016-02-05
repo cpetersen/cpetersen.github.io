@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Sudden hockey stick growth doesn’t just happen."
-date:   2012-10-18 20:37:27 -0700
+layout:       post
+title:        "Sudden hockey stick growth doesn’t just happen."
+date:         2012-10-18 20:37:27 -0700
+original_url: http://pandodaily.com/2012/10/18/instagrams-kevin-systrom-sudden-hockey-stick-growth-doesnt-just-happen/
 categories:
   - Startups
   - NoEmbed

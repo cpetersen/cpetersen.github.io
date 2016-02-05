@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Skaters and Hackers"
-date:   2013-08-06 10:13:39 -0700
+layout:       post
+title:        "Skaters and Hackers"
+date:         2013-08-06 10:13:39 -0700
 categories:
   - Misc
   - Software

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How the sky would look if the planets were as close as the moon"
-date:   2013-04-09 08:46:12 -0700
+layout:       post
+title:        "How the sky would look if the planets were as close as the moon"
+date:         2013-04-09 08:46:12 -0700
+original_url: http://twentytwowords.com/2013/04/04/how-the-sky-would-look-if-the-planets-were-as-close-as-the-moon-8-pictures/
 categories:
   - Space
 ---

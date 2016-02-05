@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Racial Dot Map"
-date:   2013-08-26 14:11:40 -0700
+layout:       post
+title:        "The Racial Dot Map"
+date:         2013-08-26 14:11:40 -0700
+original_url: http://demographics.coopercenter.org/DotMap/index.html
 categories:
   - Data Visualization
   - Map

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Walk through walls using the 4th Dimension"
-date:   2014-08-27 13:08:22 -0700
+layout:       post
+title:        "Walk through walls using the 4th Dimension"
+date:         2014-08-27 13:08:22 -0700
+original_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/
 categories:
   - Data Visualization
   - Videogame

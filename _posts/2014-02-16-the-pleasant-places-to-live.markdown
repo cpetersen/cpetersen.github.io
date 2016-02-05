@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Pleasant Places to Live"
-date:   2014-02-16 07:23:06 -0800
+layout:       post
+title:        "The Pleasant Places to Live"
+date:         2014-02-16 07:23:06 -0800
+original_url: http://www.kellegous.com/j/2014/02/03/pleasant-places/
 categories:
   - Data Visualization
   - Weather

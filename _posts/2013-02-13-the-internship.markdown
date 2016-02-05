@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Internship"
-date:   2013-02-13 14:41:29 -0800
+layout:       post
+title:        "The Internship"
+date:         2013-02-13 14:41:29 -0800
 categories:
   - Funny
 ---

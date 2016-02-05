@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Code School - Try R"
-date:   2012-12-06 10:59:23 -0800
+layout:       post
+title:        "Code School - Try R"
+date:         2012-12-06 10:59:23 -0800
+original_url: http://tryr.codeschool.com/
 categories:
   - Software
   - Statistics

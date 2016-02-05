@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Guns in movies scenes replaced with a thumbs-up"
-date:   2013-03-18 09:51:18 -0700
+layout:       post
+title:        "Guns in movies scenes replaced with a thumbs-up"
+date:         2013-03-18 09:51:18 -0700
+original_url: http://imgur.com/gallery/ONb0b
 categories:
   - Movies
 ---

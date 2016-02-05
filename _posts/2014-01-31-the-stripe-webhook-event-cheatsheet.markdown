@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Stripe Webhook Event Cheatsheet"
-date:   2014-01-31 09:07:02 -0800
+layout:       post
+title:        "The Stripe Webhook Event Cheatsheet"
+date:         2014-01-31 09:07:02 -0800
+original_url: https://www.petekeen.net/stripe-webhook-event-cheatsheet
 categories:
   - Software
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "OAuth as SSO at Heroku"
-date:   2013-11-14 07:51:46 -0800
+layout:       post
+title:        "OAuth as SSO at Heroku"
+date:         2013-11-14 07:51:46 -0800
+original_url: https://blog.heroku.com/archives/2013/11/14/oauth-sso
 categories:
   - Software
 ---

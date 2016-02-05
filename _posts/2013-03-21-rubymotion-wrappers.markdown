@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "RubyMotion Wrappers"
-date:   2013-03-21 14:50:27 -0700
+layout:       post
+title:        "RubyMotion Wrappers"
+date:         2013-03-21 14:50:27 -0700
+original_url: http://rubymotion-wrappers.com/
 categories:
   - iOS
   - Software

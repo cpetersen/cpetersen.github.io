@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Neil deGrasse Tyson - We Stopped Dreaming"
-date:   2012-11-05 09:06:13 -0800
+layout:       post
+title:        "Neil deGrasse Tyson - We Stopped Dreaming"
+date:         2012-11-05 09:06:13 -0800
 categories:
   - Science
 ---

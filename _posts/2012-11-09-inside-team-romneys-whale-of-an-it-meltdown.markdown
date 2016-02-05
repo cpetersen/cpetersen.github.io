@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Inside Team Romney’s whale of an IT meltdown"
-date:   2012-11-09 19:50:17 -0800
+layout:       post
+title:        "Inside Team Romney’s whale of an IT meltdown"
+date:         2012-11-09 19:50:17 -0800
+original_url: http://arstechnica.com/information-technology/2012/11/inside-team-romneys-whale-of-an-it-meltdown/
 categories:
   - Politics
   - Software

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Game of Thrones Inspired Sigils"
-date:   2013-04-06 12:24:44 -0700
+layout:       post
+title:        "Game of Thrones Inspired Sigils"
+date:         2013-04-06 12:24:44 -0700
+original_url: http://www.quora.com/Game-of-Thrones-TV-series/What-are-some-of-the-best-Game-of-Thrones-type-sigils
 categories:
 ---
 

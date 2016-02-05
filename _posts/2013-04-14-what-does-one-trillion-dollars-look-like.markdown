@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "What does one TRILLION dollars look like?"
-date:   2013-04-14 11:28:32 -0700
+layout:       post
+title:        "What does one TRILLION dollars look like?"
+date:         2013-04-14 11:28:32 -0700
+original_url: http://www.pagetutor.com/trillion/index.html
 categories:
   - Misc
 ---

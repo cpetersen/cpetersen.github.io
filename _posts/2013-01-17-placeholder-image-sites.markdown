@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Placeholder Image Sites"
-date:   2013-01-17 12:48:54 -0800
+layout:       post
+title:        "Placeholder Image Sites"
+date:         2013-01-17 12:48:54 -0800
 categories:
   - Web
   - Design

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Graphene Super Capacitors"
-date:   2013-03-24 21:51:28 -0700
+layout:       post
+title:        "Graphene Super Capacitors"
+date:         2013-03-24 21:51:28 -0700
+original_url: http://io9.com/5987086/meet-the-scientific-accident-that-could-change-the-world
 categories:
   - Technology
   - Batteries

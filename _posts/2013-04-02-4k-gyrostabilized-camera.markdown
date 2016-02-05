@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "4K Gyro-stabilized Camera"
-date:   2013-04-02 19:20:55 -0700
+layout:       post
+title:        "4K Gyro-stabilized Camera"
+date:         2013-04-02 19:20:55 -0700
+original_url: http://fstoppers.com/teton-gravity-research-shows-off-most-advanced-4k-gyro-stabilized-camera-platform
 categories:
   - Photography
 ---

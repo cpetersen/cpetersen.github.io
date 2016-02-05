@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Internet Usage Around the World"
-date:   2013-08-19 17:12:18 -0700
+layout:       post
+title:        "Internet Usage Around the World"
+date:         2013-08-19 17:12:18 -0700
 categories:
   - Data Visualization
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "P≠NP Problem and Quantum Mechanics"
-date:   2014-04-25 08:47:14 -0700
+layout:       post
+title:        "P≠NP Problem and Quantum Mechanics"
+date:         2014-04-25 08:47:14 -0700
+original_url: https://medium.com/the-physics-arxiv-blog/7ef5eea6fd7a
 categories:
   - Science
   - Computers

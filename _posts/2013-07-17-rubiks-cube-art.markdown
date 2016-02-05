@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Rubik's Cube Art"
-date:   2013-07-17 12:04:23 -0700
+layout:       post
+title:        "Rubik's Cube Art"
+date:         2013-07-17 12:04:23 -0700
 categories:
   - Misc
 ---

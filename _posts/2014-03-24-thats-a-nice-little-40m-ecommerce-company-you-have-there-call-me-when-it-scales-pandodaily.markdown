@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "That’s a nice little $40M ecommerce company you have there. Call me when it scales | PandoDaily"
-date:   2014-03-24 11:18:00 -0700
+layout:       post
+title:        "That’s a nice little $40M ecommerce company you have there. Call me when it scales | PandoDaily"
+date:         2014-03-24 11:18:00 -0700
+original_url: http://pando.com/2014/03/22/thats-a-nice-little-40m-ecommerce-company-you-have-there-call-me-when-it-scales/
 categories:
   - Draft
 ---

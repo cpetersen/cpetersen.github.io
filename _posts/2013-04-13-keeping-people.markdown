@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Keeping People"
-date:   2013-04-13 09:51:57 -0700
+layout:       post
+title:        "Keeping People"
+date:         2013-04-13 09:51:57 -0700
 categories:
   - Startups
 ---

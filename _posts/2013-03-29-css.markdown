@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "CSS"
-date:   2013-03-29 12:58:24 -0700
+layout:       post
+title:        "CSS"
+date:         2013-03-29 12:58:24 -0700
 categories:
   - Funny
 ---

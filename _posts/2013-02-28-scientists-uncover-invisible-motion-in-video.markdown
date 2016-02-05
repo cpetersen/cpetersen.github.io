@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Scientists Uncover Invisible Motion in Video"
-date:   2013-02-28 11:33:55 -0800
+layout:       post
+title:        "Scientists Uncover Invisible Motion in Video"
+date:         2013-02-28 11:33:55 -0800
+original_url: http://bits.blogs.nytimes.com/2013/02/27/scientists-uncover-invisible-motion-in-video/#.US8ic6HeXQo.hackernews
 categories:
   - Software
 ---

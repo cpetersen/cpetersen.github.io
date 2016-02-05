@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Makerware"
-date:   2012-12-05 10:35:00 -0800
+layout:       post
+title:        "Makerware"
+date:         2012-12-05 10:35:00 -0800
+original_url: http://www.makerbot.com/makerware/
 categories:
   - Software
   - Maker

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Climbing Shanghai Tower"
-date:   2014-02-16 06:38:20 -0800
+layout:       post
+title:        "Climbing Shanghai Tower"
+date:         2014-02-16 06:38:20 -0800
 categories:
   - Heights
 ---

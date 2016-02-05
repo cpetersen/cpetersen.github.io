@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Dropbox Unveils Sync API"
-date:   2013-02-06 13:42:30 -0800
+layout:       post
+title:        "Dropbox Unveils Sync API"
+date:         2013-02-06 13:42:30 -0800
+original_url: http://techcrunch.com/2013/02/06/dropbox-unveils-sync-api-for-mobile-developers-allows-apps-to-work-with-cloud-based-files-as-if-they-were-local/
 categories:
   - iOS
   - NoEmbed

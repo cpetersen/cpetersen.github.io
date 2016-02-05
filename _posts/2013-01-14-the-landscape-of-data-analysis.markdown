@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Landscape of Data Analysis"
-date:   2013-01-14 17:46:56 -0800
+layout:       post
+title:        "The Landscape of Data Analysis"
+date:         2013-01-14 17:46:56 -0800
 categories:
   - Big Data
 ---

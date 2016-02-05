@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "What most schools don't teach"
-date:   2013-02-26 11:22:05 -0800
+layout:       post
+title:        "What most schools don't teach"
+date:         2013-02-26 11:22:05 -0800
 categories:
   - Education
   - Software

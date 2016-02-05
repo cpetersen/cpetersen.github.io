@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Don’t Confuse Science Experiments With Commitment"
-date:   2013-01-08 10:42:02 -0800
+layout:       post
+title:        "Don’t Confuse Science Experiments With Commitment"
+date:         2013-01-08 10:42:02 -0800
+original_url: http://blogs.wsj.com/accelerators/2013/01/07/dont-confuse-science-experiments-with-commitment/
 categories:
   - Startups
 ---

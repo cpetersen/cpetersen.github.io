@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Next Year's 3-D Printers Promise Big Things"
-date:   2012-12-01 22:22:18 -0800
+layout:       post
+title:        "Next Year's 3-D Printers Promise Big Things"
+date:         2012-12-01 22:22:18 -0800
+original_url: http://www.wired.com/design/2012/11/big-3d-printers-euromold-2012/?pid=1387&viewall=true
 categories:
   - Maker
 ---

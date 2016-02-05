@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Future of Design"
-date:   2013-09-05 23:53:25 -0700
+layout:       post
+title:        "The Future of Design"
+date:         2013-09-05 23:53:25 -0700
 categories:
   - Design
 ---

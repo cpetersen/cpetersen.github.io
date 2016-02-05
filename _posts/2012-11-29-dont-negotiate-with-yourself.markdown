@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Don't negotiate with yourself"
-date:   2012-11-29 16:52:48 -0800
+layout:       post
+title:        "Don't negotiate with yourself"
+date:         2012-11-29 16:52:48 -0800
+original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/11/29/obama-to-gop-i-wont-negotiate-with-myself/
 categories:
   - Politics
   - Business

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Could there be a $50,000 bitcoin?"
-date:   2014-02-18 09:14:42 -0800
+layout:       post
+title:        "Could there be a $50,000 bitcoin?"
+date:         2014-02-18 09:14:42 -0800
+original_url: http://finance.fortune.cnn.com/2014/02/18/50000-bitcoin/
 categories:
   - NoEmbed
   - Economics

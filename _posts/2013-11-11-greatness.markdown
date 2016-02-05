@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Greatness"
-date:   2013-11-11 13:25:02 -0800
+layout:       post
+title:        "Greatness"
+date:         2013-11-11 13:25:02 -0800
 categories:
   - Leadership
 ---

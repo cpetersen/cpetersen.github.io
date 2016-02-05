@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Parents Around the World"
-date:   2013-04-13 09:38:10 -0700
+layout:       post
+title:        "Parents Around the World"
+date:         2013-04-13 09:38:10 -0700
+original_url: http://www.theatlantic.com/international/archive/2013/04/how-parents-around-the-world-describe-their-children-in-charts/274955/
 categories:
   - Parenting
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Visualizing the World's Carbon Emissions"
-date:   2013-07-29 00:10:05 -0700
+layout:       post
+title:        "Visualizing the World's Carbon Emissions"
+date:         2013-07-29 00:10:05 -0700
 categories:
   - Data Visualization
   - Science

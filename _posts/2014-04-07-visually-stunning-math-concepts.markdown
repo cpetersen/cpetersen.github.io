@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Visually Stunning Math Concepts"
-date:   2014-04-07 10:23:34 -0700
+layout:       post
+title:        "Visually Stunning Math Concepts"
+date:         2014-04-07 10:23:34 -0700
+original_url: http://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain
 categories:
   - Math
 ---

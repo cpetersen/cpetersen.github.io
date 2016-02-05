@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Why Business Software is Broken"
-date:   2013-07-09 20:30:38 -0700
+layout:       post
+title:        "Why Business Software is Broken"
+date:         2013-07-09 20:30:38 -0700
+original_url: http://www.6wunderkinder.com/blog/why-business-software-is-broken-our-promise-to-keep-things-simple
 categories:
   - Startups
   - Software

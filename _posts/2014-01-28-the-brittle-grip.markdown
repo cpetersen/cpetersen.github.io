@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Brittle Grip"
-date:   2014-01-28 14:23:36 -0800
+layout:       post
+title:        "The Brittle Grip"
+date:         2014-01-28 14:23:36 -0800
+original_url: http://talkingpointsmemo.com/edblog/the-brittle-grip-part-2
 categories:
   - Finance
   - Inequality

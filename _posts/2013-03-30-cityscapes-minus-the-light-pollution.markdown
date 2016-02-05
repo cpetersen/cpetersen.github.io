@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Cityscapes minus the Light Pollution"
-date:   2013-03-30 21:50:26 -0700
+layout:       post
+title:        "Cityscapes minus the Light Pollution"
+date:         2013-03-30 21:50:26 -0700
+original_url: http://blogs.smithsonianmag.com/artscience/2013/03/darkened-cities/
 categories:
   - Space
   - Photography

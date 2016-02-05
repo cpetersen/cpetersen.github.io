@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Son of Blackbird"
-date:   2014-03-09 09:54:06 -0700
+layout:       post
+title:        "Son of Blackbird"
+date:         2014-03-09 09:54:06 -0700
+original_url: http://www.lockheedmartin.com/us/news/features/2013/sr-72.html
 categories:
   - Aircraft
 ---

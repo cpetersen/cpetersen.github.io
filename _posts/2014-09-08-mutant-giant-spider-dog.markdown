@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Mutant Giant Spider Dog"
-date:   2014-09-08 10:00:20 -0700
+layout:       post
+title:        "Mutant Giant Spider Dog"
+date:         2014-09-08 10:00:20 -0700
 categories:
   - Funny
 ---

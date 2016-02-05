@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Consultingware"
-date:   2013-07-03 23:14:10 -0700
+layout:       post
+title:        "Consultingware"
+date:         2013-07-03 23:14:10 -0700
+original_url: http://www.joelonsoftware.com/articles/SetYourPriorities.html
 categories:
   - Startups
   - Software

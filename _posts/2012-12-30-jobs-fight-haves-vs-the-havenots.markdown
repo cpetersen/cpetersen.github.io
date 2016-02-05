@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Jobs fight: Haves vs. the have-nots"
-date:   2012-12-30 11:41:40 -0800
+layout:       post
+title:        "Jobs fight: Haves vs. the have-nots"
+date:         2012-12-30 11:41:40 -0800
+original_url: http://usatoday30.usatoday.com/money/business/story/2012/09/16/jobs-fight-haves-vs-the-have-nots/57778406/1
 categories:
   - Startups
 ---

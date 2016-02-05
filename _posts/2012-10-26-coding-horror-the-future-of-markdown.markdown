@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Coding Horror: The Future of Markdown"
-date:   2012-10-26 11:22:00 -0700
+layout:       post
+title:        "Coding Horror: The Future of Markdown"
+date:         2012-10-26 11:22:00 -0700
+original_url: http://www.codinghorror.com/blog/2012/10/the-future-of-markdown.html
 categories:
   - Web
   - Software

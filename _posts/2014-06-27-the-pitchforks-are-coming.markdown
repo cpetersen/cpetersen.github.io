@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Pitchforks Are Coming"
-date:   2014-06-27 15:03:26 -0700
+layout:       post
+title:        "The Pitchforks Are Coming"
+date:         2014-06-27 15:03:26 -0700
+original_url: http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html
 categories:
   - Politics
   - Economics

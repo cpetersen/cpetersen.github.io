@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Cube 3D printer"
-date:   2013-01-09 10:39:16 -0800
+layout:       post
+title:        "Cube 3D printer"
+date:         2013-01-09 10:39:16 -0800
 categories:
   - Maker
 ---

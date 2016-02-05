@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "In Technology Wars, Using the Patent as a Sword"
-date:   2012-10-08 08:21:48 -0700
+layout:       post
+title:        "In Technology Wars, Using the Patent as a Sword"
+date:         2012-10-08 08:21:48 -0700
+original_url: http://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html
 categories:
   - Patents
 ---

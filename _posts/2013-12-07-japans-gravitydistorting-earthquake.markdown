@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Japan's gravity-distorting earthquake"
-date:   2013-12-07 10:26:10 -0800
+layout:       post
+title:        "Japan's gravity-distorting earthquake"
+date:         2013-12-07 10:26:10 -0800
+original_url: http://www.newscientist.com/article/dn24706-ultrathin-fault-caused-gravitydistorting-japan-quake.html
 categories:
   - Science
 ---

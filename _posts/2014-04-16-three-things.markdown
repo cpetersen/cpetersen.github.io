@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Three Things"
-date:   2014-04-16 12:04:50 -0700
+layout:       post
+title:        "Three Things"
+date:         2014-04-16 12:04:50 -0700
+original_url: http://blog.codinghorror.com/three-things/
 categories:
   - Productivity
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Aliens, Aliens everywhere..."
-date:   2014-06-27 09:45:12 -0700
+layout:       post
+title:        "Aliens, Aliens everywhere..."
+date:         2014-06-27 09:45:12 -0700
 categories:
   - Space
   - Science

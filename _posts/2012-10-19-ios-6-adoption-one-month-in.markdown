@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "iOS 6 Adoption One Month In"
-date:   2012-10-19 08:35:44 -0700
+layout:       post
+title:        "iOS 6 Adoption One Month In"
+date:         2012-10-19 08:35:44 -0700
+original_url: http://stuartkhall.com/posts/ios-6-adoption-one-month-in
 categories:
   - iOS
   - Mobile

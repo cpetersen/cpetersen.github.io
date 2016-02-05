@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "A fascinatingly disturbing thought"
-date:   2012-11-27 12:14:53 -0800
+layout:       post
+title:        "A fascinatingly disturbing thought"
+date:         2012-11-27 12:14:53 -0800
 categories:
   - Science
   - Philosophy

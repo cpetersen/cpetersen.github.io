@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "New TLDs"
-date:   2013-07-20 18:37:38 -0700
+layout:       post
+title:        "New TLDs"
+date:         2013-07-20 18:37:38 -0700
+original_url: https://iwantmyname.com/domains/new-gtld-domain-extensions
 categories:
   - Web
 ---

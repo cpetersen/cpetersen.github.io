@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "A Minimum Tax for the Wealthy"
-date:   2012-11-29 09:23:25 -0800
+layout:       post
+title:        "A Minimum Tax for the Wealthy"
+date:         2012-11-29 09:23:25 -0800
+original_url: http://www.nytimes.com/2012/11/26/opinion/buffett-a-minimum-tax-for-the-wealthy.html
 categories:
   - Finance
   - Politics

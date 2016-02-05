@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "+ POOL, swim in clean river water in NYC"
-date:   2013-07-09 11:33:15 -0700
+layout:       post
+title:        "+ POOL, swim in clean river water in NYC"
+date:         2013-07-09 11:33:15 -0700
 categories:
   - Misc
 ---

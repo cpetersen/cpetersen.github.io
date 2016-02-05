@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Magical Tech Behind Paper For iPad"
-date:   2012-11-08 19:52:47 -0800
+layout:       post
+title:        "The Magical Tech Behind Paper For iPad"
+date:         2012-11-08 19:52:47 -0800
+original_url: http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection
 categories:
   - Software
 ---

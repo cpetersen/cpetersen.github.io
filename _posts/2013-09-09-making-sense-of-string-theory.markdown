@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Making sense of string theory"
-date:   2013-09-09 17:28:02 -0700
+layout:       post
+title:        "Making sense of string theory"
+date:         2013-09-09 17:28:02 -0700
 categories:
   - Science
   - Physics

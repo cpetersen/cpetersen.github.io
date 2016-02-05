@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Visualizing Algorithms"
-date:   2014-07-02 14:43:45 -0700
+layout:       post
+title:        "Visualizing Algorithms"
+date:         2014-07-02 14:43:45 -0700
+original_url: http://bost.ocks.org/mike/algorithms/
 categories:
   - Data Visualization
   - Software

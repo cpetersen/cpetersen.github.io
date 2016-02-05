@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "NASA using 3D laser printing to create complex rocket parts"
-date:   2012-11-30 14:03:41 -0800
+layout:       post
+title:        "NASA using 3D laser printing to create complex rocket parts"
+date:         2012-11-30 14:03:41 -0800
+original_url: http://www.gizmag.com/3d-printing-rockets-nasa-sls/24909/
 categories:
   - Science
   - Maker

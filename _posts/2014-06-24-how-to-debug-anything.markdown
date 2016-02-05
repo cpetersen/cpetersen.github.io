@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "How to Debug Anything"
-date:   2014-06-24 14:10:06 -0700
+layout:       post
+title:        "How to Debug Anything"
+date:         2014-06-24 14:10:06 -0700
 categories:
   - Software
   - Ops

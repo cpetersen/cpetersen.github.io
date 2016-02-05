@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Flying Phantom"
-date:   2014-03-10 17:32:27 -0700
+layout:       post
+title:        "The Flying Phantom"
+date:         2014-03-10 17:32:27 -0700
+original_url: http://www.gizmag.com/flying-phantom-hydrofoil-catamaran-sailing/31143/
 categories:
   - Misc
 ---

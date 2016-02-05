@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "BioBlender"
-date:   2013-03-31 22:44:36 -0700
+layout:       post
+title:        "BioBlender"
+date:         2013-03-31 22:44:36 -0700
+original_url: http://bioblender.eu
 categories:
   - Software
   - Science

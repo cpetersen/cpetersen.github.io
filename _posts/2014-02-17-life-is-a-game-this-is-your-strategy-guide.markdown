@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Life is a game. This is your strategy guide"
-date:   2014-02-17 07:57:14 -0800
+layout:       post
+title:        "Life is a game. This is your strategy guide"
+date:         2014-02-17 07:57:14 -0800
+original_url: http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
 categories:
   - Misc
 ---

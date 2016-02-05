@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Twin Movies - Imgur"
-date:   2013-04-25 09:39:28 -0700
+layout:       post
+title:        "Twin Movies - Imgur"
+date:         2013-04-25 09:39:28 -0700
 categories:
   - Movies
 ---

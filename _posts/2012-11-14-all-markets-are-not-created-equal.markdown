@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "All Markets Are Not Created Equal"
-date:   2012-11-14 10:15:07 -0800
+layout:       post
+title:        "All Markets Are Not Created Equal"
+date:         2012-11-14 10:15:07 -0800
+original_url: http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/
 categories:
   - Startups
 ---

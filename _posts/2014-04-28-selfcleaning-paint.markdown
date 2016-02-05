@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Self-Cleaning Paint"
-date:   2014-04-28 13:15:06 -0700
+layout:       post
+title:        "Self-Cleaning Paint"
+date:         2014-04-28 13:15:06 -0700
+original_url: http://www.wired.com/2014/04/self-washing-car/?mbid=social_fb
 categories:
   - Technology
 ---

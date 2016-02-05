@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Some advice from Jeff Bezos"
-date:   2012-10-19 11:41:56 -0700
+layout:       post
+title:        "Some advice from Jeff Bezos"
+date:         2012-10-19 11:41:56 -0700
+original_url: http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos
 categories:
   - Misc
 ---

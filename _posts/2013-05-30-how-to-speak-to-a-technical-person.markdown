@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to Speak to a Technical Person"
-date:   2013-05-30 13:07:01 -0700
+layout:       post
+title:        "How to Speak to a Technical Person"
+date:         2013-05-30 13:07:01 -0700
+original_url: http://blog.smartbear.com/careers/how-to-speak-to-a-technical-person/
 categories:
   - Misc
 ---

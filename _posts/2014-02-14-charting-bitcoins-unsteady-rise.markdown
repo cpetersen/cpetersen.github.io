@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Charting Bitcoin's Unsteady Rise"
-date:   2014-02-14 13:20:05 -0800
+layout:       post
+title:        "Charting Bitcoin's Unsteady Rise"
+date:         2014-02-14 13:20:05 -0800
+original_url: http://www.technologyreview.com/graphiti/524796/show-me-the-bitcoins/
 categories:
   - Infographic
   - Bitcoin

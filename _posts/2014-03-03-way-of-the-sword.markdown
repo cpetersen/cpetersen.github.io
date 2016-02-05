@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Way of the Sword"
-date:   2014-03-03 12:47:00 -0800
+layout:       post
+title:        "Way of the Sword"
+date:         2014-03-03 12:47:00 -0800
 categories:
   - Misc
 ---

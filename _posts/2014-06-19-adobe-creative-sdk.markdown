@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Adobe Creative SDK"
-date:   2014-06-19 12:54:42 -0700
+layout:       post
+title:        "Adobe Creative SDK"
+date:         2014-06-19 12:54:42 -0700
+original_url: https://creativesdk.adobe.com/
 categories:
   - Design
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Hard Truths"
-date:   2013-07-20 12:01:43 -0700
+layout:       post
+title:        "Hard Truths"
+date:         2013-07-20 12:01:43 -0700
+original_url: http://the-pastry-box-project.net/mike-monteiro/2013-july-19/
 categories:
   - Design
 ---

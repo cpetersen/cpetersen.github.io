@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Leveraxe"
-date:   2014-04-18 12:06:11 -0700
+layout:       post
+title:        "Leveraxe"
+date:         2014-04-18 12:06:11 -0700
+original_url: http://www.vipukirves.fi/english/description.htm
 categories:
   - Misc
 ---

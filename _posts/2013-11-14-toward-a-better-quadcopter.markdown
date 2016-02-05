@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Toward a better Quadcopter"
-date:   2013-11-14 07:45:55 -0800
+layout:       post
+title:        "Toward a better Quadcopter"
+date:         2013-11-14 07:45:55 -0800
+original_url: http://spectrum.ieee.org/automaton/robotics/aerial-robots/iros-2013-should-quadrotors-all-look-like-this#.UoRAb7LvVFs.hackernews
 categories:
   - Drones
 ---

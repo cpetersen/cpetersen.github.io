@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Reveal App"
-date:   2013-06-03 12:20:04 -0700
+layout:       post
+title:        "Reveal App"
+date:         2013-06-03 12:20:04 -0700
+original_url: http://revealapp.com/
 categories:
   - iOS
   - Software

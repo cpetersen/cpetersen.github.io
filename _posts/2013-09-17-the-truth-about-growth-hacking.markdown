@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Truth about Growth Hacking"
-date:   2013-09-17 23:17:00 -0700
+layout:       post
+title:        "The Truth about Growth Hacking"
+date:         2013-09-17 23:17:00 -0700
+original_url: http://insideintercom.io/if-its-important-dont-hack-it/
 categories:
   - Business
   - Marketing

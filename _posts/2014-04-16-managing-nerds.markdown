@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Managing Nerds"
-date:   2014-04-16 12:11:40 -0700
+layout:       post
+title:        "Managing Nerds"
+date:         2014-04-16 12:11:40 -0700
+original_url: http://randsinrepose.com/archives/managing-nerds/
 categories:
   - Startups
 ---

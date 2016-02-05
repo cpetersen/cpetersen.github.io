@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "xkcd: Congress"
-date:   2012-11-01 13:35:22 -0700
+layout:       post
+title:        "xkcd: Congress"
+date:         2012-11-01 13:35:22 -0700
+original_url: http://xkcd.com/1127/
 categories:
   - Politics
   - Data Visualization

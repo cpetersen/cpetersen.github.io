@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Enterprise Cool Kids"
-date:   2013-01-28 10:14:19 -0800
+layout:       post
+title:        "The Enterprise Cool Kids"
+date:         2013-01-28 10:14:19 -0800
+original_url: http://techcrunch.com/2013/01/27/the-enterprise-cool-kids/
 categories:
   - NoEmbed
   - Technology

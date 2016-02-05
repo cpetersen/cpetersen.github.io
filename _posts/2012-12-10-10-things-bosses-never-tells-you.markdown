@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "10 Things Bosses Never Tells You"
-date:   2012-12-10 09:45:44 -0800
+layout:       post
+title:        "10 Things Bosses Never Tells You"
+date:         2012-12-10 09:45:44 -0800
+original_url: http://www.inc.com/jeff-haden/10-things-bosses-never-tell-employees.html
 categories:
   - Startups
 ---

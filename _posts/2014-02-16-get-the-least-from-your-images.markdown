@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Get the LEAST from your images"
-date:   2014-02-16 07:18:17 -0800
+layout:       post
+title:        "Get the LEAST from your images"
+date:         2014-02-16 07:18:17 -0800
 categories:
   - Web
   - Software

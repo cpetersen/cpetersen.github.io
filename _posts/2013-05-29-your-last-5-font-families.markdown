@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Your last 5 font families"
-date:   2013-05-29 11:50:07 -0700
+layout:       post
+title:        "Your last 5 font families"
+date:         2013-05-29 11:50:07 -0700
+original_url: http://www.quora.com/Graphic-Design/If-you-could-only-use-5-font-families-what-would-they-be?share=1
 categories:
   - Design
 ---

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Liars and Outliers"
-date:   2012-10-05 15:44:18 -0700
+layout:       post
+title:        "Liars and Outliers"
+date:         2012-10-05 15:44:18 -0700
 categories:
   - Misc
 ---

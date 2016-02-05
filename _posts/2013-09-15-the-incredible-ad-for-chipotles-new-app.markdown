@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Incredible Ad for Chipotle's new App"
-date:   2013-09-15 10:32:09 -0700
+layout:       post
+title:        "The Incredible Ad for Chipotle's new App"
+date:         2013-09-15 10:32:09 -0700
 categories:
   - Ad
 ---

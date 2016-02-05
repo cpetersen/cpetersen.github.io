@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Empathy Vacuum"
-date:   2014-03-12 09:39:18 -0700
+layout:       post
+title:        "The Empathy Vacuum"
+date:         2014-03-12 09:39:18 -0700
+original_url: http://www.eod.com/blog/2014/02/empathy-vacuum/
 categories:
   - Empathy
 ---

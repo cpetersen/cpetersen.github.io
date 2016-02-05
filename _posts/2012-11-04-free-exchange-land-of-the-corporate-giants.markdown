@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Free exchange: Land of the corporate giants"
-date:   2012-11-04 08:49:25 -0800
+layout:       post
+title:        "Free exchange: Land of the corporate giants"
+date:         2012-11-04 08:49:25 -0800
+original_url: http://www.economist.com/news/finance-and-economics/21565609-economies-scale-run-out-certain-point-largest-firms-america-may-be
 categories:
   - Business
 ---

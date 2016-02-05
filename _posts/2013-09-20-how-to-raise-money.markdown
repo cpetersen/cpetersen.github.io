@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How to Raise Money"
-date:   2013-09-20 11:12:54 -0700
+layout:       post
+title:        "How to Raise Money"
+date:         2013-09-20 11:12:54 -0700
+original_url: http://paulgraham.com/fr.html
 categories:
   - Draft
 ---

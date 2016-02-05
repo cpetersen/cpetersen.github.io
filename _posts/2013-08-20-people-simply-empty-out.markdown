@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "People simply empty out"
-date:   2013-08-20 22:28:06 -0700
+layout:       post
+title:        "People simply empty out"
+date:         2013-08-20 22:28:06 -0700
+original_url: http://www.lettersofnote.com/2012/10/people-simply-empty-out.html
 categories:
   - Misc
 ---

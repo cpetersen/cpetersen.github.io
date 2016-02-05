@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Hardware Renaissance"
-date:   2012-10-23 11:53:07 -0700
+layout:       post
+title:        "The Hardware Renaissance"
+date:         2012-10-23 11:53:07 -0700
+original_url: http://paulgraham.com/hw.html
 categories:
   - Startups
 ---

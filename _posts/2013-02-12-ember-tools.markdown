@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Ember Tools"
-date:   2013-02-12 09:54:33 -0800
+layout:       post
+title:        "Ember Tools"
+date:         2013-02-12 09:54:33 -0800
+original_url: https://github.com/rpflorence/ember-tools
 categories:
   - Web
   - Software

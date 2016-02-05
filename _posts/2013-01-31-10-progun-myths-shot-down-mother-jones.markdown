@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "10 Pro-Gun Myths, Shot Down | Mother Jones"
-date:   2013-01-31 16:21:50 -0800
+layout:       post
+title:        "10 Pro-Gun Myths, Shot Down | Mother Jones"
+date:         2013-01-31 16:21:50 -0800
+original_url: http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check
 categories:
   - Guns
 ---

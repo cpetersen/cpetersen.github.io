@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Scott’s Story and the Election"
-date:   2012-10-18 17:02:18 -0700
+layout:       post
+title:        "Scott’s Story and the Election"
+date:         2012-10-18 17:02:18 -0700
+original_url: http://www.nytimes.com/2012/10/18/opinion/kristof-scotts-story-and-the-election.html?smid=tw-share&_r=0
 categories:
   - Politics
 ---

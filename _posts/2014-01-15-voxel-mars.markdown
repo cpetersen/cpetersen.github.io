@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Voxel Mars"
-date:   2014-01-15 10:11:15 -0800
+layout:       post
+title:        "Voxel Mars"
+date:         2014-01-15 10:11:15 -0800
+original_url: http://www.voxelmars.com/
 categories:
   - Software
   - Space

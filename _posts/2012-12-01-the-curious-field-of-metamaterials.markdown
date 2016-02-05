@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Curious Field of Metamaterials"
-date:   2012-12-01 23:08:22 -0800
+layout:       post
+title:        "The Curious Field of Metamaterials"
+date:         2012-12-01 23:08:22 -0800
+original_url: http://www.judegomila.com/2012/12/the-curious-field-of-metamaterials.html
 categories:
   - Science
 ---

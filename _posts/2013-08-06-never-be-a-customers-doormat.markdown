@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Never Be a Customer's Doormat"
-date:   2013-08-06 11:07:03 -0700
+layout:       post
+title:        "Never Be a Customer's Doormat"
+date:         2013-08-06 11:07:03 -0700
+original_url: http://www.inc.com/geoffrey-james/never-be-a-customers-doormat.html?cid=sf01001
 categories:
   - Business
   - Startups

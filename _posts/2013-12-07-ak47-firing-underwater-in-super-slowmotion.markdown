@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "AK-47 Firing Underwater in Super Slow-Motion"
-date:   2013-12-07 10:54:59 -0800
+layout:       post
+title:        "AK-47 Firing Underwater in Super Slow-Motion"
+date:         2013-12-07 10:54:59 -0800
 categories:
   - Science
   - Guns

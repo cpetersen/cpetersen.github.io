@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Falling Test Scores and Entrepreneurship"
-date:   2014-01-20 08:55:46 -0800
+layout:       post
+title:        "Falling Test Scores and Entrepreneurship"
+date:         2014-01-20 08:55:46 -0800
+original_url: http://www.forbes.com/sites/gyro/2014/01/06/could-falling-test-scores-be-a-good-thing-for-the-u-s/
 categories:
   - Startups
   - Education

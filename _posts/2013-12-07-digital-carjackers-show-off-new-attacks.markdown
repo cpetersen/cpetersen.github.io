@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Digital Carjackers Show Off New Attacks"
-date:   2013-12-07 10:26:27 -0800
+layout:       post
+title:        "Digital Carjackers Show Off New Attacks"
+date:         2013-12-07 10:26:27 -0800
 categories:
   - Software
   - Cars

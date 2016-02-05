@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Grand Theft Art"
-date:   2014-04-04 14:17:26 -0700
+layout:       post
+title:        "Grand Theft Art"
+date:         2014-04-04 14:17:26 -0700
 categories:
   - Technology
   - Videogame

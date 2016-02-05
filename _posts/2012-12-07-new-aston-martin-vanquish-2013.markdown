@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "New Aston Martin Vanquish 2013"
-date:   2012-12-07 08:54:03 -0800
+layout:       post
+title:        "New Aston Martin Vanquish 2013"
+date:         2012-12-07 08:54:03 -0800
 categories:
   - Design
 ---

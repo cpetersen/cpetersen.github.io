@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Animagraffs - Animated infographics"
-date:   2014-06-30 09:43:17 -0700
+layout:       post
+title:        "Animagraffs - Animated infographics"
+date:         2014-06-30 09:43:17 -0700
+original_url: http://animagraffs.com/
 categories:
   - Data Visualization
   - Design

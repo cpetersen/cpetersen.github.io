@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Warrantless wiretaps? Congress votes yes"
-date:   2012-12-28 16:16:55 -0800
+layout:       post
+title:        "Warrantless wiretaps? Congress votes yes"
+date:         2012-12-28 16:16:55 -0800
+original_url: http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/
 categories:
   - Politics
 ---

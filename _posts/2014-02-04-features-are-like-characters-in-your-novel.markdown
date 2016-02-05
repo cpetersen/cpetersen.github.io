@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Features are like Characters in your Novel"
-date:   2014-02-04 15:06:58 -0800
+layout:       post
+title:        "Features are like Characters in your Novel"
+date:         2014-02-04 15:06:58 -0800
 categories:
   - Draft
 ---

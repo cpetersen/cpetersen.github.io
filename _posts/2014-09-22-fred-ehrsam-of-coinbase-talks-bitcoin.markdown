@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Fred Ehrsam of Coinbase talks Bitcoin"
-date:   2014-09-22 11:09:21 -0700
+layout:       post
+title:        "Fred Ehrsam of Coinbase talks Bitcoin"
+date:         2014-09-22 11:09:21 -0700
 categories:
   - Bitcoin
 ---

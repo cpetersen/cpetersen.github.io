@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Breaking cryptography"
-date:   2013-09-02 10:50:33 -0700
+layout:       post
+title:        "Breaking cryptography"
+date:         2013-09-02 10:50:33 -0700
+original_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptography
 categories:
   - Crypto
 ---

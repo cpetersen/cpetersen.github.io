@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Over the Decades, How States Have Shifted"
-date:   2012-10-15 21:55:02 -0700
+layout:       post
+title:        "Over the Decades, How States Have Shifted"
+date:         2012-10-15 21:55:02 -0700
+original_url: http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?hp
 categories:
   - Politics
   - Data Visualization

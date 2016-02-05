@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Linguistic Conflict Maps"
-date:   2013-06-14 10:57:10 -0700
+layout:       post
+title:        "Linguistic Conflict Maps"
+date:         2013-06-14 10:57:10 -0700
+original_url: http://www.businessinsider.com/22-maps-that-show-the-deepest-linguistic-conflicts-in-america-2013-6?op=1
 categories:
   - Data Visualization
   - Map

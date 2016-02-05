@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "TSA Removes X-Ray Body Scanners From Major Airports"
-date:   2012-10-19 11:34:00 -0700
+layout:       post
+title:        "TSA Removes X-Ray Body Scanners From Major Airports"
+date:         2012-10-19 11:34:00 -0700
+original_url: http://www.propublica.org/article/tsa-removes-x-ray-body-scanners-from-major-airports
 categories:
   - Politics
 ---

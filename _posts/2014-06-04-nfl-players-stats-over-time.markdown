@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "NFL players stats over time"
-date:   2014-06-04 22:08:06 -0700
+layout:       post
+title:        "NFL players stats over time"
+date:         2014-06-04 22:08:06 -0700
+original_url: http://noahveltman.com/nflplayers/
 categories:
   - Data Visualization
   - Sports

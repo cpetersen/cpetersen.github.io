@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Page Layers"
-date:   2014-06-19 12:48:37 -0700
+layout:       post
+title:        "Page Layers"
+date:         2014-06-19 12:48:37 -0700
+original_url: http://www.pagelayers.com/
 categories:
   - Design
 ---

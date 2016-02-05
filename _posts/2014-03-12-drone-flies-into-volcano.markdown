@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Drone flies into Volcano"
-date:   2014-03-12 09:27:12 -0700
+layout:       post
+title:        "Drone flies into Volcano"
+date:         2014-03-12 09:27:12 -0700
 categories:
   - Drones
   - Nature

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "DC3 Low and Fast"
-date:   2014-01-05 12:28:28 -0800
+layout:       post
+title:        "DC3 Low and Fast"
+date:         2014-01-05 12:28:28 -0800
 categories:
   - Misc
 ---

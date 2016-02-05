@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Pelican Learns To Fly"
-date:   2014-03-03 12:39:40 -0800
+layout:       post
+title:        "Pelican Learns To Fly"
+date:         2014-03-03 12:39:40 -0800
 categories:
   - Misc
 ---

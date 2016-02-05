@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Markov Chains Visually Explained"
-date:   2014-07-29 14:15:07 -0700
+layout:       post
+title:        "Markov Chains Visually Explained"
+date:         2014-07-29 14:15:07 -0700
+original_url: http://setosa.io/blog/2014/07/26/markov-chains/index.html
 categories:
   - Data Visualization
   - Software

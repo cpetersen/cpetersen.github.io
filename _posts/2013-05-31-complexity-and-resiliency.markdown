@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Complexity and Resiliency"
-date:   2013-05-31 12:05:59 -0700
+layout:       post
+title:        "Complexity and Resiliency"
+date:         2013-05-31 12:05:59 -0700
 categories:
   - Software
   - Technology

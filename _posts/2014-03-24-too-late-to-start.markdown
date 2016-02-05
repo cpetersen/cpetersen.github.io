@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Too Late to Start?"
-date:   2014-03-24 10:17:40 -0700
+layout:       post
+title:        "Too Late to Start?"
+date:         2014-03-24 10:17:40 -0700
+original_url: http://avc.com/2014/03/ageism/
 categories:
   - Technology
 ---

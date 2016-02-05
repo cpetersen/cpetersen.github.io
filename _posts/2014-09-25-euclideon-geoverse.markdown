@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Euclideon Geoverse"
-date:   2014-09-25 12:09:11 -0700
+layout:       post
+title:        "Euclideon Geoverse"
+date:         2014-09-25 12:09:11 -0700
 categories:
   - Data Visualization
 ---

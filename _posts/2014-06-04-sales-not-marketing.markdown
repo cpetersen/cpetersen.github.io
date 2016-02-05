@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Sales not Marketing"
-date:   2014-06-04 08:57:37 -0700
+layout:       post
+title:        "Sales not Marketing"
+date:         2014-06-04 08:57:37 -0700
+original_url: http://blogs.wsj.com/accelerators/2014/06/03/jessica-livingston-why-startups-need-to-focus-on-sales-not-marketing/
 categories:
   - Startups
   - Marketing

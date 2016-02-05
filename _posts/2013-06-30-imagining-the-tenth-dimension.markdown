@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Imagining the Tenth Dimension"
-date:   2013-06-30 21:03:57 -0700
+layout:       post
+title:        "Imagining the Tenth Dimension"
+date:         2013-06-30 21:03:57 -0700
 categories:
   - Data Visualization
 ---

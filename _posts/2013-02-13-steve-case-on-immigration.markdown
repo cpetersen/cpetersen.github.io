@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Steve Case on Immigration"
-date:   2013-02-13 15:46:17 -0800
+layout:       post
+title:        "Steve Case on Immigration"
+date:         2013-02-13 15:46:17 -0800
+original_url: http://pandodaily.com/2013/02/13/the-seven-best-things-steve-case-said-today-to-the-senate-committee-on-immigration/
 categories:
   - Startups
   - NoEmbed

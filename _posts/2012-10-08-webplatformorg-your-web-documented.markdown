@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "WebPlatform.org — Your Web, documented"
-date:   2012-10-08 09:48:20 -0700
+layout:       post
+title:        "WebPlatform.org — Your Web, documented"
+date:         2012-10-08 09:48:20 -0700
+original_url: http://webplatform.org/
 categories:
   - Web
   - Software

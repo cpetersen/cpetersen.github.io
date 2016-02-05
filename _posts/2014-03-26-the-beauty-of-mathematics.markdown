@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "The Beauty of Mathematics"
-date:   2014-03-26 16:26:24 -0700
+layout:       post
+title:        "The Beauty of Mathematics"
+date:         2014-03-26 16:26:24 -0700
 categories:
   - Science
   - Math

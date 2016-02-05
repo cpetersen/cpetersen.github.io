@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "GitHub Says 'No Thanks' to Bots — Even if They're Nice"
-date:   2012-12-29 09:59:40 -0800
+layout:       post
+title:        "GitHub Says 'No Thanks' to Bots — Even if They're Nice"
+date:         2012-12-29 09:59:40 -0800
+original_url: http://www.wired.com/wiredenterprise/2012/12/github-bots/
 categories:
   - Software
 ---

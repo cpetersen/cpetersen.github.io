@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How We Built Deferred Deep Links"
-date:   2014-01-28 14:27:45 -0800
+layout:       post
+title:        "How We Built Deferred Deep Links"
+date:         2014-01-28 14:27:45 -0800
+original_url: http://blog.tapstream.com/post/74394304157/how-we-built-deferred-deep-links
 categories:
   - iOS
   - Software

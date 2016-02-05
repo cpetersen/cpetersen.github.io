@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Self-Driving Car on City Streets"
-date:   2014-04-28 13:27:14 -0700
+layout:       post
+title:        "Self-Driving Car on City Streets"
+date:         2014-04-28 13:27:14 -0700
 categories:
   - Technology
   - Cars

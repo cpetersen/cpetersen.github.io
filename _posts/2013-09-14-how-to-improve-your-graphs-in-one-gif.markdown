@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "How to Improve your Graphs in one GIF"
-date:   2013-09-14 21:52:25 -0700
+layout:       post
+title:        "How to Improve your Graphs in one GIF"
+date:         2013-09-14 21:52:25 -0700
 categories:
   - Data Visualization
 ---

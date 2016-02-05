@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Sales for Hackers"
-date:   2013-08-08 23:45:47 -0700
+layout:       post
+title:        "Sales for Hackers"
+date:         2013-08-08 23:45:47 -0700
+original_url: http://brandonb.cc/enterprise-sales-tips-for-hackers
 categories:
   - Software
 ---

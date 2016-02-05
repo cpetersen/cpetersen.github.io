@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Biker crashes into things... and makes a point"
-date:   2013-10-10 09:19:42 -0700
+layout:       post
+title:        "Biker crashes into things... and makes a point"
+date:         2013-10-10 09:19:42 -0700
 categories:
   - Funny
   - Misc

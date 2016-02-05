@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Is BitTorrent Sync Is A Dropbox Killer?"
-date:   2013-05-28 13:14:23 -0700
+layout:       post
+title:        "Is BitTorrent Sync Is A Dropbox Killer?"
+date:         2013-05-28 13:14:23 -0700
+original_url: http://www.forbes.com/sites/haydnshaughnessy/2013/05/27/bittorrent-sync-is-a-dropbox-killer-or-maybe-much-more-than-that/
 categories:
   - Software
   - Technology

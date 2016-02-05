@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "GoPro + Eagle"
-date:   2013-09-18 11:03:38 -0700
+layout:       post
+title:        "GoPro + Eagle"
+date:         2013-09-18 11:03:38 -0700
 categories:
   - Photography
 ---

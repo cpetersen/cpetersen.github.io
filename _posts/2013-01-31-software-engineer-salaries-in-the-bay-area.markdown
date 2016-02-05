@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Software Engineer Salaries in the Bay Area"
-date:   2013-01-31 18:19:01 -0800
+layout:       post
+title:        "Software Engineer Salaries in the Bay Area"
+date:         2013-01-31 18:19:01 -0800
 categories:
   - Startups
   - NoEmbed

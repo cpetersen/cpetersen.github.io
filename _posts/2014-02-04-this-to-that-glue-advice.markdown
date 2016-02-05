@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "This to That (Glue Advice)"
-date:   2014-02-04 12:37:29 -0800
+layout:       post
+title:        "This to That (Glue Advice)"
+date:         2014-02-04 12:37:29 -0800
+original_url: http://thistothat.com/cgi-bin/glue.cgi?lang=en&this=Glass&that=Styrofoam
 categories:
   - Misc
 ---

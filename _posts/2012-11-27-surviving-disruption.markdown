@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Surviving Disruption"
-date:   2012-11-27 22:05:23 -0800
+layout:       post
+title:        "Surviving Disruption"
+date:         2012-11-27 22:05:23 -0800
+original_url: http://hbr.org/2012/12/surviving-disruption/ar/pr
 categories:
   - Business
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "11 Fascinating Charts by Mary Meeker"
-date:   2013-05-29 20:39:54 -0700
+layout:       post
+title:        "11 Fascinating Charts by Mary Meeker"
+date:         2013-05-29 20:39:54 -0700
+original_url: http://www.theatlantic.com/business/archive/2013/05/the-12-most-fascinating-charts-from-mary-meekers-epic-slideshow-of-internet-trends/276350/
 categories:
   - Web
   - Data Visualization

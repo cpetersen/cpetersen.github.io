@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Y Combinator’s Startup School 2012"
-date:   2012-10-22 10:44:18 -0700
+layout:       post
+title:        "Y Combinator’s Startup School 2012"
+date:         2012-10-22 10:44:18 -0700
+original_url: http://nowaternomoon.com/post/34062996874/my-key-takeaways-from-y-combinators-startup-school
 categories:
   - Startups
 ---

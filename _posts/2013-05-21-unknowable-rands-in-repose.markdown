@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Unknowable: Rands In Repose"
-date:   2013-05-21 10:31:04 -0700
+layout:       post
+title:        "Unknowable: Rands In Repose"
+date:         2013-05-21 10:31:04 -0700
+original_url: http://www.randsinrepose.com/archives/2013/05/19/unknowable.html
 categories:
   - Apple
 ---

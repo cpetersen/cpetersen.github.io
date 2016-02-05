@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "“Gun” “Control”"
-date:   2012-12-17 13:21:21 -0800
+layout:       post
+title:        "“Gun” “Control”"
+date:         2012-12-17 13:21:21 -0800
+original_url: http://techcrunch.com/2012/12/16/gun-control/
 categories:
   - Politics
   - NoEmbed

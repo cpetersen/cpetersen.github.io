@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Elon Musk's Mission to Mars"
-date:   2012-11-02 11:22:04 -0700
+layout:       post
+title:        "Elon Musk's Mission to Mars"
+date:         2012-11-02 11:22:04 -0700
+original_url: http://www.wired.com/wiredscience/2012/10/ff-elon-musk-qa/all/
 categories:
   - Startups
   - Space

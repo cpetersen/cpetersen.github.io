@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "A moment in time"
-date:   2012-12-03 22:06:29 -0800
+layout:       post
+title:        "A moment in time"
+date:         2012-12-03 22:06:29 -0800
+original_url: http://37signals.com/svn/posts/3347-a-mistake-is-a-moment-in-time
 categories:
   - Misc
   - Philosophy

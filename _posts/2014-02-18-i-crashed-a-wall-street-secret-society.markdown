@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "I Crashed a Wall Street Secret Society"
-date:   2014-02-18 07:18:35 -0800
+layout:       post
+title:        "I Crashed a Wall Street Secret Society"
+date:         2014-02-18 07:18:35 -0800
+original_url: http://nymag.com/daily/intelligencer/2014/02/i-crashed-a-wall-street-secret-society.html
 categories:
   - Finance
 ---

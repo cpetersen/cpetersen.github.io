@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Wolfram Programming Cloud"
-date:   2014-03-09 22:26:49 -0700
+layout:       post
+title:        "Wolfram Programming Cloud"
+date:         2014-03-09 22:26:49 -0700
+original_url: http://www.wolfram.com/programming-cloud/
 categories:
   - Web
   - Software

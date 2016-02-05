@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Whedon On Romney - YouTube"
-date:   2012-10-29 08:58:42 -0700
+layout:       post
+title:        "Whedon On Romney - YouTube"
+date:         2012-10-29 08:58:42 -0700
 categories:
   - Funny
 ---

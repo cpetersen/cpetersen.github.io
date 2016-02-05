@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Official Sid Meier's Civilization: Beyond Earth"
-date:   2014-10-06 10:26:49 -0700
+layout:       post
+title:        "Official Sid Meier's Civilization: Beyond Earth"
+date:         2014-10-06 10:26:49 -0700
 categories:
   - Videogame
 ---

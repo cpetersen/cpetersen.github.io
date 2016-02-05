@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Jon Stewart Proposes an Entrepreneurial Policy. Don't Laugh."
-date:   2012-10-18 20:40:00 -0700
+layout:       post
+title:        "Jon Stewart Proposes an Entrepreneurial Policy. Don't Laugh."
+date:         2012-10-18 20:40:00 -0700
+original_url: http://boss.blogs.nytimes.com/2012/10/18/jon-stewart-proposes-an-entrepreneurial-policy-dont-laugh/
 categories:
   - Politics
   - Startups

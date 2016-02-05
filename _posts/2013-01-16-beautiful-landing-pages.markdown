@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Beautiful Landing Pages"
-date:   2013-01-16 09:14:15 -0800
+layout:       post
+title:        "Beautiful Landing Pages"
+date:         2013-01-16 09:14:15 -0800
+original_url: http://land-book.com/
 categories:
   - Web
   - Design

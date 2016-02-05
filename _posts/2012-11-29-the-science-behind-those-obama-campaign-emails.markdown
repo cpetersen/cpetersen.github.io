@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Science Behind Those Obama Campaign E-Mails"
-date:   2012-11-29 15:21:37 -0800
+layout:       post
+title:        "The Science Behind Those Obama Campaign E-Mails"
+date:         2012-11-29 15:21:37 -0800
+original_url: http://www.businessweek.com/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails
 categories:
   - Politics
   - Software

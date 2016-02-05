@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Variance Charts"
-date:   2014-03-24 14:19:24 -0700
+layout:       post
+title:        "Variance Charts"
+date:         2014-03-24 14:19:24 -0700
+original_url: https://variancecharts.com/
 categories:
   - Web
   - Software

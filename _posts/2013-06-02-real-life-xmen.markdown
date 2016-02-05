@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Real Life X-Men"
-date:   2013-06-02 21:34:10 -0700
+layout:       post
+title:        "Real Life X-Men"
+date:         2013-06-02 21:34:10 -0700
+original_url: http://www.digitaljournal.com/article/326976
 categories:
   - Science
 ---

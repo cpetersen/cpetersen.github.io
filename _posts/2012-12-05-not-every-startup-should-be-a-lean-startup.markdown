@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Not every startup should be a Lean Startup"
-date:   2012-12-05 10:26:37 -0800
+layout:       post
+title:        "Not every startup should be a Lean Startup"
+date:         2012-12-05 10:26:37 -0800
+original_url: http://gigaom.com/2012/12/03/marc-andreessen-not-every-startup-should-be-a-lean-startup-or-embrace-the-pivot/?utm_source=social&utm_medium=twitter&utm_campaign=gigaom
 categories:
   - Startups
   - NoEmbed

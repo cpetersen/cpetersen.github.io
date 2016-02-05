@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Visualizing Dilution"
-date:   2013-01-07 16:27:49 -0800
+layout:       post
+title:        "Visualizing Dilution"
+date:         2013-01-07 16:27:49 -0800
+original_url: http://visual.ly/visualizing-dilution
 categories:
   - Data Visualization
   - Infographic

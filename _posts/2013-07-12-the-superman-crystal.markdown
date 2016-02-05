@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Superman Crystal"
-date:   2013-07-12 08:58:09 -0700
+layout:       post
+title:        "The Superman Crystal"
+date:         2013-07-12 08:58:09 -0700
+original_url: http://www.southampton.ac.uk/mediacentre/news/2013/jul/13_131.shtml?1
 categories:
   - Science
 ---

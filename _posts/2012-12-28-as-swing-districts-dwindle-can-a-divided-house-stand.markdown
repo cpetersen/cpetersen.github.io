@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "As Swing Districts Dwindle, Can a Divided House Stand?"
-date:   2012-12-28 14:40:40 -0800
+layout:       post
+title:        "As Swing Districts Dwindle, Can a Divided House Stand?"
+date:         2012-12-28 14:40:40 -0800
+original_url: http://fivethirtyeight.blogs.nytimes.com/2012/12/27/as-swing-districts-dwindle-can-a-divided-house-stand/?smid=li-share
 categories:
   - Politics
   - Data Visualization

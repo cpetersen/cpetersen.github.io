@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "DIY Bioprinter"
-date:   2013-01-28 08:16:37 -0800
+layout:       post
+title:        "DIY Bioprinter"
+date:         2013-01-28 08:16:37 -0800
+original_url: http://www.wired.com/design/2013/01/diy-bio-printer/
 categories:
   - Maker
   - Biotech

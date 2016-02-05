@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Washington Enemy No. 1"
-date:   2012-11-27 22:17:49 -0800
+layout:       post
+title:        "Washington Enemy No. 1"
+date:         2012-11-27 22:17:49 -0800
+original_url: http://online.wsj.com/article/SB10001424127887324352004578137112355225342.html?mod=WSJ_hp_mostpop_read
 categories:
   - Politics
 ---

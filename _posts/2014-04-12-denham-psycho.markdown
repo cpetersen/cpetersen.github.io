@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Denham Psycho"
-date:   2014-04-12 11:27:15 -0700
+layout:       post
+title:        "Denham Psycho"
+date:         2014-04-12 11:27:15 -0700
 categories:
   - Funny
 ---

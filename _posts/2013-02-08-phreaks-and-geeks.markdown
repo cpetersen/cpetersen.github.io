@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Phreaks and Geeks"
-date:   2013-02-08 11:23:56 -0800
+layout:       post
+title:        "Phreaks and Geeks"
+date:         2013-02-08 11:23:56 -0800
+original_url: http://www.slate.com/articles/technology/books/2013/02/steve_jobs_and_phone_hacking_exploding_the_phone_by_phil_lapsley_reviewed.single.html
 categories:
   - Misc
 ---

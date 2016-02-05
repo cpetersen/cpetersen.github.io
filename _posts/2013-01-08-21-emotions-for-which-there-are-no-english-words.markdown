@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "21 Emotions For Which There Are No English Words"
-date:   2013-01-08 10:50:18 -0800
+layout:       post
+title:        "21 Emotions For Which There Are No English Words"
+date:         2013-01-08 10:50:18 -0800
+original_url: http://www.popsci.com/science/article/2013-01/emotions-which-there-are-no-english-words-infographic
 categories:
   - Misc
   - Infographic

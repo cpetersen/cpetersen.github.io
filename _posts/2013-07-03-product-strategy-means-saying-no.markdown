@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Product Strategy Means Saying No"
-date:   2013-07-03 23:05:59 -0700
+layout:       post
+title:        "Product Strategy Means Saying No"
+date:         2013-07-03 23:05:59 -0700
+original_url: http://insideintercom.io/product-strategy-means-saying-no/
 categories:
   - Startups
   - Software

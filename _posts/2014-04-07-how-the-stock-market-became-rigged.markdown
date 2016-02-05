@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "How the stock market became “rigged”"
-date:   2014-04-07 10:23:59 -0700
+layout:       post
+title:        "How the stock market became “rigged”"
+date:         2014-04-07 10:23:59 -0700
+original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2014/04/04/a-veteran-programmer-explains-how-the-stock-market-became-rigged/
 categories:
   - Economics
   - Banks

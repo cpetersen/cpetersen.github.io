@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Can you spot the scratch?"
-date:   2013-06-14 10:46:08 -0700
+layout:       post
+title:        "Can you spot the scratch?"
+date:         2013-06-14 10:46:08 -0700
+original_url: http://www.predatorythinking.com/scratch/
 categories:
   - Sales
 ---

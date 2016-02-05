@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Martin Luther King"
-date:   2013-01-21 13:39:21 -0800
+layout:       post
+title:        "Martin Luther King"
+date:         2013-01-21 13:39:21 -0800
+original_url: http://www.greenisthenewred.com/blog/remembering-mlk-the-terrorist/343/
 categories:
   - Politics
   - Misc

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Movies reimagined for another time & place"
-date:   2013-03-16 22:32:01 -0700
+layout:       post
+title:        "Movies reimagined for another time & place"
+date:         2013-03-16 22:32:01 -0700
 categories:
   - Design
   - Movies

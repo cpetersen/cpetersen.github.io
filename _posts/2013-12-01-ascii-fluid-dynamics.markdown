@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "ASCII fluid dynamics"
-date:   2013-12-01 16:46:39 -0800
+layout:       post
+title:        "ASCII fluid dynamics"
+date:         2013-12-01 16:46:39 -0800
 categories:
   - Software
 ---

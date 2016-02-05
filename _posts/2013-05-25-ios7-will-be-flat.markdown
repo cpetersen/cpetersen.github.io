@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "iOS7 will be flat"
-date:   2013-05-25 01:02:47 -0700
+layout:       post
+title:        "iOS7 will be flat"
+date:         2013-05-25 01:02:47 -0700
+original_url: http://9to5mac.com/2013/05/24/jony-ives-new-look-for-ios-7-black-white-and-flat-all-over/?utm_content=bufferbc12c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
 categories:
   - iOS
   - NoEmbed

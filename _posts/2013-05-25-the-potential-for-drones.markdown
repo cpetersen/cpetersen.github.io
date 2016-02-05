@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The Potential for Drones"
-date:   2013-05-25 23:35:50 -0700
+layout:       post
+title:        "The Potential for Drones"
+date:         2013-05-25 23:35:50 -0700
+original_url: http://www.marketplace.org/topics/tech/glimpse-potential-drone-industry#.UZ8ZVa8GUOY.twitter
 categories:
   - Drones
 ---

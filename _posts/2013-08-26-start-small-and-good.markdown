@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Start Small and Good"
-date:   2013-08-26 23:07:14 -0700
+layout:       post
+title:        "Start Small and Good"
+date:         2013-08-26 23:07:14 -0700
 categories:
   - Startups
   - Draft

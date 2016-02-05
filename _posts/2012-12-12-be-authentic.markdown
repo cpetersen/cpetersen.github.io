@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Be Authentic"
-date:   2012-12-12 08:12:26 -0800
+layout:       post
+title:        "Be Authentic"
+date:         2012-12-12 08:12:26 -0800
+original_url: http://pandodaily.com/2012/12/11/what-makes-for-a-great-entrepreneur/
 categories:
   - Startups
   - NoEmbed

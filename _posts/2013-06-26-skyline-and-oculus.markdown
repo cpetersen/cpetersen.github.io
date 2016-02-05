@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Skyline and Oculus"
-date:   2013-06-26 21:35:48 -0700
+layout:       post
+title:        "Skyline and Oculus"
+date:         2013-06-26 21:35:48 -0700
 categories:
   - Ops
 ---

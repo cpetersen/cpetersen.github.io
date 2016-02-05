@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Cesium in Water"
-date:   2013-10-24 12:53:46 -0700
+layout:       post
+title:        "Cesium in Water"
+date:         2013-10-24 12:53:46 -0700
 categories:
   - Science
 ---

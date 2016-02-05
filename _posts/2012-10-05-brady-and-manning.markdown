@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Brady and Manning"
-date:   2012-10-05 12:07:07 -0700
+layout:       post
+title:        "Brady and Manning"
+date:         2012-10-05 12:07:07 -0700
 categories:
   - Funny
 ---

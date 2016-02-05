@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The marketing dynamics of apathy"
-date:   2012-11-06 11:31:32 -0800
+layout:       post
+title:        "The marketing dynamics of apathy"
+date:         2012-11-06 11:31:32 -0800
+original_url: http://sethgodin.typepad.com/seths_blog/2012/11/why-vote-the-marketing-dynamics-of-apathy.html
 categories:
   - Politics
 ---

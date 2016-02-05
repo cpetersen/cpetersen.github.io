@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "A Short Lesson in Perspective"
-date:   2012-11-12 10:13:50 -0800
+layout:       post
+title:        "A Short Lesson in Perspective"
+date:         2012-11-12 10:13:50 -0800
+original_url: http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
 categories:
   - Startups
 ---

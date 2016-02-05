@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "ElasticSearch vs Solr"
-date:   2013-01-22 08:31:38 -0800
+layout:       post
+title:        "ElasticSearch vs Solr"
+date:         2013-01-22 08:31:38 -0800
+original_url: http://alexdong.com/one-fundamental-difference-between-elasticsearch-and-solr/
 categories:
   - Software
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Agency problems"
-date:   2012-10-20 10:44:12 -0700
+layout:       post
+title:        "Agency problems"
+date:         2012-10-20 10:44:12 -0700
+original_url: http://cdixon.org/2012/10/19/agency-problems/
 categories:
   - Startups
 ---

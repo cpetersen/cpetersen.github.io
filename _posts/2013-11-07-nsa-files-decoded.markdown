@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "NSA Files Decoded"
-date:   2013-11-07 08:03:50 -0800
+layout:       post
+title:        "NSA Files Decoded"
+date:         2013-11-07 08:03:50 -0800
+original_url: http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1
 categories:
   - Surveillance
   - NSA

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Follow SF's Subway Project… on Twitter"
-date:   2013-04-02 12:05:49 -0700
+layout:       post
+title:        "Follow SF's Subway Project… on Twitter"
+date:         2013-04-02 12:05:49 -0700
 categories:
   - Technology
 ---

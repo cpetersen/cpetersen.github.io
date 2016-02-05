@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Single page apps in depth (new free book)"
-date:   2012-10-21 22:28:18 -0700
+layout:       post
+title:        "Single page apps in depth (new free book)"
+date:         2012-10-21 22:28:18 -0700
+original_url: http://singlepageappbook.com/
 categories:
   - Web
   - Software

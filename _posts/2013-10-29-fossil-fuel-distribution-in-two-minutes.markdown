@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Fossil fuel distribution in two minutes"
-date:   2013-10-29 09:05:12 -0700
+layout:       post
+title:        "Fossil fuel distribution in two minutes"
+date:         2013-10-29 09:05:12 -0700
 categories:
   - Science
   - Economics

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "What Goes Wrong - Founders at Work"
-date:   2012-10-26 11:00:18 -0700
+layout:       post
+title:        "What Goes Wrong - Founders at Work"
+date:         2012-10-26 11:00:18 -0700
+original_url: http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html
 categories:
   - Startups
 ---

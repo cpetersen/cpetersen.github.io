@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Staples Announces In-Store 3-D Printing Service"
-date:   2012-11-29 12:35:59 -0800
+layout:       post
+title:        "Staples Announces In-Store 3-D Printing Service"
+date:         2012-11-29 12:35:59 -0800
+original_url: http://www.wired.com/design/2012/11/staples-goes-3-d/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wired/index+(Wired:+Top+Stories)
 categories:
   - Maker
 ---

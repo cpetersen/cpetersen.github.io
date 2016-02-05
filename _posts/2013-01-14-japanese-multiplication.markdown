@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Japanese Multiplication"
-date:   2013-01-14 16:54:23 -0800
+layout:       post
+title:        "Japanese Multiplication"
+date:         2013-01-14 16:54:23 -0800
 categories:
   - Education
 ---

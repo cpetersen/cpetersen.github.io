@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "To eat or be eaten?"
-date:   2012-11-30 09:10:44 -0800
+layout:       post
+title:        "To eat or be eaten?"
+date:         2012-11-30 09:10:44 -0800
+original_url: http://radar.oreilly.com/2012/11/to-eat-or-be-eaten.html
 categories:
   - Software
   - Technology

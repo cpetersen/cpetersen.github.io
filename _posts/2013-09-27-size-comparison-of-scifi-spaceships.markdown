@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Size Comparison of Sci-Fi Spaceships"
-date:   2013-09-27 10:52:34 -0700
+layout:       post
+title:        "Size Comparison of Sci-Fi Spaceships"
+date:         2013-09-27 10:52:34 -0700
 categories:
   - NoEmbed
   - Space

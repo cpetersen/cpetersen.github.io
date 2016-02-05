@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Time Lapse of Earth from the ISS"
-date:   2013-12-06 13:16:11 -0800
+layout:       post
+title:        "Time Lapse of Earth from the ISS"
+date:         2013-12-06 13:16:11 -0800
 categories:
   - Space
   - Science

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Electric Imp Wants to Bring Wifi to Everything"
-date:   2013-03-21 14:26:07 -0700
+layout:       post
+title:        "Electric Imp Wants to Bring Wifi to Everything"
+date:         2013-03-21 14:26:07 -0700
 categories:
   - Technology
   - Hardware

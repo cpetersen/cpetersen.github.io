@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Keep your goals to yourself"
-date:   2013-01-12 12:23:14 -0800
+layout:       post
+title:        "Keep your goals to yourself"
+date:         2013-01-12 12:23:14 -0800
 categories:
   - Misc
 ---

@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "The New Yorker’s Endorsement of Barack Obama"
-date:   2012-10-22 11:25:17 -0700
+layout:       post
+title:        "The New Yorker’s Endorsement of Barack Obama"
+date:         2012-10-22 11:25:17 -0700
+original_url: http://www.newyorker.com/talk/comment/2012/10/29/121029taco_talk_editors?mbid=social_retweet
 categories:
   - Politics
 ---

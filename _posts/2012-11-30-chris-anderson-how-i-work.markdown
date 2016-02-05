@@ -1,7 +1,8 @@
 ---
-layout: post
-title:  "Chris Anderson, How I Work"
-date:   2012-11-30 17:48:38 -0800
+layout:       post
+title:        "Chris Anderson, How I Work"
+date:         2012-11-30 17:48:38 -0800
+original_url: http://lifehacker.com/5963966/im-chris-anderson-and-this-is-how-i-work
 categories:
   - Maker
 ---
