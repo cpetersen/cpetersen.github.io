@@ -14,10 +14,6 @@
             <p>By <b>{{ post.author }}</b></p>
           {% endif %}
 
-          {% if post.url %}
-            <a href="{{ post.url }}" title="Read Post" class="icon image">{{ post.content | reading_time_as_i }}</a>
-          {% endif %}
-
         </div>
 
       </div>
