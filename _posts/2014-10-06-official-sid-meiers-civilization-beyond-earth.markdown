@@ -5,7 +5,7 @@ type: post
 navigation: false
 
 date: 2014-10-06 10:26:49 -0700
-excerpt: Snarky comment here...
+excerpt: 
 categories:
   - Videogame
 

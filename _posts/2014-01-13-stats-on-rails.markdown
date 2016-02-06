@@ -6,11 +6,11 @@ categories:
   - Draft
 ---
 
- Basic stats methods:  [https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation](https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation)  
+Basic stats methods:  [https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation](https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation)  
 
- Definition:  [http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)   Alternate Definition with more numbers:  [http://graphpad.com/support/faqid/1598/](http://graphpad.com/support/faqid/1598/)  
+Definition:  [http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)   Alternate Definition with more numbers:  [http://graphpad.com/support/faqid/1598/](http://graphpad.com/support/faqid/1598/)  
 
-```ruby
+{% highlight ruby %}
 module Enumerable
   def sum
     self.inject(0){|accum, i| accum + i }
@@ -103,14 +103,14 @@ module Enumerable
     result
   end
 end
-```
+{% endhighlight %}
 
- Example 
+Example
 
-```php
+{% highlight ruby %}
 values = [1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,100,110]
-values.reject_outliers 
-values.select_outliers 
-```
+values.reject_outliers
+values.select_outliers
+{% endhighlight %}
 
- The end 
+ The end
