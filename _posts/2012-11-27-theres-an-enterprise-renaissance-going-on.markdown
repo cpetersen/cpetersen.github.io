@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "There’s An Enterprise Renaissance Going On"
-date:         2012-11-27 09:38:21 -0800
-original_url: http://techcrunch.com/2012/11/14/andreessen-horowitz-general-partner-peter-levine-theres-an-enterprise-renaissance-going-on/
+layout: default
+title: "There’s An Enterprise Renaissance Going On"
+type: post
+navigation: false
+
+date: 2012-11-27 09:38:21 -0800
+excerpt: "The enterprise is dead, long live the enterpris..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://techcrunch.com/2012/11/14/andreessen-horowitz-general-partner-peter-levine-theres-an-enterprise-renaissance-going-on/
 ---
+
 
 The enterprise is dead, long live the enterprise! The Italian monarch is an interesting analogy and I like thinking of  [GitHub](http://github.com)  as a guild. It fits with our experience at  [Assay Depot](http://www.assaydepot.com)  selling into pharmaceutical companies. 
 

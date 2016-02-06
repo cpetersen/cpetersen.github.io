@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Martin Luther King"
-date:         2013-01-21 13:39:21 -0800
-original_url: http://www.greenisthenewred.com/blog/remembering-mlk-the-terrorist/343/
+layout: default
+title: "Martin Luther King"
+type: post
+navigation: false
+
+date: 2013-01-21 13:39:21 -0800
+excerpt: "&quot;A good trouble. A necessary trouble.&quot; Seems li..."
 categories:
   - Politics
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.greenisthenewred.com/blog/remembering-mlk-the-terrorist/343/
 ---
+
 
 "A good trouble. A necessary trouble." Seems like an appropriate way to remember Dr King.
 

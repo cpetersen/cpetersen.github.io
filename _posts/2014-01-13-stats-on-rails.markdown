@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Stats on Rails"
-date:         2014-01-13 14:07:18 -0800
+layout: default
+title: "Stats on Rails"
+type: post
+navigation: false
+
+date: 2014-01-13 14:07:18 -0800
+excerpt: "Basic stats methods:  https://www.bcg.wisc.edu/..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
  Basic stats methods:  [https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation](https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation)  
 

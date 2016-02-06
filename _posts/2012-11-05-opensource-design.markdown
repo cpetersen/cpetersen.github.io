@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Open-source design"
-date:         2012-11-05 15:00:38 -0800
-original_url: http://www.economist.com/blogs/schumpeter/2012/11/open-source-design
+layout: default
+title: "Open-source design"
+type: post
+navigation: false
+
+date: 2012-11-05 15:00:38 -0800
+excerpt: "The maker movement is so cool. I really think t..."
 categories:
   - Maker
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.economist.com/blogs/schumpeter/2012/11/open-source-design
 ---
+
 
 The maker movement is so cool. I really think the next big thing is scalable manufacturing. The ability to build 1 or 2 of something, then scale that design up to thousands or millions in a straight foward manner.
 

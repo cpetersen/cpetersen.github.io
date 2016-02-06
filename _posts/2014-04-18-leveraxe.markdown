@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Leveraxe"
-date:         2014-04-18 12:06:11 -0700
-original_url: http://www.vipukirves.fi/english/description.htm
+layout: default
+title: "Leveraxe"
+type: post
+navigation: false
+
+date: 2014-04-18 12:06:11 -0700
+excerpt: "The Leveraxe is an ingenious new axe design. A ..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.vipukirves.fi/english/description.htm
 ---
 
-  ![Vipukirves_toiminta2.jpg](/assets/import/751db6627b1d77040c0ae6b52c742c0b.jpg)  
+
+  ![Vipukirves_toiminta2.jpg](/attachments/751db6627b1d77040c0ae6b52c742c0b/image.png)  
 
  The Leveraxe is an ingenious new axe design. A traditional axe uses brute force to first penetrate, then split the log being chopped. The leveraxe first penetrates, but since it’s head if off center from the handle, it then twists, using a lever action to split the log with much less force. 
 

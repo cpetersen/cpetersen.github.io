@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Chris Dixon on Good Ideas that look like Bad Ideas"
-date:         2014-02-16 07:27:00 -0800
+layout: default
+title: "Chris Dixon on Good Ideas that look like Bad Ideas"
+type: post
+navigation: false
+
+date: 2014-02-16 07:27:00 -0800
+excerpt: "Chris Dixon’s presentation to Start Up School o..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FakOazwgDiSI%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DakOazwgDiSI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FakOazwgDiSI%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=akOazwgDiSI" title="Chris Dixon on Good Ideas that look like Bad Ideas" caption="Chris Dixon’s presentation to Start Up School o..." %}
 
 Chris Dixon’s presentation to Start Up School on why start ups generally focus on good ideas that look like bad ideas. 
 

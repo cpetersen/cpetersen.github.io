@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Not every startup should be a Lean Startup"
-date:         2012-12-05 10:26:37 -0800
-original_url: http://gigaom.com/2012/12/03/marc-andreessen-not-every-startup-should-be-a-lean-startup-or-embrace-the-pivot/?utm_source=social&utm_medium=twitter&utm_campaign=gigaom
+layout: default
+title: "Not every startup should be a Lean Startup"
+type: post
+navigation: false
+
+date: 2012-12-05 10:26:37 -0800
+excerpt: "While the &quot;Lean Startup&quot; methodology is a smart..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://gigaom.com/2012/12/03/marc-andreessen-not-every-startup-should-be-a-lean-startup-or-embrace-the-pivot/?utm_source=social&utm_medium=twitter&utm_campaign=gigaom
 ---
+
 
 While the "Lean Startup" methodology is a smart and widely applicable way of building a company, it's good to remember there are exceptions to every rule. In this article, Marc Andreesen talks about some of those exceptions.
 

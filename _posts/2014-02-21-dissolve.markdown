@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Dissolve"
-date:         2014-02-21 16:39:50 -0800
-original_url: http://www.dissolve.com/
+layout: default
+title: "Dissolve"
+type: post
+navigation: false
+
+date: 2014-02-21 16:39:50 -0800
+excerpt: "Dissolve looks pretty cool. They sell royalty f..."
 categories:
   - Video
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.dissolve.com/
 ---
+
 
 Dissolve looks pretty cool. They sell royalty free video clips. Basically b-roll if you are putting together your next product video. I clicked around, it looks like a significant portion of their catalog is available for a few bucks, with some videos ranging up to $150 (and probably higher). I nice resource to know about. 
 

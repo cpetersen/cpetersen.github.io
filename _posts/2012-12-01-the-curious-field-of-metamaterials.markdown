@@ -1,15 +1,30 @@
 ---
-layout:       post
-title:        "The Curious Field of Metamaterials"
-date:         2012-12-01 23:08:22 -0800
-original_url: http://www.judegomila.com/2012/12/the-curious-field-of-metamaterials.html
+layout: default
+title: "The Curious Field of Metamaterials"
+type: post
+navigation: false
+
+date: 2012-12-01 23:08:22 -0800
+excerpt: "Wow, I had no idea &quot;metamaterials&quot; like this ex..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.judegomila.com/2012/12/the-curious-field-of-metamaterials.html
 ---
+
 
 Wow, I had no idea "metamaterials" like this existed (or could exist)! This article discusses cloaking devices and a material that does the opposite of compressing (negative compression) when you squeeze it among other things. 
 
- >   [![](/assets/import/24dfcc49cacdd97ff0f86d8346a0bfe5.png)](http://4.bp.blogspot.com/-EZSqpPCx28U/ULqiQhs-L-I/AAAAAAAACUI/Eax9H2N9Dgs/s1600/metamaterials.png)  
+ >   [![](/attachments/24dfcc49cacdd97ff0f86d8346a0bfe5/image.png)](http://4.bp.blogspot.com/-EZSqpPCx28U/ULqiQhs-L-I/AAAAAAAACUI/Eax9H2N9Dgs/s1600/metamaterials.png)  
  > 
  >  __ What are metamaterials?__ 
  > 

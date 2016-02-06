@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Breaking cryptography"
-date:         2013-09-02 10:50:33 -0700
-original_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptography
+layout: default
+title: "Breaking cryptography"
+type: post
+navigation: false
+
+date: 2013-09-02 10:50:33 -0700
+excerpt: "Has some group of anonymous mathematicans in Ma..."
 categories:
   - Crypto
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptography
 ---
+
 
 
 

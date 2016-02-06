@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Infinite Series and the Mind-Blowing Result."
-date:         2014-01-20 09:40:13 -0800
-original_url: http://www.slate.com/blogs/bad_astronomy/2014/01/18/follow_up_the_infinite_series_and_the_mind_blowing_result.html
+layout: default
+title: "The Infinite Series and the Mind-Blowing Result."
+type: post
+navigation: false
+
+date: 2014-01-20 09:40:13 -0800
+excerpt: "This video, described as mind-bending or mind-m..."
 categories:
   - Science
   - Math
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.slate.com/blogs/bad_astronomy/2014/01/18/follow_up_the_infinite_series_and_the_mind_blowing_result.html
 ---
+
 
  This video, described as mind-bending or mind-melting, made the rounds last week. I almost blogged about it since the result is pretty cool, but somewhere along the line it stopped making sense to me. For me it was when the shifted the series by 1 and started adding them together. I don’t have the math background to know if that’s allowed, but it struck me as strange enough that I didn’t post the video. 
 

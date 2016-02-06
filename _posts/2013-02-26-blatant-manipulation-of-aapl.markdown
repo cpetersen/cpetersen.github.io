@@ -1,15 +1,30 @@
 ---
-layout:       post
-title:        "Blatant manipulation of $AAPL"
-date:         2013-02-26 17:49:18 -0800
-original_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossible-apple-stock-split-helps-fund-manager-clear-profits
+layout: default
+title: "Blatant manipulation of $AAPL"
+type: post
+navigation: false
+
+date: 2013-02-26 17:49:18 -0800
+excerpt: "This is really disgusting, hedge fund manager s..."
 categories:
   - Finance
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossible-apple-stock-split-helps-fund-manager-clear-profits
 ---
 
 
 
- ![AAPL.022613.jpg](/assets/import/d5eb46efebb894cd1fcc66cda1bd7afe.jpg) 
+
+ ![AAPL.022613.jpg](/attachments/d5eb46efebb894cd1fcc66cda1bd7afe/image.png) 
 
  This is really disgusting, hedge fund manager spreads a completely unverifiable rumor,  [on twitter](https://twitter.com/DougKass/statuses/306475843784425472)  nonetheless, and profits from the result. Some choice quotes from the article: 
 

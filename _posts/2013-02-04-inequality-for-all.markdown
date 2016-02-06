@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Inequality for All"
-date:         2013-02-04 12:05:25 -0800
-original_url: http://www.guardian.co.uk/film/2013/feb/02/inequality-for-all-us-economy-robert-reich
+layout: default
+title: "Inequality for All"
+type: post
+navigation: false
+
+date: 2013-02-04 12:05:25 -0800
+excerpt: "I can't wait to see &quot; Inequality for All &quot;. The..."
 categories:
   - Politics
   - Economics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.guardian.co.uk/film/2013/feb/02/inequality-for-all-us-economy-robert-reich
 ---
+
 
 I can't wait to see " [Inequality for All](http://inequalityforall.com) ".
 

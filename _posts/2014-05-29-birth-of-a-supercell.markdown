@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Birth of a Supercell"
-date:         2014-05-29 16:52:13 -0700
-original_url: http://www.slate.com/blogs/bad_astronomy/2014/05/29/supercells_time_lapse_birth_of_huge_storm_systems.html
+layout: default
+title: "Birth of a Supercell"
+type: post
+navigation: false
+
+date: 2014-05-29 16:52:13 -0700
+excerpt: "Amazing time-lapse footage of a supercell storm..."
 categories:
   - Science
   - Weather
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.slate.com/blogs/bad_astronomy/2014/05/29/supercells_time_lapse_birth_of_huge_storm_systems.html
 ---
+
 
 Amazing time-lapse footage of a supercell storm cloud forming over Kansas.

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "People simply empty out"
-date:         2013-08-20 22:28:06 -0700
-original_url: http://www.lettersofnote.com/2012/10/people-simply-empty-out.html
+layout: default
+title: "People simply empty out"
+type: post
+navigation: false
+
+date: 2013-08-20 22:28:06 -0700
+excerpt: "What you do in life matters, make it a consciou..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.lettersofnote.com/2012/10/people-simply-empty-out.html
 ---
+
 
 What you do in life matters, make it a conscious choice and don't let fear hold you back.
 

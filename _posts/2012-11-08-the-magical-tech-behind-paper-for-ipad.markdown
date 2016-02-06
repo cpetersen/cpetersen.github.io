@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Magical Tech Behind Paper For iPad"
-date:         2012-11-08 19:52:47 -0800
-original_url: http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection
+layout: default
+title: "The Magical Tech Behind Paper For iPad"
+type: post
+navigation: false
+
+date: 2012-11-08 19:52:47 -0800
+excerpt: "Paper  is a very well done app. I like the desc..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.fastcompany.com/3002676/magical-tech-behind-paper-ipads-color-mixing-perfection
 ---
+
 
  [Paper](https://itunes.apple.com/us/app/paper-by-fiftythree/id506003812)  is a very well done app. I like the description of how they went the extra mile to make color selection natural. Spring for the mixer in-store purchase, if only to see their interface in action.
 

@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "WebPlatform.org — Your Web, documented"
-date:         2012-10-08 09:48:20 -0700
-original_url: http://webplatform.org/
+layout: default
+title: "WebPlatform.org — Your Web, documented"
+type: post
+navigation: false
+
+date: 2012-10-08 09:48:20 -0700
+excerpt: "Apple, Facebook, Google and Microsoft have crea..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://webplatform.org/
 ---
+
 
 Apple, Facebook, Google and Microsoft have created webplatform.org to document modern web technologies. Looks like it could mature into a useful resource.
 

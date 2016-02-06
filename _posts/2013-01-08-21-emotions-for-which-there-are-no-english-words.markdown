@@ -1,16 +1,31 @@
 ---
-layout:       post
-title:        "21 Emotions For Which There Are No English Words"
-date:         2013-01-08 10:50:18 -0800
-original_url: http://www.popsci.com/science/article/2013-01/emotions-which-there-are-no-english-words-infographic
+layout: default
+title: "21 Emotions For Which There Are No English Words"
+type: post
+navigation: false
+
+date: 2013-01-08 10:50:18 -0800
+excerpt: "I'm fascinated by how language can affect how w..."
 categories:
   - Misc
   - Infographic
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.popsci.com/science/article/2013-01/emotions-which-there-are-no-english-words-infographic
 ---
 
 
 
- ![514aaec3555300b8d9b52d23f891215e.png](/assets/import/514aaec3555300b8d9b52d23f891215e.png) 
+
+ ![514aaec3555300b8d9b52d23f891215e.png](/attachments/514aaec3555300b8d9b52d23f891215e/image.png) 
 
  I'm fascinated by how language can affect how we think. This infographic shows 12 emotions for which english doesn't have a word.
 

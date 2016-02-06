@@ -1,17 +1,32 @@
 ---
-layout:       post
-title:        "stacksort"
-date:         2013-03-18 11:29:21 -0700
-original_url: http://gkoberger.github.com/stacksort/
+layout: default
+title: "stacksort"
+type: post
+navigation: false
+
+date: 2013-03-18 11:29:21 -0700
+excerpt: "This is a pretty amazing use of  StackOverflow...."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://gkoberger.github.com/stacksort/
 ---
+
 
 This is a pretty amazing use of  [StackOverflow](http://stackoverflow.com).
 
 Based on  [this XKCD comic](http://xkcd.com/1185/).
 
- >   ![](/assets/import/2761f8f3e2593f39d374a5c4fbba3271.png) 
+ >   ![](/attachments/2761f8f3e2593f39d374a5c4fbba3271/image.png) 
  > 
  > ### stack __sort__ 
  > 

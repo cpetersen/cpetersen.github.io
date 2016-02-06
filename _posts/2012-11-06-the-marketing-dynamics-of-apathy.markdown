@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The marketing dynamics of apathy"
-date:         2012-11-06 11:31:32 -0800
-original_url: http://sethgodin.typepad.com/seths_blog/2012/11/why-vote-the-marketing-dynamics-of-apathy.html
+layout: default
+title: "The marketing dynamics of apathy"
+type: post
+navigation: false
+
+date: 2012-11-06 11:31:32 -0800
+excerpt: "Vote! The goal of political marketers isn't to ..."
 categories:
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://sethgodin.typepad.com/seths_blog/2012/11/why-vote-the-marketing-dynamics-of-apathy.html
 ---
+
 
 Vote!
 

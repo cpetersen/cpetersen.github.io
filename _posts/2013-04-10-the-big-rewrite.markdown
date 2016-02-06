@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "The Big Rewrite"
-date:         2013-04-10 12:36:33 -0700
+layout: default
+title: "The Big Rewrite"
+type: post
+navigation: false
+
+date: 2013-04-10 12:36:33 -0700
+excerpt: "Much has been written about &quot;The Big Rewrite&quot;. ..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 Much has been written about "The Big Rewrite". That's fitting, given the complexity of the issue. At the end of this post, you'll find references to my favorite pieces by people like  [Joel Spolsky](http://www.joelonsoftware.com) ,  [Chad Fowler](http://chadfowler.com)  and others. If you are even considering rewriting a production system of any size, you owe it to yourself to read everything above.
 

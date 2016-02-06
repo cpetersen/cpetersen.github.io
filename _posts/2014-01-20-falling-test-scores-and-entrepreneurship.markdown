@@ -1,16 +1,31 @@
 ---
-layout:       post
-title:        "Falling Test Scores and Entrepreneurship"
-date:         2014-01-20 08:55:46 -0800
-original_url: http://www.forbes.com/sites/gyro/2014/01/06/could-falling-test-scores-be-a-good-thing-for-the-u-s/
+layout: default
+title: "Falling Test Scores and Entrepreneurship"
+type: post
+navigation: false
+
+date: 2014-01-20 08:55:46 -0800
+excerpt: "Zhao found an interesting and surprising result..."
 categories:
   - Startups
   - Education
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.forbes.com/sites/gyro/2014/01/06/could-falling-test-scores-be-a-good-thing-for-the-u-s/
 ---
 
 
 
- >  ![Screen-Shot-2014-01-03-at-8.59.40-AM.png](/assets/import/f8cf14a9d622492c59c535e85081a765.png)  Zhao found an interesting and surprising result.  There was an inverse correlation between test scores and perceived entrepreneurship capabilities. The top PISA-performing countries of Korea, Singapore, Taiwan and Japan scored the lowest on perceived capabilities or confidence in their ability to start a new business. 
+
+ >  ![Screen-Shot-2014-01-03-at-8.59.40-AM.png](/attachments/f8cf14a9d622492c59c535e85081a765/image.png)  Zhao found an interesting and surprising result.  There was an inverse correlation between test scores and perceived entrepreneurship capabilities. The top PISA-performing countries of Korea, Singapore, Taiwan and Japan scored the lowest on perceived capabilities or confidence in their ability to start a new business. 
 
  > 
 

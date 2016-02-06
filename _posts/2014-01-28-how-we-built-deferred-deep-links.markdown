@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "How We Built Deferred Deep Links"
-date:         2014-01-28 14:27:45 -0800
-original_url: http://blog.tapstream.com/post/74394304157/how-we-built-deferred-deep-links
+layout: default
+title: "How We Built Deferred Deep Links"
+type: post
+navigation: false
+
+date: 2014-01-28 14:27:45 -0800
+excerpt: "What tap stream has done with Deferred Deep Lin..."
 categories:
   - iOS
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blog.tapstream.com/post/74394304157/how-we-built-deferred-deep-links
 ---
+
 
 What tap stream has done with Deferred Deep Links is really pretty cool. Gathering intelligence on where your installs come from is way harder than it should be. This could go a long way toward fixing that.
 

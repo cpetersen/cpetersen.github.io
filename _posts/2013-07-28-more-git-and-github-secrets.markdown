@@ -1,10 +1,24 @@
 ---
-layout:       post
-title:        "More Git and GitHub Secrets"
-date:         2013-07-28 23:45:56 -0700
+layout: default
+title: "More Git and GitHub Secrets"
+type: post
+navigation: false
+
+date: 2013-07-28 23:45:56 -0700
+excerpt: "Zach Holman  gives more Git and GitHub tricks i..."
 categories:
   - Software
   - Git
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2F70964630d6e201303b270ade81771009&url=https%3A%2F%2Fspeakerdeck.com%2Fholman%2Fmore-git-and-github-secrets&image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2F70964630d6e201303b270ade81771009%2Fslide_0.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=speakerdeck" width="450" height="316" scrolling="no" frameborder="0" allowfullscreen></iframe>

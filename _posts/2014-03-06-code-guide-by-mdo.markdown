@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Code Guide by @mdo"
-date:         2014-03-06 09:57:07 -0800
-original_url: http://mdo.github.io/code-guide/
+layout: default
+title: "Code Guide by @mdo"
+type: post
+navigation: false
+
+date: 2014-03-06 09:57:07 -0800
+excerpt: "Every line of code should appear to be written ..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://mdo.github.io/code-guide/
 ---
+
 
 
 

@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "LaunchImage Names and Dimensions"
-date:         2013-07-21 14:01:51 -0700
+layout: default
+title: "LaunchImage Names and Dimensions"
+type: post
+navigation: false
+
+date: 2013-07-21 14:01:51 -0700
+excerpt: "List Test  This is a paragraph  Red Orange Yell..."
 categories:
   - iOS
   - Software
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 
 

@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Don't negotiate with yourself"
-date:         2012-11-29 16:52:48 -0800
-original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/11/29/obama-to-gop-i-wont-negotiate-with-myself/
+layout: default
+title: "Don't negotiate with yourself"
+type: post
+navigation: false
+
+date: 2012-11-29 16:52:48 -0800
+excerpt: "Regardless of the politics in this article, thi..."
 categories:
   - Politics
   - Business
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/11/29/obama-to-gop-i-wont-negotiate-with-myself/
 ---
+
 
 Regardless of the politics in this article, this line is something we should all keep in mind during negotiations.
 

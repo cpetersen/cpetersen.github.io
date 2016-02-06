@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "The Shape of the Problem"
-date:         2014-02-24 12:14:18 -0800
+layout: default
+title: "The Shape of the Problem"
+type: post
+navigation: false
+
+date: 2014-02-24 12:14:18 -0800
+excerpt: "I found this tweet in  Charles Nutter’s  Twitte..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>@headius give it away :) ruby is so much faster than java at finding the shape of a solution even if it doesn't end up being the solution</p>&mdash; Jacob Perkins (@TheDataChef) <a href="https://twitter.com/TheDataChef/status/437045024451084289">February 21, 2014</a></blockquote>

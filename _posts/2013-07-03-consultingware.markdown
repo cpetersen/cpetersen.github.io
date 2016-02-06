@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Consultingware"
-date:         2013-07-03 23:14:10 -0700
-original_url: http://www.joelonsoftware.com/articles/SetYourPriorities.html
+layout: default
+title: "Consultingware"
+type: post
+navigation: false
+
+date: 2013-07-03 23:14:10 -0700
+excerpt: "This post, from 2005, covers the dangers of &quot;co..."
 categories:
   - Startups
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.joelonsoftware.com/articles/SetYourPriorities.html
 ---
+
 
 This post, from 2005, covers the dangers of "consultingware" (love that term). This trap is so easy to fall into, especially for startsup looking for  [product market fit](http://www.startup-marketing.com/the-startup-pyramid/)   and ESPECIALLY if you land that "big client". For that reason, it brings to mind  [Mark Suster's Elephant Hunting metaphor](http://www.bothsidesofthetable.com/2009/09/16/most-startups-should-be-deer-hunters/).
 

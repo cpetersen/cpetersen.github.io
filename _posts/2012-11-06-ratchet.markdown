@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Ratchet"
-date:         2012-11-06 11:38:23 -0800
-original_url: http://maker.github.com/ratchet/
+layout: default
+title: "Ratchet"
+type: post
+navigation: false
+
+date: 2012-11-06 11:38:23 -0800
+excerpt: "Ratchet  is an interesting project. I'm glad pe..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://maker.github.com/ratchet/
 ---
+
 
  [Ratchet](http://maker.github.com/ratchet/)  is an interesting project. I'm glad people who want to prototype iOS apps have a  [bootstrap](http://twitter.github.com/bootstrap/)  like framework to do so. However, I still prefer  [RubyMotion](http://www.rubymotion.com)  and something like  [Pixate](http://www.pixate.com)  for rapidly prototyping mobile apps.

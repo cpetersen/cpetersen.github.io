@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Pitchforks Are Coming"
-date:         2014-06-27 15:03:26 -0700
-original_url: http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html
+layout: default
+title: "The Pitchforks Are Coming"
+type: post
+navigation: false
+
+date: 2014-06-27 15:03:26 -0700
+excerpt: "Nick Hanauer is super wealthy. He also advocate..."
 categories:
   - Politics
   - Economics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html
 ---
+
 
 Nick Hanauer is super wealthy. He also advocated for the $15 minimum wage in Seattle... he also just published a very  [cogent argument](http://www.politico.com/magazine/story/2014/06/the-pitchforks-are-coming-for-us-plutocrats-108014.html)  as to why we should do it nationally. It’s very quotable, below are my favorites. 
 

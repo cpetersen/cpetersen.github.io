@@ -1,11 +1,25 @@
 ---
-layout:       post
-title:        "How Chicago's Data-Driven Campaign Triumphed"
-date:         2012-11-07 19:01:59 -0800
+layout: default
+title: "How Chicago's Data-Driven Campaign Triumphed"
+type: post
+navigation: false
+
+date: 2012-11-07 19:01:59 -0800
+excerpt: "Time looks at the role data and software played..."
 categories:
   - Politics
   - NoEmbed
   - Big Data
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <p>In late spring, the backroom number crunchers who powered Barack Obama’s campaign to victory noticed that George Clooney had an almost gravitational tug on West Coast females ages 40 to 49. The women were far and away the single demographic group most likely to hand over cash, for a chance to dine in Hollywood with Clooney — and Obama.</p>

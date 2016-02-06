@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Do Things that Don't Scale"
-date:         2013-07-14 15:24:48 -0700
-original_url: http://paulgraham.com/ds.html
+layout: default
+title: "Do Things that Don't Scale"
+type: post
+navigation: false
+
+date: 2013-07-14 15:24:48 -0700
+excerpt: "Paul Graham makes the argument that start ups, ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://paulgraham.com/ds.html
 ---
+
 
 Paul Graham makes the argument that start ups, near universally, need to do things that don't scale to get started. The important part of this message is, that there are two parts to a start up. The scalable part that most people think of AND the unscalable thing that you do to get it going. Here are some choice quotes from the essay.
 

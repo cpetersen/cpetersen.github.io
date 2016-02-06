@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Work vs Assets"
-date:         2013-04-12 08:44:56 -0700
-original_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
+layout: default
+title: "Work vs Assets"
+type: post
+navigation: false
+
+date: 2013-04-12 08:44:56 -0700
+excerpt: "Do work and get paid once. Build an asset and g..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
 ---
+
 
  
 

@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Billionaires' Long Game"
-date:         2012-12-12 09:23:30 -0800
-original_url: http://robertreich.org/post/37752857908
+layout: default
+title: "The Billionaires' Long Game"
+type: post
+navigation: false
+
+date: 2012-12-12 09:23:30 -0800
+excerpt: "This is appalling.  Robert Reich  discuss the n..."
 categories:
   - Finance
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://robertreich.org/post/37752857908
 ---
+
 
 This is appalling.  [Robert Reich](https://twitter.com/RBReich)  discuss the need for campaign finance reform.
 

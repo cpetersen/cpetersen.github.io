@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "The Incredible Ad for Chipotle's new App"
-date:         2013-09-15 10:32:09 -0700
+layout: default
+title: "The Incredible Ad for Chipotle's new App"
+type: post
+navigation: false
+
+date: 2013-09-15 10:32:09 -0700
+excerpt: "I can't help but think this will be a huge succ..."
 categories:
   - Ad
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FlUtnas5ScSE%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlUtnas5ScSE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlUtnas5ScSE%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=lUtnas5ScSE" title="The Incredible Ad for Chipotle's new App" caption="I can't help but think this will be a huge succ..." %}
 
 I can't help but think this will be a huge success.
 

@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "@Cmdr_Hadfield to @WilliamShatner"
-date:         2013-01-04 10:42:59 -0800
+layout: default
+title: "@Cmdr_Hadfield to @WilliamShatner"
+type: post
+navigation: false
+
+date: 2013-01-04 10:42:59 -0800
+excerpt: "Amazing."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>@WilliamShatner Yes, Standard Orbit, Captain. And we're detecting signs of life on the surface.</p>&mdash; Chris Hadfield (@Cmdr_Hadfield) <a href="https://twitter.com/Cmdr_Hadfield/status/286948264236945408">January 03, 2013</a></blockquote>

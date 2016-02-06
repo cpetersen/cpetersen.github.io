@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "The Monty Hall Problem is Anti April Fools"
-date:         2013-04-01 08:57:16 -0700
+layout: default
+title: "The Monty Hall Problem is Anti April Fools"
+type: post
+navigation: false
+
+date: 2013-04-01 08:57:16 -0700
+excerpt: "I'm not against April Fool's day, and to my kno..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
  I'm not against April Fool's day, and to my knowledge, neither is Monty Hall. However, in honor of April Fool's day, I wanted to post something that is hard to believe, but is actually true. 
 
@@ -20,7 +35,7 @@ categories:
 
  Sound impossible? Business Insider  [explains the math](http://www.businessinsider.com/the-monty-hall-problem-2013-3?op=1)  here and Wikipedia  [confirms](http://en.wikipedia.org/wiki/Monty_Hall_problem). 
 
-  ![](/assets/import/1faf98b2d621500746e5b7c23207c3b4.jpg)  
+  ![](/attachments/1faf98b2d621500746e5b7c23207c3b4/image.png)  
 
  It sounds crazy, but it's true! Happy April Fools!
 

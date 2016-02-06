@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Empathy Vacuum"
-date:         2014-03-12 09:39:18 -0700
-original_url: http://www.eod.com/blog/2014/02/empathy-vacuum/
+layout: default
+title: "The Empathy Vacuum"
+type: post
+navigation: false
+
+date: 2014-03-12 09:39:18 -0700
+excerpt: "Exposed to the entire spectrum of human enthusi..."
 categories:
   - Empathy
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.eod.com/blog/2014/02/empathy-vacuum/
 ---
+
 
 
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Focus"
-date:         2013-07-17 14:27:55 -0700
-original_url: http://blog.samaltman.com/how-things-get-done
+layout: default
+title: "Focus"
+type: post
+navigation: false
+
+date: 2013-07-17 14:27:55 -0700
+excerpt: "Focus and personal connections are the key to g..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blog.samaltman.com/how-things-get-done
 ---
+
 
 Focus and personal connections are the key to getting things done.
 

@@ -1,14 +1,29 @@
 ---
-layout:       post
-title:        "BioBlender"
-date:         2013-03-31 22:44:36 -0700
-original_url: http://bioblender.eu
+layout: default
+title: "BioBlender"
+type: post
+navigation: false
+
+date: 2013-03-31 22:44:36 -0700
+excerpt: "BioBlender is a software package built on the o..."
 categories:
   - Software
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://bioblender.eu
 ---
 
-  ![BBSplash.png](/assets/import/7202a809872ea3b997defdcd19055442.png) 
+
+  ![BBSplash.png](/attachments/7202a809872ea3b997defdcd19055442/image.png) 
 
  > BioBlender is a software package built on the open-source 3D modeling software Blender.
  > 

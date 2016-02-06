@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Mysterious Algorithm Was 4% of Trading Activity Last Week"
-date:         2012-10-08 23:48:12 -0700
-original_url: http://www.cnbc.com/id/49333454
+layout: default
+title: "Mysterious Algorithm Was 4% of Trading Activity Last Week"
+type: post
+navigation: false
+
+date: 2012-10-08 23:48:12 -0700
+excerpt: "Does anyone else thing high frequency trading i..."
 categories:
   - Finance
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.cnbc.com/id/49333454
 ---
+
 
 Does anyone else thing high frequency trading is out of control?
 

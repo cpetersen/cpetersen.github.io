@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Simplicity | Francis Pedraza"
-date:         2012-11-07 19:10:54 -0800
-original_url: http://francispedraza.com/simplicity
+layout: default
+title: "Simplicity | Francis Pedraza"
+type: post
+navigation: false
+
+date: 2012-11-07 19:10:54 -0800
+excerpt: "It's been said over and over again, pick your f..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://francispedraza.com/simplicity
 ---
+
 
 It's been said over and over again, pick your favorite quote:
 

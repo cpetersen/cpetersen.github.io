@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "How to Convince Investors"
-date:         2013-08-07 13:51:51 -0700
-original_url: http://paulgraham.com/convince.html
+layout: default
+title: "How to Convince Investors"
+type: post
+navigation: false
+
+date: 2013-08-07 13:51:51 -0700
+excerpt: "Paul Graham tells us how to convince investors...."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://paulgraham.com/convince.html
 ---
+
 
  Paul Graham tells us how to convince investors. 
 

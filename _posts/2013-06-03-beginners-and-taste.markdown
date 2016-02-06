@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Beginners and Taste"
-date:         2013-06-03 12:40:22 -0700
+layout: default
+title: "Beginners and Taste"
+type: post
+navigation: false
+
+date: 2013-06-03 12:40:22 -0700
+excerpt: "What nobody tells people who are beginners — an..."
 categories:
   - Quote
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "How to Speak to a Technical Person"
-date:         2013-05-30 13:07:01 -0700
-original_url: http://blog.smartbear.com/careers/how-to-speak-to-a-technical-person/
+layout: default
+title: "How to Speak to a Technical Person"
+type: post
+navigation: false
+
+date: 2013-05-30 13:07:01 -0700
+excerpt: "A  smart bear writes about how to talk to a tec..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blog.smartbear.com/careers/how-to-speak-to-a-technical-person/
 ---
+
 
 A  [smart bear writes about how to talk to a technical person](http://blog.smartbear.com/careers/how-to-speak-to-a-technical-person/). Some of these points really hit home for me. When I'm with my friends, I get sarcasm, but in interactions where I don't expect it, it often goes over my head. Also ambiguous pronouns are one of my biggest pet peeves both in technical and casual conversation. For instance, "My friend was talking to her boss, she said X". Did your friend say X, or her boss?
 

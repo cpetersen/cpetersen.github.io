@@ -6,16 +6,26 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: petersen.io
-email: chris@petersen.io
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cpetersen.github.io" # the base hostname & protocol for your site
-twitter_username: cpetersen
-github_username:  cpetersen
+title: petersen.io
+
+name: <b>petersen</b>.<i>io</i>
+description: 	A beautifully contemporary and elegant Jekyll theme
+url: "http://petersen.io" # the base hostname & protocol for your site
+
+paginate: 3
+paginate_path: "blog/page:num"
+
+twitter: cpetersen
+email: chris@petersen.io
+
+#disqus: 		your_disqus_shortname
+analytics: UA-XXXXXXX-Y
+
+copyright: 		Copyright 2016 Chris Petersen.
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-paginate

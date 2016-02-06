@@ -1,15 +1,30 @@
 ---
-layout:       post
-title:        "Illustrated Quotations by The Oatmeal"
-date:         2013-03-28 14:50:46 -0700
-original_url: http://theoatmeal.com/blog/quotations
+layout: default
+title: "Illustrated Quotations by The Oatmeal"
+type: post
+navigation: false
+
+date: 2013-03-28 14:50:46 -0700
+excerpt: "Laughter and tears are both responses to frustr..."
 categories:
   - Funny
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://theoatmeal.com/blog/quotations
 ---
+
 
    
 
- ![e99918ffe8cbfad175e39230d54ae278.png](/assets/import/e99918ffe8cbfad175e39230d54ae278.png) 
+ ![e99918ffe8cbfad175e39230d54ae278.png](/attachments/e99918ffe8cbfad175e39230d54ae278/image.png) 
 
  > Laughter and tears are both responses to frustration and exhaustion. I myself prefer to laugh since there is less cleaning up to do afterward.
 

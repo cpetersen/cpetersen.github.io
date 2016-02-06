@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Walk through walls using the 4th Dimension"
-date:         2014-08-27 13:08:22 -0700
-original_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/
+layout: default
+title: "Walk through walls using the 4th Dimension"
+type: post
+navigation: false
+
+date: 2014-08-27 13:08:22 -0700
+excerpt: "This video explains (using a video game) what w..."
 categories:
   - Data Visualization
   - Videogame
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9yW--eQaA2I" frameborder="0" allowfullscreen></iframe>
 
-This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls.
+This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls. 
+
+ 

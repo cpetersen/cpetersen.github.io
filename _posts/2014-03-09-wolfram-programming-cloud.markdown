@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Wolfram Programming Cloud"
-date:         2014-03-09 22:26:49 -0700
-original_url: http://www.wolfram.com/programming-cloud/
+layout: default
+title: "Wolfram Programming Cloud"
+type: post
+navigation: false
+
+date: 2014-03-09 22:26:49 -0700
+excerpt: "Absurdly Fast Development and Deployment  By le..."
 categories:
   - Web
   - Software
   - Algorithms
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.wolfram.com/programming-cloud/
 ---
+
 
  
 

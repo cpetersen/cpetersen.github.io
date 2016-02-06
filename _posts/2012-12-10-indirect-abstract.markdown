@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "Indirect != Abstract"
-date:         2012-12-10 09:35:55 -0800
+layout: default
+title: "Indirect != Abstract"
+type: post
+navigation: false
+
+date: 2012-12-10 09:35:55 -0800
+excerpt: "@zedshaw  has a great essay about the differenc..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <p>I hate using badly designed APIs. I hate it even more when someone beats me over the head with words they were handed in some rhetoric class masquerading as a computer science course. Words like &#8220;abstract&#8221;, &#8220;pattern&#8221;, and &#8220;object oriented&#8221; are used like a shield to protect the implementer from critical words like &#8220;crap&#8221;, &#8220;complicated&#8221;, &#8220;obtuse&#8221;, and &#8220;annoying&#8221;. It&#8217;s even worse when the implementer realizes that if he implements the most complicated piece of shit possible then he can go rogue consultant and make tons of mad cash helping poor unsuspecting companies implement his steaming pile of bullshit. Harsh words?  You bet. But I&#8217;m fed up with people imposing their faulty definitions and ideas on me without any way for me to easily fight back with a reasonable explanation as to why their crap is steaming. I&#8217;ve decided to start fighting back by coming up with a set of essays about programming that highlight common design misconceptions. This essay is about my top pet peeve: an abstract interface and an indirect interface are entirely different things.</p>

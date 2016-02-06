@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "90 years of NRA ads"
-date:         2013-04-12 18:05:34 -0700
-original_url: http://www.motherjones.com/politics/2013/03/national-rifle-association-ads-history
+layout: default
+title: "90 years of NRA ads"
+type: post
+navigation: false
+
+date: 2013-04-12 18:05:34 -0700
+excerpt: "Mother Jones delves into the last 90 years of N..."
 categories:
   - Guns
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.motherjones.com/politics/2013/03/national-rifle-association-ads-history
 ---
 
-  ![](/assets/import/nra_ads.png)  
+
+  ![](/attachments/7ffc788d9be0bc57725e2458ea359749/image.png)  
 
  Mother Jones delves into the last 90 years of NRA advertising.
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Agency problems"
-date:         2012-10-20 10:44:12 -0700
-original_url: http://cdixon.org/2012/10/19/agency-problems/
+layout: default
+title: "Agency problems"
+type: post
+navigation: false
+
+date: 2012-10-20 10:44:12 -0700
+excerpt: "I've definitely run into problems like this whe..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://cdixon.org/2012/10/19/agency-problems/
 ---
+
 
 I've definitely run into problems like this when selling enterprise software.
 

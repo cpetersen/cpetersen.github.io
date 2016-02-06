@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Short Circuit"
-date:         2014-02-24 12:14:46 -0800
+layout: default
+title: "Short Circuit"
+type: post
+navigation: false
+
+date: 2014-02-24 12:14:46 -0800
+excerpt: "Engineers, when talking to Engineers, should an..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 Engineers, when talking to Engineers, should and do usually answer questions beginning with "it depends”. This is because solutions depend on context and that context informs how the product can and should develop. 
 

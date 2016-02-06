@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Managing Nerds"
-date:         2014-04-16 12:11:40 -0700
-original_url: http://randsinrepose.com/archives/managing-nerds/
+layout: default
+title: "Managing Nerds"
+type: post
+navigation: false
+
+date: 2014-04-16 12:11:40 -0700
+excerpt: "Nerds aren’t typically bitter; they’re just wel..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://randsinrepose.com/archives/managing-nerds/
 ---
+
 
 
 

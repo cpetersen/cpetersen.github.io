@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Why Business Software is Broken"
-date:         2013-07-09 20:30:38 -0700
-original_url: http://www.6wunderkinder.com/blog/why-business-software-is-broken-our-promise-to-keep-things-simple
+layout: default
+title: "Why Business Software is Broken"
+type: post
+navigation: false
+
+date: 2013-07-09 20:30:38 -0700
+excerpt: "Yes, YES a thousand times YES! Definitely  read..."
 categories:
   - Startups
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.6wunderkinder.com/blog/why-business-software-is-broken-our-promise-to-keep-things-simple
 ---
+
 
 Yes, YES a thousand times YES! Definitely  [read the whole post](http://www.6wunderkinder.com/blog/why-business-software-is-broken-our-promise-to-keep-things-simple).
 

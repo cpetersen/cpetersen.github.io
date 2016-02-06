@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "Neat, Plausible and Usually Wrong"
-date:         2013-04-11 09:00:43 -0700
+layout: default
+title: "Neat, Plausible and Usually Wrong"
+type: post
+navigation: false
+
+date: 2013-04-11 09:00:43 -0700
+excerpt: "I agree with this statement, but the corollary ..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>"There's a simple solution to almost every complex problem. It will be neat, plausible—and usually wrong." - Charles Billings</p>&mdash; John Allspaw (@allspaw) <a href="https://twitter.com/allspaw/status/322290608473534464">April 11, 2013</a></blockquote>

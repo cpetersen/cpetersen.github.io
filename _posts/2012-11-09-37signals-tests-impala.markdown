@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "37Signals tests Impala"
-date:         2012-11-09 20:30:34 -0800
-original_url: http://37signals.com/svn/posts/3315-how-i-came-to-love-big-data-or-at-least-acknowledge-its-existence
+layout: default
+title: "37Signals tests Impala"
+type: post
+navigation: false
+
+date: 2012-11-09 20:30:34 -0800
+excerpt: "Impala  looks like an interesting tool. I'm not..."
 categories:
   - Software
   - Big Data
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://37signals.com/svn/posts/3315-how-i-came-to-love-big-data-or-at-least-acknowledge-its-existence
 ---
+
 
  [Impala](https://github.com/cloudera/impala)  looks like an interesting tool. I'm not sure when I'll have a chance to dig into it first hand.
 

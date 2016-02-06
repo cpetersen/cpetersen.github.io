@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Sudden hockey stick growth doesn’t just happen."
-date:         2012-10-18 20:37:27 -0700
-original_url: http://pandodaily.com/2012/10/18/instagrams-kevin-systrom-sudden-hockey-stick-growth-doesnt-just-happen/
+layout: default
+title: "Sudden hockey stick growth doesn’t just happen."
+type: post
+navigation: false
+
+date: 2012-10-18 20:37:27 -0700
+excerpt: "Overnight success rarely happens overnight. “I ..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://pandodaily.com/2012/10/18/instagrams-kevin-systrom-sudden-hockey-stick-growth-doesnt-just-happen/
 ---
+
 
 Overnight success rarely happens overnight.
 

@@ -1,18 +1,33 @@
 ---
-layout:       post
-title:        "The State Of The Internet - Business Insider"
-date:         2012-10-02 10:08:41 -0700
-original_url: http://www.businessinsider.com/state-of-internet-slides-2012-10#
+layout: default
+title: "The State Of The Internet - Business Insider"
+type: post
+navigation: false
+
+date: 2012-10-02 10:08:41 -0700
+excerpt: "This presentation is very well done.   ____   _..."
 categories:
   - Web
   - Business
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.businessinsider.com/state-of-internet-slides-2012-10#
 ---
+
 
  This presentation is very well done. 
 
 ***
 
- ____   __ ![Connected Device Growth](/assets/import/4b3d667ff62780184146b58d82b4d70a.jpg)__ A major media company was kind enough to ask me to speak to their senior executives at an off-site last week. 
+ ____   __ ![Connected Device Growth](/attachments/4b3d667ff62780184146b58d82b4d70a/image.png)__ A major media company was kind enough to ask me to speak to their senior executives at an off-site last week. 
 
 The topic was an overview of the digital industry.
 

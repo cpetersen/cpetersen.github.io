@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Loading Shapefiles into PostGIS with Ruby"
-date:         2014-01-03 15:05:13 -0800
+layout: default
+title: "Loading Shapefiles into PostGIS with Ruby"
+type: post
+navigation: false
+
+date: 2014-01-03 15:05:13 -0800
+excerpt: "I found shape files here:  http://www.naturalea..."
 categories:
   - Software
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
  I found shape files here:  [http://www.naturalearthdata.com/features/](http://www.naturalearthdata.com/features/) 
 

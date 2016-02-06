@@ -1,11 +1,25 @@
 ---
-layout:       post
-title:        "Complexity and Resiliency"
-date:         2013-05-31 12:05:59 -0700
+layout: default
+title: "Complexity and Resiliency"
+type: post
+navigation: false
+
+date: 2013-05-31 12:05:59 -0700
+excerpt: "I saw this tweet from  @allspaw  who always sha..."
 categories:
   - Software
   - Technology
   - Ops
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>Until you attempt to internalize some of this, you forfeit credibility in commenting on large-scale outages: <a href="http://t.co/wZNXX4IdOP" title="http://programming.oreilly.com/2013/05/what-is-the-risk-that-amazon-will-go-down-again.html">programming.oreilly.com/2013/05/what-i…</a> #devops</p>&mdash; John Allspaw (@allspaw) <a href="https://twitter.com/allspaw/status/340521535318151169">May 31, 2013</a></blockquote>

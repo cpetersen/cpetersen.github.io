@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "How I Shoot Portraits"
-date:         2013-08-23 00:01:31 -0700
+layout: default
+title: "How I Shoot Portraits"
+type: post
+navigation: false
+
+date: 2013-08-23 00:01:31 -0700
+excerpt: "I am by no means a great photographer, but I do..."
 categories:
   - Photography
   - How I
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-  ![](/assets/import/2013-08-06-a blue outfit.jpg)  
+
+  ![](/attachments/be39d71444917cebe6ea507bd8fce156/image.png)  
 
  I am by no means a great photographer, but I do have a couple of tricks when it comes to shooting portraits that I thought I'd share. Here they are, in order of importance. 
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "A Short Lesson in Perspective"
-date:         2012-11-12 10:13:50 -0800
-original_url: http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
+layout: default
+title: "A Short Lesson in Perspective"
+type: post
+navigation: false
+
+date: 2012-11-12 10:13:50 -0800
+excerpt: "A lesson in perspective from a very successful ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.lindsredding.com/2012/03/11/a-overdue-lesson-in-perspective/
 ---
+
 
 A lesson in perspective from a very successful "creative" toward the end of his life. A very smart and powerful piece.
 

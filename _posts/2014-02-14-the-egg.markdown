@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Egg"
-date:         2014-02-14 12:37:53 -0800
-original_url: http://www.galactanet.com/oneoff/theegg_mod.html
+layout: default
+title: "The Egg"
+type: post
+navigation: false
+
+date: 2014-02-14 12:37:53 -0800
+excerpt: "You were on your way home when you died.   It w..."
 categories:
   - Short Story
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.galactanet.com/oneoff/theegg_mod.html
 ---
+
 
 
 

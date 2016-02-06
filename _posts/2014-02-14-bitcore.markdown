@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Bitcore"
-date:         2014-02-14 15:43:54 -0800
-original_url: http://bitcore.io/
+layout: default
+title: "Bitcore"
+type: post
+navigation: false
+
+date: 2014-02-14 15:43:54 -0800
+excerpt: "A pure, powerful core for your bitcoin project...."
 categories:
   - Software
   - Bitcoin
   - Node.js
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://bitcore.io/
 ---
+
 
 
 
@@ -17,7 +32,7 @@ categories:
 
  > 
  > 
- >  ![bb685be558a08f1bf3a74964091bcaa2.png](/assets/import/bb685be558a08f1bf3a74964091bcaa2.png) 
+ >  ![bb685be558a08f1bf3a74964091bcaa2.png](/attachments/bb685be558a08f1bf3a74964091bcaa2/image.png) 
  > 
  >  A pure, powerful core for your bitcoin project. 
  > 

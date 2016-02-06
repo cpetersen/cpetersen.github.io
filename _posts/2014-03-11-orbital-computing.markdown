@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Orbital Computing"
-date:         2014-03-11 18:09:56 -0700
-original_url: http://gigaom.com/2014/03/10/physicist-proposes-a-new-type-of-computing-at-sxsw-check-out-orbital-computing/
+layout: default
+title: "Orbital Computing"
+type: post
+navigation: false
+
+date: 2014-03-11 18:09:56 -0700
+excerpt: "We’re going to add a new impossible that might ..."
 categories:
   - NoEmbed
   - Computers
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://gigaom.com/2014/03/10/physicist-proposes-a-new-type-of-computing-at-sxsw-check-out-orbital-computing/
 ---
+
 
 
 

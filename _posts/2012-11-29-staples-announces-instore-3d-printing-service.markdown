@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Staples Announces In-Store 3-D Printing Service"
-date:         2012-11-29 12:35:59 -0800
-original_url: http://www.wired.com/design/2012/11/staples-goes-3-d/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wired/index+(Wired:+Top+Stories)
+layout: default
+title: "Staples Announces In-Store 3-D Printing Service"
+type: post
+navigation: false
+
+date: 2012-11-29 12:35:59 -0800
+excerpt: "Staples will soon offer in-store 3d printing. I..."
 categories:
   - Maker
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.wired.com/design/2012/11/staples-goes-3-d/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wired/index+(Wired:+Top+Stories)
 ---
+
 
 Staples will soon offer in-store 3d printing. I hope this is a long term strategy. It seems to me that we're still in a "dot-matrix" days of 3d printing, so I hope they stick with this regardless of short term performance.
 

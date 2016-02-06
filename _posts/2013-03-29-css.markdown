@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "CSS"
-date:         2013-03-29 12:58:24 -0700
+layout: default
+title: "CSS"
+type: post
+navigation: false
+
+date: 2013-03-29 12:58:24 -0700
+excerpt: "This must have appeared in my twitter feed 10 t..."
 categories:
   - Funny
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-  ![ONQF8NW.gif](/assets/import/81d2bffd2d12c8275ab2c708b3fd5297.gif)  
+
+  ![ONQF8NW.gif](/attachments/81d2bffd2d12c8275ab2c708b3fd5297/image.png)  
 
  This must have appeared in my twitter feed 10 times today.  Truth. 
 

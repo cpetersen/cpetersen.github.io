@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Surviving Disruption"
-date:         2012-11-27 22:05:23 -0800
-original_url: http://hbr.org/2012/12/surviving-disruption/ar/pr
+layout: default
+title: "Surviving Disruption"
+type: post
+navigation: false
+
+date: 2012-11-27 22:05:23 -0800
+excerpt: "A guide to understanding and hopefully survivin..."
 categories:
   - Business
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://hbr.org/2012/12/surviving-disruption/ar/pr
 ---
+
 
 A guide to understanding and hopefully surviving when you're industry is disrupted.
 

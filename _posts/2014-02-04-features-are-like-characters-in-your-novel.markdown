@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Features are like Characters in your Novel"
-date:         2014-02-04 15:06:58 -0800
+layout: default
+title: "Features are like Characters in your Novel"
+type: post
+navigation: false
+
+date: 2014-02-04 15:06:58 -0800
+excerpt: "The idea for a feature is like the name of char..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 The idea for a feature is like the name of character. You then need to develop a backstory (figure out how it works), then for the product (novel) to work, you need to weave that character in with the other characters (features). 
 

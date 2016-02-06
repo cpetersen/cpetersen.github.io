@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Paul Graham Interview"
-date:         2013-10-14 07:31:27 -0700
+layout: default
+title: "Paul Graham Interview"
+type: post
+navigation: false
+
+date: 2013-10-14 07:31:27 -0700
+excerpt: "Great interview with Paul Graham from 2005. The..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBDA0t49AaZ4&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FBDA0t49AaZ4&type=text%2Fhtml&key=d815972c91e546edb5d2d02e509f8b1c&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=BDA0t49AaZ4" title="Paul Graham Interview" caption="Great interview with Paul Graham from 2005. The..." %}
 
 Great interview with Paul Graham from 2005. The last 20 seconds are gold. "What's the relationship between hackers and business guys? Well, you need hackers, you don't need business guys". 
 
