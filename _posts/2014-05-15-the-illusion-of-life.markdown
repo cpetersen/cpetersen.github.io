@@ -9,8 +9,8 @@ excerpt: "Brilliant short (<3 min) video about how to mak..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

@@ -9,7 +9,7 @@ excerpt: "The maker movement is so cool. I really think t..."
 categories:
   - Maker
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

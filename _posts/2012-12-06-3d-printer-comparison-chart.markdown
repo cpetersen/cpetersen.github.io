@@ -9,7 +9,7 @@ excerpt: "Cool chart comparing 3d printers. Curious that ..."
 categories:
   - Maker
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

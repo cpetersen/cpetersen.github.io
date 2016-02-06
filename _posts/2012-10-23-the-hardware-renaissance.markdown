@@ -9,8 +9,8 @@ excerpt: "Paul Graham explains why more and more startups..."
 categories:
   - Startups
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

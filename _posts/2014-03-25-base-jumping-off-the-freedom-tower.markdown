@@ -9,8 +9,8 @@ excerpt: "Because why WOULDN’T you BASE jump off the Free..."
 categories:
   - Heights
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

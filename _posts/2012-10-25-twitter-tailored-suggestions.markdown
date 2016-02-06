@@ -9,8 +9,8 @@ excerpt: "Well that's new. Tailor Twitter to your interes..."
 categories:
   - Web
 
-gradient: 1
-image: header-4.jpg
+gradient: 4
+image: header-3.jpg
 details: false
 
 author: Chris Petersen

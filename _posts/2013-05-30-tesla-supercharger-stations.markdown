@@ -9,7 +9,7 @@ excerpt: "Tesla offers free charging for Model S owners a..."
 categories:
   - Misc
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

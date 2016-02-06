@@ -9,8 +9,8 @@ excerpt: "This is pretty impressive. For an explanation o..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

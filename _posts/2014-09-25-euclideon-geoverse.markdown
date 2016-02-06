@@ -9,8 +9,8 @@ excerpt: "This is pretty cool.  Euclideon  as a 3D search..."
 categories:
   - Data Visualization
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

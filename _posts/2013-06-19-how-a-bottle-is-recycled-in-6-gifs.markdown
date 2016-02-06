@@ -8,8 +8,8 @@ date: 2013-06-19 22:09:52 -0700
 excerpt: "NPR shows how a bottle is recycled in 6 Gifs."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

@@ -10,7 +10,7 @@ categories:
   - Maker
 
 gradient: 1
-image: header-4.jpg
+image: header-1.jpg
 details: false
 
 author: Chris Petersen

@@ -9,7 +9,7 @@ excerpt: "I'm not against April Fool's day, and to my kno..."
 categories:
   - Misc
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

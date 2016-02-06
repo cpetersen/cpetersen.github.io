@@ -9,8 +9,8 @@ excerpt: "Science is awesome, reddit has  a lot more.   v..."
 categories:
   - Science
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

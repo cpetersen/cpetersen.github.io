@@ -9,8 +9,8 @@ excerpt: "Ok, this is pretty cool. They drop a huge &quot;+&quot; s..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

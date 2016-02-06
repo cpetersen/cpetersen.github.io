@@ -9,8 +9,8 @@ excerpt: "A Quora user asks  if you could only use 5 font..."
 categories:
   - Design
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

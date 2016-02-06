@@ -9,8 +9,8 @@ excerpt: "People are amazing. With my fear of heights, th..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

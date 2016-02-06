@@ -9,8 +9,8 @@ excerpt: "Some philosophy from  @sivers. Everything's my ..."
 categories:
   - Philosophy
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

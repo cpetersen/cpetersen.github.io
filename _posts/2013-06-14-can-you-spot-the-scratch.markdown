@@ -9,8 +9,8 @@ excerpt: "IF YOU CAN SPOT THE SCRATCH ON ANY OF OUR RENAU..."
 categories:
   - Sales
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

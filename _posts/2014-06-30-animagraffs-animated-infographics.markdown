@@ -12,7 +12,7 @@ categories:
   - Infographic
 
 gradient: 1
-image: header-4.jpg
+image: header-7.jpg
 details: false
 
 author: Chris Petersen

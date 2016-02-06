@@ -9,7 +9,7 @@ excerpt: "This plane flies over the camera so low and so ..."
 categories:
   - Misc
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

@@ -9,7 +9,7 @@ excerpt: "Fred Ehsram of  Coinbase  makes his case for wh..."
 categories:
   - Bitcoin
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

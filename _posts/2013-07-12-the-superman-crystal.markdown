@@ -9,8 +9,8 @@ excerpt: "Hey, whatcha doin? Just backing up my data to a..."
 categories:
   - Science
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

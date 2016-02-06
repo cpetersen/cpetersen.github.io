@@ -12,8 +12,8 @@ categories:
   - Software
   - Infographic
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

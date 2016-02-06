@@ -8,8 +8,8 @@ date: 2013-04-06 12:24:44 -0700
 excerpt: "A collection of Game of Thrones inspired sigils..."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

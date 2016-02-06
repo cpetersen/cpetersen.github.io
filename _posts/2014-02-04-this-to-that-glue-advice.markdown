@@ -9,8 +9,8 @@ excerpt: "If you’ve ever needed to glue  Styrofoam to Gla..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

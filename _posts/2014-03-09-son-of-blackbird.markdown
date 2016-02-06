@@ -9,8 +9,8 @@ excerpt: "Lockheed Martin plans to build the SR-72, aka S..."
 categories:
   - Aircraft
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

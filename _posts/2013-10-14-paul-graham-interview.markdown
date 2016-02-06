@@ -9,7 +9,7 @@ excerpt: "Great interview with Paul Graham from 2005. The..."
 categories:
   - Startups
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

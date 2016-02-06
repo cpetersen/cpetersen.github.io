@@ -9,8 +9,8 @@ excerpt: "many people argue that the nation’s patent rule..."
 categories:
   - Patents
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

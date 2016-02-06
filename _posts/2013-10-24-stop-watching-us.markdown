@@ -9,8 +9,8 @@ excerpt: "Just in time for the  largest protest against m..."
 categories:
   - Surveillance
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

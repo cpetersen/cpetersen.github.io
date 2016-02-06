@@ -9,8 +9,8 @@ excerpt: "Much more common is a fate like Overstock.com. ..."
 categories:
   - Draft
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

@@ -9,8 +9,8 @@ excerpt: "This whole NSA surveillance scandal makes me an..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

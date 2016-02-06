@@ -9,8 +9,8 @@ excerpt: "A couple of simple rules to make your graphs su..."
 categories:
   - Data Visualization
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

@@ -10,8 +10,8 @@ categories:
   - Misc
   - Life
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

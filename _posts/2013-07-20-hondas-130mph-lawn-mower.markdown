@@ -9,7 +9,7 @@ excerpt: "Why.... why would someone do this? And why didn..."
 categories:
   - Funny
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

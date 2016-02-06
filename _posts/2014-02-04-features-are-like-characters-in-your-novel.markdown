@@ -9,8 +9,8 @@ excerpt: "The idea for a feature is like the name of char..."
 categories:
   - Draft
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

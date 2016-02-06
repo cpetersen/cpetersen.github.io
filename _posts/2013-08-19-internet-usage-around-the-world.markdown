@@ -9,7 +9,7 @@ excerpt: "I love this visualization of internet usage aro..."
 categories:
   - Data Visualization
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

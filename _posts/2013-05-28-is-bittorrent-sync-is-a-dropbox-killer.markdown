@@ -11,7 +11,7 @@ categories:
   - Technology
   - BitTorrent
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

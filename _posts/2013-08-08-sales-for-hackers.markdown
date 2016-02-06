@@ -9,8 +9,8 @@ excerpt: "In this post, Brandon provides a lot of insight..."
 categories:
   - Software
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

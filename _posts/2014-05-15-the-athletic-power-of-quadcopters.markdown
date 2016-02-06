@@ -9,7 +9,7 @@ excerpt: "Amazing video/presentation from Raffaello D’And..."
 categories:
   - Drones
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

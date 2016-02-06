@@ -9,8 +9,8 @@ excerpt: "Someone put together a compilation of movies th..."
 categories:
   - Movies
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

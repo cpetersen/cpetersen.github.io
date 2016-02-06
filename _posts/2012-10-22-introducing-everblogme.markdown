@@ -8,8 +8,8 @@ date: 2012-10-22 10:49:50 -0700
 excerpt: "Everblog.me  is a blogging platform based on  E..."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

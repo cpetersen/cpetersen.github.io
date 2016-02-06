@@ -9,8 +9,8 @@ excerpt: "I guess I'm on a simplicity kick tonight. In th..."
 categories:
   - Startups
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

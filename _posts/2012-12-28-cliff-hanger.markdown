@@ -9,8 +9,8 @@ excerpt: "I've been following  Robert Reich  more lately...."
 categories:
   - Politics
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

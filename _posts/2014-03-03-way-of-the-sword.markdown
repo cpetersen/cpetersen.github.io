@@ -9,8 +9,8 @@ excerpt: "A short lesson in Japanese sword fighting. Appr..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

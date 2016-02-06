@@ -9,8 +9,8 @@ excerpt: "This is an interesting way to make interfaces m..."
 categories:
   - Videogame
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

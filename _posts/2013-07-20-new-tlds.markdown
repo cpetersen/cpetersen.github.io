@@ -9,8 +9,8 @@ excerpt: "Wow there's a boat load of new TLD's coming. Th..."
 categories:
   - Web
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

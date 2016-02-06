@@ -9,7 +9,7 @@ excerpt: "Great post on how you can refactor fat models i..."
 categories:
   - Software
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

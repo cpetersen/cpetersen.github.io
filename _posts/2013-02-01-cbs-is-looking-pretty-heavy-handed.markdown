@@ -8,8 +8,8 @@ date: 2013-02-01 18:08:53 -0800
 excerpt: "First CBS (CNET's parent company) refused to le..."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 4
+image: header-3.jpg
 details: false
 
 author: Chris Petersen

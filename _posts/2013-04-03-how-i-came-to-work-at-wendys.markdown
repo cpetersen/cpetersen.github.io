@@ -8,8 +8,8 @@ date: 2013-04-03 09:14:40 -0700
 excerpt: "This is creative, but kind of depressing."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 4
+image: header-3.jpg
 details: false
 
 author: Chris Petersen

@@ -9,8 +9,8 @@ excerpt: "I'm always amazed at the scale of mobile. This ..."
 categories:
   - Web
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

@@ -9,8 +9,8 @@ excerpt: "I haven't read this yet, but I think it's going..."
 categories:
   - Misc
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

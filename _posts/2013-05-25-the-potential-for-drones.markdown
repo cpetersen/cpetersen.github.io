@@ -9,8 +9,8 @@ excerpt: "According to Marketplace, San Diego has over 60..."
 categories:
   - Drones
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

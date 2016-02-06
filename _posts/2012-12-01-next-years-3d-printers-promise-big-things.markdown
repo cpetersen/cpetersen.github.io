@@ -9,8 +9,8 @@ excerpt: "Lots of cool things coming in the 3d printing f..."
 categories:
   - Maker
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

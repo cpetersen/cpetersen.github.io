@@ -9,8 +9,8 @@ excerpt: "Wow, Barack Obama's top donors include tech com..."
 categories:
   - Politics
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

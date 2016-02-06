@@ -9,7 +9,7 @@ excerpt: "Interesting read about the jobs of the future. ..."
 categories:
   - Technology
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

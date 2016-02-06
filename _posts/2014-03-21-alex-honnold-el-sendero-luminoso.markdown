@@ -9,7 +9,7 @@ excerpt: "Alex Honnold free climbs a 2,500 foot shear fac..."
 categories:
   - Heights
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

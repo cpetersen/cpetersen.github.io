@@ -9,8 +9,8 @@ excerpt: "Fred Wilson has a piece on platform monopolies...."
 categories:
   - Startups
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

@@ -9,8 +9,8 @@ excerpt: "Basic stats methods:  https://www.bcg.wisc.edu/..."
 categories:
   - Draft
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

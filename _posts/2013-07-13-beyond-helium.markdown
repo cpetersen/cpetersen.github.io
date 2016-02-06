@@ -9,7 +9,7 @@ excerpt: "Solid blimps made out of Aerographite that neve..."
 categories:
   - Misc
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

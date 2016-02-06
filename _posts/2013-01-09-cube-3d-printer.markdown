@@ -9,8 +9,8 @@ excerpt: "Cubify  is another contender in the 3d printer ..."
 categories:
   - Maker
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

@@ -9,8 +9,8 @@ excerpt: "The mantis shrimp is the Oatmeal's new favorite..."
 categories:
   - Funny
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

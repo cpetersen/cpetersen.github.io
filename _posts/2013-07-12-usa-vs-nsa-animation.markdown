@@ -9,7 +9,7 @@ excerpt: "The original Pixar lamp movie ( Luxo Jr ) was b..."
 categories:
   - Funny
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

@@ -9,7 +9,7 @@ excerpt: "What it's really like being acquired, from  Voo..."
 categories:
   - Funny
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

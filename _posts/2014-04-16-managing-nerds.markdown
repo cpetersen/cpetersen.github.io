@@ -9,8 +9,8 @@ excerpt: "Nerds aren’t typically bitter; they’re just wel..."
 categories:
   - Startups
 
-gradient: 1
-image: header-4.jpg
+gradient: 3
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

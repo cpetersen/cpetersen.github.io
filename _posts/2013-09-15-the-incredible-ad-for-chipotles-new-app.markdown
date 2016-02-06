@@ -9,8 +9,8 @@ excerpt: "I can't help but think this will be a huge succ..."
 categories:
   - Ad
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-0.jpg
 details: false
 
 author: Chris Petersen

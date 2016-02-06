@@ -9,8 +9,8 @@ excerpt: "This is a short video (approx 4 min) explaining..."
 categories:
   - Big Data
 
-gradient: 1
-image: header-4.jpg
+gradient: 4
+image: header-3.jpg
 details: false
 
 author: Chris Petersen

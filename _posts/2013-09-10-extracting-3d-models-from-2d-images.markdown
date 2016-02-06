@@ -9,7 +9,7 @@ excerpt: "Wow, just wow.    This software lets you quickl..."
 categories:
   - Software
 
-gradient: 1
+gradient: 4
 image: header-4.jpg
 details: false
 

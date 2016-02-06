@@ -8,8 +8,8 @@ date: 2013-01-18 11:13:54 -0800
 excerpt: "Stripe  and  PayPal  are great examples."
 categories:
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

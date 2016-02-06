@@ -9,8 +9,8 @@ excerpt: "San Francisco is building a subway using two tu..."
 categories:
   - Technology
 
-gradient: 1
-image: header-4.jpg
+gradient: 4
+image: header-3.jpg
 details: false
 
 author: Chris Petersen

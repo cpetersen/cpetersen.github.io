@@ -9,8 +9,8 @@ excerpt: "While we're on on the subject of new takes on e..."
 categories:
   - Movies
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-5.jpg
 details: false
 
 author: Chris Petersen

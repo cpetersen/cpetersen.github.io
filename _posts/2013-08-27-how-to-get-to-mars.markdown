@@ -9,8 +9,8 @@ excerpt: "This is a clip from the IMAX movie Roving Mars ..."
 categories:
   - Space
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen

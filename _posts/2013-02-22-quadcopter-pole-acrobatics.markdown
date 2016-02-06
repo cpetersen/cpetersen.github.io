@@ -9,8 +9,8 @@ excerpt: "This video is absolutely amazing. This person h..."
 categories:
   - Drones
 
-gradient: 1
-image: header-4.jpg
+gradient: 2
+image: header-2.jpg
 details: false
 
 author: Chris Petersen
