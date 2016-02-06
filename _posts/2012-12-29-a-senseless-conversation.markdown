@@ -15,7 +15,7 @@ image: header-4.jpg
 details: false
 
 author: Chris Petersen
-bio: Professional Guy Behind the Guy
+bio: Father, husband, CIO and cofounder of Assay Depot, developer, entrepreneur and technologist.
 twitter: http://twitter.com/cpetersen
 github: http://github.com/cpetersen
 
