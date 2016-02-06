@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "57 startup lessons"
-date:         2013-08-20 22:29:07 -0700
-original_url: http://www.defmacro.org/2013/07/23/startup-lessons.html
+layout: default
+title: "57 startup lessons"
+type: post
+navigation: false
+
+date: 2013-08-20 22:29:07 -0700
+excerpt: "I love all of the Development items on this sta..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.defmacro.org/2013/07/23/startup-lessons.html
 ---
+
 
 I love all of the Development items on this start up lessons list, but the whole list is good, you should  [go read it](http://www.defmacro.org/2013/07/23/startup-lessons.html).
 

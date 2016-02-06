@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "A Senseless Conversation"
-date:         2012-12-29 10:17:10 -0800
-original_url: https://sites.google.com/site/asenselessconversation/
+layout: default
+title: "A Senseless Conversation"
+type: post
+navigation: false
+
+date: 2012-12-29 10:17:10 -0800
+excerpt: "I read this story last year and really enjoyed ..."
 categories:
   - Misc
   - Short Story
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: https://sites.google.com/site/asenselessconversation/
 ---
+
 
 I read this story last year and really enjoyed it.
 

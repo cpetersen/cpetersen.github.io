@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Drone Round-up"
-date:         2013-03-19 10:47:39 -0700
+layout: default
+title: "Drone Round-up"
+type: post
+navigation: false
+
+date: 2013-03-19 10:47:39 -0700
+excerpt: "There were a couple good articles about drones ..."
 categories:
   - Drones
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 There were a couple good articles about drones in the last day or two. This  [one](http://blogs.scientificamerican.com/guest-blog/2012/04/12/what-is-a-drone-anyway/)  from Scientific American asks, "What is a drone exactly?" 
 

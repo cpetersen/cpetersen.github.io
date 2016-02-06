@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "DIY Bioprinter"
-date:         2013-01-28 08:16:37 -0800
-original_url: http://www.wired.com/design/2013/01/diy-bio-printer/
+layout: default
+title: "DIY Bioprinter"
+type: post
+navigation: false
+
+date: 2013-01-28 08:16:37 -0800
+excerpt: "I've thought Bioprinting was a great idea ever ..."
 categories:
   - Maker
   - Biotech
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.wired.com/design/2013/01/diy-bio-printer/
 ---
+
 
  I've thought Bioprinting was a great idea ever since I heard about it from  [Organovo](http://www.organovo.com/). Now it seems some hackers are bringing bioprinting to the DIY movement. It's amazing how fast these hi-tech machines are getting translated into something that anyone can own and use. 
 

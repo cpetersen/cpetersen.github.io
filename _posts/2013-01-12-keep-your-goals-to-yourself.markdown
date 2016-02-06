@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Keep your goals to yourself"
-date:         2013-01-12 12:23:14 -0800
+layout: default
+title: "Keep your goals to yourself"
+type: post
+navigation: false
+
+date: 2013-01-12 12:23:14 -0800
+excerpt: "A short version of @sivers TED talk about goals..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F55495626&url=https%3A%2F%2Fvimeo.com%2F55495626&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F452721248_1280.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=vimeo" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-vimeo.html file="http://vimeo.com/55495626" title="Keep your goals to yourself" caption="A short version of @sivers TED talk about goals..." %}
 
 A short version of [@sivers](http://twitter.com/sivers) TED talk about goals.
 

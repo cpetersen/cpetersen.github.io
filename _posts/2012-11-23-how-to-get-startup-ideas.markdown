@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "How to Get Startup Ideas"
-date:         2012-11-23 22:25:17 -0800
-original_url: http://paulgraham.com/startupideas.html
+layout: default
+title: "How to Get Startup Ideas"
+type: post
+navigation: false
+
+date: 2012-11-23 22:25:17 -0800
+excerpt: "Paul Graham writes about how to generate start ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://paulgraham.com/startupideas.html
 ---
+
 
 Paul Graham writes about how to generate start up ideas. There are a lot of good points here. The well metaphor is kind of the flip side of Chris Dixon's horizontal vs vertical discussion. 
 

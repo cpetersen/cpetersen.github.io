@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Graphene Super Capacitors"
-date:         2013-03-24 21:51:28 -0700
-original_url: http://io9.com/5987086/meet-the-scientific-accident-that-could-change-the-world
+layout: default
+title: "Graphene Super Capacitors"
+type: post
+navigation: false
+
+date: 2013-03-24 21:51:28 -0700
+excerpt: "We've all heard of super conductors, now scient..."
 categories:
   - Technology
   - Batteries
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://io9.com/5987086/meet-the-scientific-accident-that-could-change-the-world
 ---
+
 
 We've all heard of super conductors, now scientists have discovered super capacitors.
 

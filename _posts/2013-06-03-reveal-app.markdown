@@ -1,14 +1,29 @@
 ---
-layout:       post
-title:        "Reveal App"
-date:         2013-06-03 12:20:04 -0700
-original_url: http://revealapp.com/
+layout: default
+title: "Reveal App"
+type: post
+navigation: false
+
+date: 2013-06-03 12:20:04 -0700
+excerpt: "Reveal App  claims it can give you the ability ..."
 categories:
   - iOS
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://revealapp.com/
 ---
 
-  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/assets/import/ca37136cd0e77a4ecd6d08a38a0bda41.png) 
+
+  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/attachments/ca37136cd0e77a4ecd6d08a38a0bda41/image.png) 
 
   [Reveal App](http://revealapp.com/)  claims it can give you the ability to visually inspect your iOS apps.
 

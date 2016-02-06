@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "Some problems are so hard..."
-date:         2012-11-23 14:29:17 -0800
+layout: default
+title: "Some problems are so hard..."
+type: post
+navigation: false
+
+date: 2012-11-23 14:29:17 -0800
+excerpt: "Horizontal first, vertical second, that sounds ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <p>Andrew Parker had a great <a href="http://thegongshow.tumblr.com/post/345941486/the-spawn-of-craigslist-like-most-vcs-that-focus">post</a> a few years ago where he sketched out all the startups going after pieces of Craigslist:<br />

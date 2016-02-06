@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Phreaks and Geeks"
-date:         2013-02-08 11:23:56 -0800
-original_url: http://www.slate.com/articles/technology/books/2013/02/steve_jobs_and_phone_hacking_exploding_the_phone_by_phil_lapsley_reviewed.single.html
+layout: default
+title: "Phreaks and Geeks"
+type: post
+navigation: false
+
+date: 2013-02-08 11:23:56 -0800
+excerpt: "Slate really nails it here. As a society, we sh..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.slate.com/articles/technology/books/2013/02/steve_jobs_and_phone_hacking_exploding_the_phone_by_phil_lapsley_reviewed.single.html
 ---
+
 
 Slate really nails it here. As a society, we should support curiosity and entrepreneurial spirit more than we support corporations and the political aspirations of lawyers. 
 

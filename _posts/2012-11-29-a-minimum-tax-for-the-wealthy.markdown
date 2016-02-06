@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "A Minimum Tax for the Wealthy"
-date:         2012-11-29 09:23:25 -0800
-original_url: http://www.nytimes.com/2012/11/26/opinion/buffett-a-minimum-tax-for-the-wealthy.html
+layout: default
+title: "A Minimum Tax for the Wealthy"
+type: post
+navigation: false
+
+date: 2012-11-29 09:23:25 -0800
+excerpt: "Warren Buffett lays out a very rational argumen..."
 categories:
   - Finance
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.nytimes.com/2012/11/26/opinion/buffett-a-minimum-tax-for-the-wealthy.html
 ---
+
 
 Warren Buffett lays out a very rational argument for slightly higher taxes.
 

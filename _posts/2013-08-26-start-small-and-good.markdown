@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Start Small and Good"
-date:         2013-08-26 23:07:14 -0700
+layout: default
+title: "Start Small and Good"
+type: post
+navigation: false
+
+date: 2013-08-26 23:07:14 -0700
+excerpt: "This is a test  The way you'll get big ideas in..."
 categories:
   - Startups
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 This is a test 
 

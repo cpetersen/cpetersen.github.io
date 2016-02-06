@@ -1,16 +1,31 @@
 ---
-layout:       post
-title:        "Steve Case on Immigration"
-date:         2013-02-13 15:46:17 -0800
-original_url: http://pandodaily.com/2013/02/13/the-seven-best-things-steve-case-said-today-to-the-senate-committee-on-immigration/
+layout: default
+title: "Steve Case on Immigration"
+type: post
+navigation: false
+
+date: 2013-02-13 15:46:17 -0800
+excerpt: "There are some real gems in here. I think we ca..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://pandodaily.com/2013/02/13/the-seven-best-things-steve-case-said-today-to-the-senate-committee-on-immigration/
 ---
 
 
 
- ![2514641584_84cf3b8a89_o.jpeg](/assets/import/6b179bfadcfe982d3bc7a5dccdd555b3.jpg) 
+
+ ![2514641584_84cf3b8a89_o.jpeg](/attachments/6b179bfadcfe982d3bc7a5dccdd555b3/image.png) 
 
  There are some real gems in here. I think we can all agree that forcing recent grads to leave the country isn't a smart idea.
 

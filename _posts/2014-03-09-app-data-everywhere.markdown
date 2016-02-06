@@ -1,10 +1,24 @@
 ---
-layout:       post
-title:        "App Data, Everywhere"
-date:         2014-03-09 22:15:48 -0700
+layout: default
+title: "App Data, Everywhere"
+type: post
+navigation: false
+
+date: 2014-03-09 22:15:48 -0700
+excerpt: "@leahculver ’s SXSW talk on the Dropbox API and..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2Fd7bb75408a1201314fd82e495bfddc49&url=https%3A%2F%2Fspeakerdeck.com%2Fleah%2Fapp-data-everywhere-cross-device-content-sharing&image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2Fd7bb75408a1201314fd82e495bfddc49%2Fslide_0.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=speakerdeck" width="450" height="401" scrolling="no" frameborder="0" allowfullscreen></iframe>

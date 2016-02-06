@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "xkcd: Math"
-date:         2012-11-06 23:50:01 -0800
-original_url: http://xkcd.com/
+layout: default
+title: "xkcd: Math"
+type: post
+navigation: false
+
+date: 2012-11-06 23:50:01 -0800
+excerpt: "It's funny because it's true."
 categories:
   - Funny
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://xkcd.com/
 ---
+
 
 It's funny because it's true.
 
- >   ![Math](/assets/import/6f4084c71619183902a9ed07bb4a88a8.png)  
+ >   ![Math](/attachments/6f4084c71619183902a9ed07bb4a88a8/image.png)  
 

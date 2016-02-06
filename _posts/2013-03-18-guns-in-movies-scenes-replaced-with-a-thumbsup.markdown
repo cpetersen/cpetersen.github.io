@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Guns in movies scenes replaced with a thumbs-up"
-date:         2013-03-18 09:51:18 -0700
-original_url: http://imgur.com/gallery/ONb0b
+layout: default
+title: "Guns in movies scenes replaced with a thumbs-up"
+type: post
+navigation: false
+
+date: 2013-03-18 09:51:18 -0700
+excerpt: "While we're on on the subject of new takes on e..."
 categories:
   - Movies
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://imgur.com/gallery/ONb0b
 ---
+
 
 While we're on on the subject of new takes on existing movies, this is a collection of images from movies where the guns have been replaced with the thumbs up gesture. 
 

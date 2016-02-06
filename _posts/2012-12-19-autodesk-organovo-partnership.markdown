@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Autodesk, Organovo Partnership"
-date:         2012-12-19 10:25:01 -0800
-original_url: http://techcrunch.com/2012/12/17/organovo-autocad/
+layout: default
+title: "Autodesk, Organovo Partnership"
+type: post
+navigation: false
+
+date: 2012-12-19 10:25:01 -0800
+excerpt: "Organovo  is a company, based on the the very e..."
 categories:
   - NoEmbed
   - Maker
   - Biotech
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://techcrunch.com/2012/12/17/organovo-autocad/
 ---
+
 
  [Organovo](http://www.organovo.com)  is a company, based on the the very exciting idea of printing living tissue using 3D printers. Basically it would allow a doctor to print out veins or organs using your own tissue. I must admit, I never gave much thought to need to design these organs, but partnering with Autodesk to build that software is a great idea.
 
@@ -15,7 +30,7 @@ categories:
 
  > 
  > 
- >  [![organovo](/assets/import/5614bdc3d537fee6821c832ac097f300.jpg)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/) 
+ >  [![organovo](/attachments/5614bdc3d537fee6821c832ac097f300/image.png)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/) 
  > 
  > Autodesk’s software may be best-known for helping architects design buildings or for prototyping products, but it soon may be applied to designing tissues and organs.
  > 

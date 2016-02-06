@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "New TLDs"
-date:         2013-07-20 18:37:38 -0700
-original_url: https://iwantmyname.com/domains/new-gtld-domain-extensions
+layout: default
+title: "New TLDs"
+type: post
+navigation: false
+
+date: 2013-07-20 18:37:38 -0700
+excerpt: "Wow there's a boat load of new TLD's coming. Th..."
 categories:
   - Web
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: https://iwantmyname.com/domains/new-gtld-domain-extensions
 ---
+
 
 Wow there's a boat load of new TLD's coming. There are some really interesting ones, and some that are just bizarre. (.gripe,.melbourne anyone).
 

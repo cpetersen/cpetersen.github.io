@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "That’s a nice little $40M ecommerce company you have there. Call me when it scales | PandoDaily"
-date:         2014-03-24 11:18:00 -0700
-original_url: http://pando.com/2014/03/22/thats-a-nice-little-40m-ecommerce-company-you-have-there-call-me-when-it-scales/
+layout: default
+title: "That’s a nice little $40M ecommerce company you have there. Call me when it scales | PandoDaily"
+type: post
+navigation: false
+
+date: 2014-03-24 11:18:00 -0700
+excerpt: "Much more common is a fate like Overstock.com. ..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://pando.com/2014/03/22/thats-a-nice-little-40m-ecommerce-company-you-have-there-call-me-when-it-scales/
 ---
+
 
 
 

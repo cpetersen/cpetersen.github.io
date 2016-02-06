@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Some advice from Jeff Bezos"
-date:         2012-10-19 11:41:56 -0700
-original_url: http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos
+layout: default
+title: "Some advice from Jeff Bezos"
+type: post
+navigation: false
+
+date: 2012-10-19 11:41:56 -0700
+excerpt: "Great observation from Jeff Bezos. He said peop..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://37signals.com/svn/posts/3289-some-advice-from-jeff-bezos
 ---
+
 
 Great observation from Jeff Bezos.
 

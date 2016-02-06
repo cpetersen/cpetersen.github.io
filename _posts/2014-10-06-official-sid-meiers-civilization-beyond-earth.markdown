@@ -5,7 +5,7 @@ type: post
 navigation: false
 
 date: 2014-10-06 10:26:49 -0700
-excerpt: 
+excerpt: "Yeah… but can I mine Unobtainium?"
 categories:
   - Videogame
 
@@ -21,3 +21,7 @@ github: http://github.com/cpetersen
 ---
 
 {% include media-youtube.html file="https://www.youtube.com/watch?v=p_jp88pnNzE" title="Official Sid Meier's Civilization: Beyond Earth" caption="Yeah… but can I mine Unobtainium?" %}
+
+Yeah… but can I mine Unobtainium? 
+
+ 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Cliff Hanger"
-date:         2012-12-28 14:04:31 -0800
-original_url: http://robertreich.org/
+layout: default
+title: "Cliff Hanger"
+type: post
+navigation: false
+
+date: 2012-12-28 14:04:31 -0800
+excerpt: "I've been following  Robert Reich  more lately...."
 categories:
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://robertreich.org/
 ---
+
 
 I've been following  [Robert Reich](https://twitter.com/rbreich)  more lately. I like his analysis.
 

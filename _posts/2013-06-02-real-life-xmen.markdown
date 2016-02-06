@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Real Life X-Men"
-date:         2013-06-02 21:34:10 -0700
-original_url: http://www.digitaljournal.com/article/326976
+layout: default
+title: "Real Life X-Men"
+type: post
+navigation: false
+
+date: 2013-06-02 21:34:10 -0700
+excerpt: "This article in the digital journal talks about..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.digitaljournal.com/article/326976
 ---
+
 
 This article in the digital journal talks about people who, because of a genetic mutation, can see millions more colors than "normal" people. They aren't exactly Dr. Xavier, but still, pretty darn cool.
 

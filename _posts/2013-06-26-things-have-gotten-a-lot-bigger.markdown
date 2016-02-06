@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "Things have gotten a lot bigger"
-date:         2013-06-26 23:19:37 -0700
+layout: default
+title: "Things have gotten a lot bigger"
+type: post
+navigation: false
+
+date: 2013-06-26 23:19:37 -0700
+excerpt: "I love this comparison, it shows Renaissance er..."
 categories:
   - Data Visualization
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>Renaissance era florence. A single highway interchange, Atlanta, Georgia. Same scale. http://t.co/LobiEaT2Pj</p>&mdash; Danielle Fong (@DanielleFong) <a href="https://twitter.com/DanielleFong/status/348642630088933377">June 22, 2013</a></blockquote>

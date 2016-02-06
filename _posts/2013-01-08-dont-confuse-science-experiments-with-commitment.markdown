@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Don’t Confuse Science Experiments With Commitment"
-date:         2013-01-08 10:42:02 -0800
-original_url: http://blogs.wsj.com/accelerators/2013/01/07/dont-confuse-science-experiments-with-commitment/
+layout: default
+title: "Don’t Confuse Science Experiments With Commitment"
+type: post
+navigation: false
+
+date: 2013-01-08 10:42:02 -0800
+excerpt: "Some wisdom from  Steve Blank. I like the idea ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blogs.wsj.com/accelerators/2013/01/07/dont-confuse-science-experiments-with-commitment/
 ---
+
 
 Some wisdom from  [Steve Blank](https://twitter.com/sgblank). I like the idea that "until you quit your day job, the title founder doesn't even apply".
 

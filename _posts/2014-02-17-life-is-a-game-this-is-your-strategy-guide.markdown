@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Life is a game. This is your strategy guide"
-date:         2014-02-17 07:57:14 -0800
-original_url: http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
+layout: default
+title: "Life is a game. This is your strategy guide"
+type: post
+navigation: false
+
+date: 2014-02-17 07:57:14 -0800
+excerpt: "This is a wonderfully written guide to life. Wr..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
 ---
 
-  ![Drink-vs-code-1024x684.png](/assets/import/a55fb1c401990ce8949feb8c1c22a95c.png)  
+
+  ![Drink-vs-code-1024x684.png](/attachments/a55fb1c401990ce8949feb8c1c22a95c/image.png)  
 
  This is a wonderfully written guide to life. Written in the style of a strategy guide for a strategy game… which I guess it actually is. 

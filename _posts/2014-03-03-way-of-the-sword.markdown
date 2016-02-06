@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Way of the Sword"
-date:         2014-03-03 12:47:00 -0800
+layout: default
+title: "Way of the Sword"
+type: post
+navigation: false
+
+date: 2014-03-03 12:47:00 -0800
+excerpt: "A short lesson in Japanese sword fighting. Appr..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F86960593&url=https%3A%2F%2Fvimeo.com%2F86960593&image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F464826265_1280.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=vimeo" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-vimeo.html file="http://vimeo.com/86960593" title="Way of the Sword" caption="A short lesson in Japanese sword fighting. Appr..." %}
 
 A short lesson in Japanese sword fighting. Approximately 3 minutes. 
 

@@ -1,11 +1,25 @@
 ---
-layout:       post
-title:        "Cesium in Water"
-date:         2013-10-24 12:53:46 -0700
+layout: default
+title: "Cesium in Water"
+type: post
+navigation: false
+
+date: 2013-10-24 12:53:46 -0700
+excerpt: "What happens when you throw a bit of Cesium in ..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_zPH0rdZrJY%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_zPH0rdZrJY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_zPH0rdZrJY%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=_zPH0rdZrJY" title="Cesium in Water" caption="What happens when you throw a bit of Cesium in ..." %}
 
 What happens when you throw a bit of Cesium in water? Well, it turns pink and creates a series of tiny explosions. Watch the video above.

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Who Gets Your Best?"
-date:         2013-09-20 12:34:32 -0700
-original_url: http://sethgodin.typepad.com/seths_blog/2013/09/unreasonable-clients.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29
+layout: default
+title: "Who Gets Your Best?"
+type: post
+navigation: false
+
+date: 2013-09-20 12:34:32 -0700
+excerpt: "﻿   If you reserve your best effort for the irr..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://sethgodin.typepad.com/seths_blog/2013/09/unreasonable-clients.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29
 ---
+
 
 
 

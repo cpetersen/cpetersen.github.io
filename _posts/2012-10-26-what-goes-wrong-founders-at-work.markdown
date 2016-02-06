@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "What Goes Wrong - Founders at Work"
-date:         2012-10-26 11:00:18 -0700
-original_url: http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html
+layout: default
+title: "What Goes Wrong - Founders at Work"
+type: post
+navigation: false
+
+date: 2012-10-26 11:00:18 -0700
+excerpt: "Jessica Livingston discusses the dangers that s..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html
 ---
+
 
 Jessica Livingston discusses the dangers that start ups face. Great post from a woman that knows. I wish I could have seen the talk.
 

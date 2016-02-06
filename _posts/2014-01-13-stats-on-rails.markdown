@@ -1,16 +1,31 @@
 ---
-layout:       post
-title:        "Stats on Rails"
-date:         2014-01-13 14:07:18 -0800
+layout: default
+title: "Stats on Rails"
+type: post
+navigation: false
+
+date: 2014-01-13 14:07:18 -0800
+excerpt: "Basic stats methods:  https://www.bcg.wisc.edu/..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-Basic stats methods:  [https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation](https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation)  
 
-Definition:  [http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)   Alternate Definition with more numbers:  [http://graphpad.com/support/faqid/1598/](http://graphpad.com/support/faqid/1598/)  
+ Basic stats methods:  [https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation](https://www.bcg.wisc.edu/webteam/support/ruby/standard_deviation)  
 
-{% highlight ruby %}
+ Definition:  [http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers](http://en.wikipedia.org/wiki/Grubbs'_test_for_outliers)   Alternate Definition with more numbers:  [http://graphpad.com/support/faqid/1598/](http://graphpad.com/support/faqid/1598/)  
+
+```ruby
 module Enumerable
   def sum
     self.inject(0){|accum, i| accum + i }
@@ -103,14 +118,14 @@ module Enumerable
     result
   end
 end
-{% endhighlight %}
+```
 
-Example
+ Example 
 
-{% highlight ruby %}
+```php
 values = [1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,2,1,100,110]
-values.reject_outliers
-values.select_outliers
-{% endhighlight %}
+values.reject_outliers 
+values.select_outliers 
+```
 
- The end
+ The end 

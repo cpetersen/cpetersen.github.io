@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "4K Gyro-stabilized Camera"
-date:         2013-04-02 19:20:55 -0700
-original_url: http://fstoppers.com/teton-gravity-research-shows-off-most-advanced-4k-gyro-stabilized-camera-platform
+layout: default
+title: "4K Gyro-stabilized Camera"
+type: post
+navigation: false
+
+date: 2013-04-02 19:20:55 -0700
+excerpt: "Teton Gravity Research created this video to sh..."
 categories:
   - Photography
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://fstoppers.com/teton-gravity-research-shows-off-most-advanced-4k-gyro-stabilized-camera-platform
 ---
+
 
 Teton Gravity Research created this video to show off their their new camera. The video shows an incredibly stable image.
 

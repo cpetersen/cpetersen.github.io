@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Bitcoin/Block Chain Roundup"
-date:         2014-06-12 10:44:52 -0700
+layout: default
+title: "Bitcoin/Block Chain Roundup"
+type: post
+navigation: false
+
+date: 2014-06-12 10:44:52 -0700
+excerpt: "Some interesting news in the Bitcoin and Block ..."
 categories:
   - Startups
   - Bitcoin
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
  Some interesting news in the Bitcoin and Block Chain world.  
 

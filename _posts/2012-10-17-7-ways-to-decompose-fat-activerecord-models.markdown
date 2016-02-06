@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "7 Ways to Decompose Fat ActiveRecord Models"
-date:         2012-10-17 10:16:36 -0700
-original_url: http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+layout: default
+title: "7 Ways to Decompose Fat ActiveRecord Models"
+type: post
+navigation: false
+
+date: 2012-10-17 10:16:36 -0700
+excerpt: "Great post on how you can refactor fat models i..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 ---
+
 
 Great post on how you can refactor fat models in a sane way.
 

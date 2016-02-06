@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "CryptoCurrencies as the Fifth Protocol"
-date:         2014-04-07 10:29:16 -0700
+layout: default
+title: "CryptoCurrencies as the Fifth Protocol"
+type: post
+navigation: false
+
+date: 2014-04-07 10:29:16 -0700
+excerpt: "Humans don’t need math-based cryptocurrencies w..."
 categories:
   - Web
   - NoEmbed
   - Technology
   - Bitcoin
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote><p>&#8220;Wait a minute&#8230; Make up your mind. This Snow Crash thing—is it a virus, a drug, or a religion?&#8221;</p>

@@ -1,18 +1,33 @@
 ---
-layout:       post
-title:        "Hangover"
-date:         2013-05-29 03:44:36 -0700
-original_url: http://www.datagenetics.com/blog/may32013/index.html
+layout: default
+title: "Hangover"
+type: post
+navigation: false
+
+date: 2013-05-29 03:44:36 -0700
+excerpt: "Mathematical proof that by stacking overhanging..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.datagenetics.com/blog/may32013/index.html
 ---
+
 
 Mathematical proof that by stacking overhanging blocks, you can support of a block that is completely over a ledge. I love mathematical explanations of such simple phenomena.
 
  > 
  > 
  > 
-|![](/assets/import/ee68b588464afb1c0fa7bf76698cb11f.png)|
+|![](/attachments/ee68b588464afb1c0fa7bf76698cb11f/image.png)|
 |---|
 
  

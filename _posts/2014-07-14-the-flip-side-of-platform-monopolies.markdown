@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Flip Side of Platform Monopolies"
-date:         2014-07-14 10:38:49 -0700
-original_url: http://avc.com/2014/07/platform-monopolies/
+layout: default
+title: "The Flip Side of Platform Monopolies"
+type: post
+navigation: false
+
+date: 2014-07-14 10:38:49 -0700
+excerpt: "Fred Wilson has a piece on platform monopolies...."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://avc.com/2014/07/platform-monopolies/
 ---
+
 
  Fred Wilson has a piece on platform monopolies. It’s a good piece and you should read it. He ends it with: 
 

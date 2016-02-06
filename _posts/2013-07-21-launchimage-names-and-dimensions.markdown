@@ -1,18 +1,33 @@
 ---
-layout:       post
-title:        "LaunchImage Names and Dimensions"
-date:         2013-07-21 14:01:51 -0700
+layout: default
+title: "LaunchImage Names and Dimensions"
+type: post
+navigation: false
+
+date: 2013-07-21 14:01:51 -0700
+excerpt: "List Test  This is a paragraph  Red Orange Yell..."
 categories:
   - iOS
   - Software
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 
 
 ### List Test
 
- This is a paragraph
+ This is a paragraph 
 
  1. Red
  1. Orange
@@ -20,7 +35,7 @@ categories:
  1. Green
     * Hunter Green
     * Lime Green
-    *
+    * 
       1. Lime
       1. Lemon
       1. Orange
@@ -29,7 +44,7 @@ categories:
  1. Blue
  1. Purple
 
- Many iOS apps use the LaunchImage functionality either in conjunction with a splash screen or to make the app appear to load quicker. Below is a list of all the filenames and dimensions for the various iOS devices.
+ Many iOS apps use the LaunchImage functionality either in conjunction with a splash screen or to make the app appear to load quicker. Below is a list of all the filenames and dimensions for the various iOS devices. 
 
 |__Device__|__Image Name__|__Dimensions__|
 |---|---|---|
@@ -43,7 +58,7 @@ categories:
 
 ### ImageMagick Resize and Crop Script
 
-{% highlight sh %}
+```
 #!/bin/sh
 convert original.png -resize "480x" -crop "320x480+80+0" Default.png
 convert original.png -resize "960x" -crop "640x960+160+0" Default@2x.png
@@ -53,18 +68,18 @@ convert original.png -resize "1004x" -crop "768x1004+118+0" Default~ipad.png
 convert original.png -resize "1024x" -crop "1024x748+0+138" Default-Landscape~ipad.png
 convert original.png -resize "2008x" -crop "1536x2008+236+0" Default@2x~ipad.png
 convert original.png -resize "2048x" -crop "2048x1496+0+276" Default-Landscape@2x~ipad.png
-{% endhighlight %}
+```
 
 ### Launch the RubyMotion Simulator in Different Configurations
 
-{% highlight sh %}
+```
 #!/bin/sh
 rake simulator device_family=iphone
-rake simulator device_family=iphone retina=3.5
+rake simulator device_family=iphone retina=3.5 
 rake simulator device_family=iphone retina=4
 rake simulator device_family=ipad
 rake simulator device_family=ipad retina=true
-{% endhighlight %}
+```
 
 ### Icon Sizes
 
@@ -79,18 +94,18 @@ rake simulator device_family=ipad retina=true
 
 ### ImageMagick Resize Icon Script
 
-{% highlight sh %}
+```
 #!/bin/sh
 convert iTunesArtwork@2x.png -resize "512x" iTunesArtwork.png
 convert iTunesArtwork@2x.png -resize "57x" Icon.png
 convert iTunesArtwork@2x.png -resize "72x" Icon-72.png
 convert iTunesArtwork@2x.png -resize "114x" Icon@2x.png
 convert iTunesArtwork@2x.png -resize "144x" Icon-72@2x.png
-{% endhighlight %}
+```
 
-This is a `test this` is only a test
+ This is a `test this` is only a test 
 
-{% highlight ruby %}
+```ruby
   def html(field)
     markdown = dynamic_fields(self.send(field))
     html = if markdown.present?
@@ -100,22 +115,22 @@ This is a `test this` is only a test
       ""
     end
   end
-{% endhighlight %}
+```
 
  This is a test this is only a test
 
-{% highlight markdown %}
+```
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
 | Value 1  | Value 2  | Value 3  |
 | Value 1a | Value 2a | Value 3a |
 * This is a _test_
 * This is **only** a test
-{% endhighlight %}
+```
 
  This is a test this is only a test
 
-{% highlight html %}
+```
 <table>
   <thead>
     <tr class="row">
@@ -138,12 +153,12 @@ This is a `test this` is only a test
     </tr>
   </tbody>
 </table>
-{% endhighlight %}
+```
 
-  ==This ~~is~~  2^(nd)  test,  *this*  __is__  _only_ a test==.
+  ==This ~~is~~  2^(nd)  test,  *this*  __is__  _only_ a test==. 
 
- I'm 'still testing', 'this' is "just a test" of some "quotes"
+ I'm 'still testing', 'this' is "just a test" of some "quotes" 
 
- ﻿
+ ﻿ 
 
- This is a test
+ This is a test 

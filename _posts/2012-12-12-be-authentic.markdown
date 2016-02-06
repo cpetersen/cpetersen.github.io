@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Be Authentic"
-date:         2012-12-12 08:12:26 -0800
-original_url: http://pandodaily.com/2012/12/11/what-makes-for-a-great-entrepreneur/
+layout: default
+title: "Be Authentic"
+type: post
+navigation: false
+
+date: 2012-12-12 08:12:26 -0800
+excerpt: "Andy Rachleff on what it takes to be a great en..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://pandodaily.com/2012/12/11/what-makes-for-a-great-entrepreneur/
 ---
+
 
 Andy Rachleff on what it takes to be a great entrepreneur.
 

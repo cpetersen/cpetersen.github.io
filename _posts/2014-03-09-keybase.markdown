@@ -1,15 +1,30 @@
 ---
-layout:       post
-title:        "Keybase"
-date:         2014-03-09 09:55:18 -0700
-original_url: https://keybase.io/
+layout: default
+title: "Keybase"
+type: post
+navigation: false
+
+date: 2014-03-09 09:55:18 -0700
+excerpt: "Keybase  wants to be a public directory of publ..."
 categories:
   - Startups
   - Crypto
   - Identity
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: https://keybase.io/
 ---
 
-  ![fd1caba1bbd90039c524f5d75391c994.png](/assets/import/fd1caba1bbd90039c524f5d75391c994.png)  
+
+  ![fd1caba1bbd90039c524f5d75391c994.png](/attachments/fd1caba1bbd90039c524f5d75391c994/image.png)  
 
   [Keybase](http://keybase.io)  wants to be a public directory of public keys. So you can add your public keys and verify your identity and accounts, so people can verify your public key belongs to your twitter account. I’m waiting on my beta invite. 
 

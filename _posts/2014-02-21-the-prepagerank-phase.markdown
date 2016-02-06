@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "The ‘pre-pagerank’ phase"
-date:         2014-02-21 08:41:13 -0800
+layout: default
+title: "The ‘pre-pagerank’ phase"
+type: post
+navigation: false
+
+date: 2014-02-21 08:41:13 -0800
+excerpt: "But it’s also more fragmented, more siloed. Bac..."
 categories:
   - Mobile
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/new-industrial-revolution/3f606bf985c6">None</a>

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Boundaries and the Custom Bully"
-date:         2013-04-18 11:38:07 -0700
-original_url: http://sethgodin.typepad.com/seths_blog/2013/04/avoiding-the-custom-bully.html
+layout: default
+title: "Boundaries and the Custom Bully"
+type: post
+navigation: false
+
+date: 2013-04-18 11:38:07 -0700
+excerpt: "Here's the thing: no matter how much you paid f..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://sethgodin.typepad.com/seths_blog/2013/04/avoiding-the-custom-bully.html
 ---
+
 
  
 

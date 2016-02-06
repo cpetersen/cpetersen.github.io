@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "A moment in time"
-date:         2012-12-03 22:06:29 -0800
-original_url: http://37signals.com/svn/posts/3347-a-mistake-is-a-moment-in-time
+layout: default
+title: "A moment in time"
+type: post
+navigation: false
+
+date: 2012-12-03 22:06:29 -0800
+excerpt: "A little philosophy from Jason Fried. He said t..."
 categories:
   - Misc
   - Philosophy
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://37signals.com/svn/posts/3347-a-mistake-is-a-moment-in-time
 ---
+
 
 A little philosophy from Jason Fried.
 

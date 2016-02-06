@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Our two-tiered justice system"
-date:         2012-12-12 09:50:58 -0800
-original_url: http://m.guardiannews.com/commentisfree/2012/dec/12/hsbc-prosecution-fine-money-laundering
+layout: default
+title: "Our two-tiered justice system"
+type: post
+navigation: false
+
+date: 2012-12-12 09:50:58 -0800
+excerpt: "I guess today is as good a day as any for some ..."
 categories:
   - Finance
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://m.guardiannews.com/commentisfree/2012/dec/12/hsbc-prosecution-fine-money-laundering
 ---
+
 
 I guess today is as good a day as any for some political outrage. 
 

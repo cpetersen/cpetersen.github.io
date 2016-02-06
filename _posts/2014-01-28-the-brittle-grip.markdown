@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Brittle Grip"
-date:         2014-01-28 14:23:36 -0800
-original_url: http://talkingpointsmemo.com/edblog/the-brittle-grip-part-2
+layout: default
+title: "The Brittle Grip"
+type: post
+navigation: false
+
+date: 2014-01-28 14:23:36 -0800
+excerpt: "Josh Marshall at Talking Points Memo looks at T..."
 categories:
   - Finance
   - Inequality
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://talkingpointsmemo.com/edblog/the-brittle-grip-part-2
 ---
+
 
  Josh Marshall at Talking Points Memo looks at Tom Perkins ridiculous comparison of the 1% to Jews in Nazi Germany. 
 

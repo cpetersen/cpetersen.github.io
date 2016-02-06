@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "What our solar system looks like from a non-fixed perspective"
-date:         2013-02-28 22:28:18 -0800
+layout: default
+title: "What our solar system looks like from a non-fixed perspective"
+type: post
+navigation: false
+
+date: 2013-02-28 22:28:18 -0800
+excerpt: "From  @justinsane98"
 categories:
   - Space
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <img src='http://imgur.com/Z7FpC.gif' />

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Hard Truths"
-date:         2013-07-20 12:01:43 -0700
-original_url: http://the-pastry-box-project.net/mike-monteiro/2013-july-19/
+layout: default
+title: "Hard Truths"
+type: post
+navigation: false
+
+date: 2013-07-20 12:01:43 -0700
+excerpt: "Mike Monteiro (of  Fuck You, Pay Me   fame) tel..."
 categories:
   - Design
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://the-pastry-box-project.net/mike-monteiro/2013-july-19/
 ---
+
 
 Mike Monteiro (of  [Fuck You, Pay Me](http://vimeo.com/22053820)   fame) tells designers what we all ought to know. Better to tell the hard truths up front than to use them as an excuse later.
 

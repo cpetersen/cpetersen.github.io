@@ -1,10 +1,25 @@
 ---
-layout:       post
-title:        "Disruptors vs the Status Quo"
-date:         2013-01-12 20:14:47 -0800
+layout: default
+title: "Disruptors vs the Status Quo"
+type: post
+navigation: false
+
+date: 2013-01-12 20:14:47 -0800
+excerpt: "Aaron Swartz's death is a tragedy and I will le..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 Aaron Swartz's death is a tragedy and I will leave it to people that knew him to eulogize him.
 

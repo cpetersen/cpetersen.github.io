@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Extracting 3D models from 2D images"
-date:         2013-09-10 16:17:46 -0700
+layout: default
+title: "Extracting 3D models from 2D images"
+type: post
+navigation: false
+
+date: 2013-09-10 16:17:46 -0700
+excerpt: "Wow, just wow.    This software lets you quickl..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOie1ZXWceqM%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOie1ZXWceqM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOie1ZXWceqM%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=Oie1ZXWceqM" title="Extracting 3D models from 2D images" caption="Wow, just wow.    This software lets you quickl..." %}
 
 Wow, just wow.  
 

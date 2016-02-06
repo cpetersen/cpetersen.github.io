@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Learning Myth"
-date:         2014-08-25 09:24:19 -0700
-original_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-im-cautious-about-telling-my
+layout: default
+title: "The Learning Myth"
+type: post
+navigation: false
+
+date: 2014-08-25 09:24:19 -0700
+excerpt: "Recently, I put into practice research I had be..."
 categories:
   - Education
   - Parenting
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-im-cautious-about-telling-my
 ---
+
 
 
 

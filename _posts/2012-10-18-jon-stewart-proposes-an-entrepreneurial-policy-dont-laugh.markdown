@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Jon Stewart Proposes an Entrepreneurial Policy. Don't Laugh."
-date:         2012-10-18 20:40:00 -0700
-original_url: http://boss.blogs.nytimes.com/2012/10/18/jon-stewart-proposes-an-entrepreneurial-policy-dont-laugh/
+layout: default
+title: "Jon Stewart Proposes an Entrepreneurial Policy. Don't Laugh."
+type: post
+navigation: false
+
+date: 2012-10-18 20:40:00 -0700
+excerpt: "I've been saying this to Dana for years. I thin..."
 categories:
   - Politics
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://boss.blogs.nytimes.com/2012/10/18/jon-stewart-proposes-an-entrepreneurial-policy-dont-laugh/
 ---
+
 
 I've been saying this to Dana for years. I think it started just about the time I helped found  [Assay Depot](http://www.assaydepot.com).
 

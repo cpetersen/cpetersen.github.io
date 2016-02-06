@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "The Internet Keeps Getting Bigger."
-date:         2012-11-29 08:53:58 -0800
+layout: default
+title: "The Internet Keeps Getting Bigger."
+type: post
+navigation: false
+
+date: 2012-11-29 08:53:58 -0800
+excerpt: "While some are saying the days of consumer inte..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://500hats.com/what-hasnt-changed?gi=84acf92acee1">None</a>

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "WIllpower and Cognitive Processing"
-date:         2013-07-30 10:20:48 -0700
-original_url: http://seriouspony.com/blog/?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferbabed&utm_medium=twitter
+layout: default
+title: "WIllpower and Cognitive Processing"
+type: post
+navigation: false
+
+date: 2013-07-30 10:20:48 -0700
+excerpt: "Kathy Sierra tells us about the relationship be..."
 categories:
   - Misc
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://seriouspony.com/blog/?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferbabed&utm_medium=twitter
 ---
+
 
 Kathy Sierra tells us about the relationship between Willpower and Cognitive Processing. The implications are far reaching, from how you work to how you play. 
 

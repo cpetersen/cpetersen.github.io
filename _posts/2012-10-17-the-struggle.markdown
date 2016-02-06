@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Struggle"
-date:         2012-10-17 12:37:46 -0700
-original_url: http://bhorowitz.com/2012/06/15/the-struggle/
+layout: default
+title: "The Struggle"
+type: post
+navigation: false
+
+date: 2012-10-17 12:37:46 -0700
+excerpt: "Great post from Ben Horowitz on what it's like ..."
 categories:
   - Startups
   - NoEmbed
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://bhorowitz.com/2012/06/15/the-struggle/
 ---
+
 
 Great post from Ben Horowitz on what it's like starting a company. Pretty much everything on his blog is great.
 

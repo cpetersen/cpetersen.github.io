@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Truth about Growth Hacking"
-date:         2013-09-17 23:17:00 -0700
-original_url: http://insideintercom.io/if-its-important-dont-hack-it/
+layout: default
+title: "The Truth about Growth Hacking"
+type: post
+navigation: false
+
+date: 2013-09-17 23:17:00 -0700
+excerpt: "Lots of things correlate with users upgrading, ..."
 categories:
   - Business
   - Marketing
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://insideintercom.io/if-its-important-dont-hack-it/
 ---
+
 
 
 

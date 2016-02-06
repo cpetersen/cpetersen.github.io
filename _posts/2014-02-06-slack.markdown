@@ -1,9 +1,23 @@
 ---
-layout:       post
-title:        "Slack"
-date:         2014-02-06 12:43:05 -0800
+layout: default
+title: "Slack"
+type: post
+navigation: false
+
+date: 2014-02-06 12:43:05 -0800
+excerpt: "@herminghaus: @pmarca A grey area is white as l..."
 categories:
   - Draft
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <blockquote class="twitter-tweet"><p>@pmarca A grey area is white as long as you're considered good, black as soon as you're considered bad. It's time-division multiplexed grey.</p>&mdash; Volker Herminghaus (@herminghaus) <a href="https://twitter.com/herminghaus/status/431520274727862272">February 06, 2014</a></blockquote>

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Unknowable: Rands In Repose"
-date:         2013-05-21 10:31:04 -0700
-original_url: http://www.randsinrepose.com/archives/2013/05/19/unknowable.html
+layout: default
+title: "Unknowable: Rands In Repose"
+type: post
+navigation: false
+
+date: 2013-05-21 10:31:04 -0700
+excerpt: "Rands  speculates about the reason why  WWDC  i..."
 categories:
   - Apple
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.randsinrepose.com/archives/2013/05/19/unknowable.html
 ---
+
 
  [Rands](https://twitter.com/rands)  speculates about the reason why  [WWDC](https://developer.apple.com/wwdc/)  is capped at 5,000 people and links it to the small team sizes at  [Apple](http://www.apple.com).
 

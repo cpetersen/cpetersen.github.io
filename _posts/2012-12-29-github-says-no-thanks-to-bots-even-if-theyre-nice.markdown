@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "GitHub Says 'No Thanks' to Bots — Even if They're Nice"
-date:         2012-12-29 09:59:40 -0800
-original_url: http://www.wired.com/wiredenterprise/2012/12/github-bots/
+layout: default
+title: "GitHub Says 'No Thanks' to Bots — Even if They're Nice"
+type: post
+navigation: false
+
+date: 2012-12-29 09:59:40 -0800
+excerpt: "Imageoptimiser  automatically recompresses imag..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.wired.com/wiredenterprise/2012/12/github-bots/
 ---
+
 
  [Imageoptimiser](https://github.com/imageoptimiser)  automatically recompresses images in public  [GitHub](https://github.com)  repos and send pull requests with the updated images.
 

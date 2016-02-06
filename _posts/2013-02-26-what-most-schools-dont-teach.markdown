@@ -1,13 +1,27 @@
 ---
-layout:       post
-title:        "What most schools don't teach"
-date:         2013-02-26 11:22:05 -0800
+layout: default
+title: "What most schools don't teach"
+type: post
+navigation: false
+
+date: 2013-02-26 11:22:05 -0800
+excerpt: "I really like this video, it many ways it refle..."
 categories:
   - Education
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnKIu9yen5nc%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnKIu9yen5nc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnKIu9yen5nc%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=nKIu9yen5nc" title="What most schools don't teach" caption="I really like this video, it many ways it refle..." %}
 
 I really like this video, it many ways it reflects how I felt when I learned to code. Some of my favorite parts:
 

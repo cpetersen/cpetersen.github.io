@@ -1,14 +1,29 @@
 ---
-layout:       post
-title:        "Wind Map"
-date:         2013-06-06 23:18:45 -0700
-original_url: http://hint.fm/wind/
+layout: default
+title: "Wind Map"
+type: post
+navigation: false
+
+date: 2013-06-06 23:18:45 -0700
+excerpt: "Wind map is a beautiful visualization of the wi..."
 categories:
   - Data Visualization
   - Map
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://hint.fm/wind/
 ---
 
- ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.gif)  
+
+ ![A humbling map of real-time wind patterns in Tornado Alley](/attachments/7abfef38b76feaedc2b1e29fc59421d7/image.png)  
 
  Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy! 
 

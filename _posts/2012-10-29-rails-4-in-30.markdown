@@ -1,10 +1,24 @@
 ---
-layout:       post
-title:        "Rails 4 in 30'"
-date:         2012-10-29 12:58:26 -0700
+layout: default
+title: "Rails 4 in 30'"
+type: post
+navigation: false
+
+date: 2012-10-29 12:58:26 -0700
+excerpt: "A quick but thorough overview of what to expect..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2F508ecd4a06b6f70002001fb8&url=https%3A%2F%2Fspeakerdeck.com%2Fspastorino%2Frails-4-in-30&image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2F508ecd4a06b6f70002001fb8%2Fslide_0.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=speakerdeck" width="450" height="409" scrolling="no" frameborder="0" allowfullscreen></iframe>

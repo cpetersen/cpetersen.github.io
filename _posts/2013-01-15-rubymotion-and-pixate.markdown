@@ -1,14 +1,29 @@
 ---
-layout:       post
-title:        "RubyMotion and Pixate"
-date:         2013-01-15 10:08:17 -0800
-original_url: http://pixate.github.com/RubyMotion-Pixate/
+layout: default
+title: "RubyMotion and Pixate"
+type: post
+navigation: false
+
+date: 2013-01-15 10:08:17 -0800
+excerpt: "I've been excited about using  RubyMotion  and ..."
 categories:
   - iOS
   - Software
   - RubyMotion
   - Mobile
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://pixate.github.com/RubyMotion-Pixate/
 ---
+
 
 I've been excited about using  [RubyMotion](http://www.rubymotion.com)  and  [Pixate](http://www.pixate.com)  to build iOS apps for a while now.  [This gem](http://pixate.github.com/RubyMotion-Pixate/)  seems to be exactly what I've been looking for. It even supports  [SASS](http://sass-lang.com). 
 

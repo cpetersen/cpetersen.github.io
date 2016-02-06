@@ -1,13 +1,27 @@
 ---
-layout:       post
-title:        "Skaters and Hackers"
-date:         2013-08-06 10:13:39 -0700
+layout: default
+title: "Skaters and Hackers"
+type: post
+navigation: false
+
+date: 2013-08-06 10:13:39 -0700
+excerpt: "Maybe it's because I used to skate as a kid or ..."
 categories:
   - Misc
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FgwjlDBjNzXk%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgwjlDBjNzXk%26feature%3Dplayer_embedded%26desktop_uri%3D%252Fwatch%253Fv%253DgwjlDBjNzXk%2526feature%253Dplayer_embedded%26nomobile%3D1&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FgwjlDBjNzXk%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=gwjlDBjNzXk" title="Skaters and Hackers" caption="Maybe it's because I used to skate as a kid or ..." %}
 
  Maybe it's because I used to skate as a kid or because I identify with the Hacker community now, but this video really resonated with me. At one point Rodney says: 
 

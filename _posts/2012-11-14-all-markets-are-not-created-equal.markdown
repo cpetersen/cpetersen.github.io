@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "All Markets Are Not Created Equal"
-date:         2012-11-14 10:15:07 -0800
-original_url: http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/
+layout: default
+title: "All Markets Are Not Created Equal"
+type: post
+navigation: false
+
+date: 2012-11-14 10:15:07 -0800
+excerpt: "A very smart post by Bill Gurley about the fact..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/
 ---
+
 
 A very smart post by Bill Gurley about the factors that contribute to the success of a marketplace.
 

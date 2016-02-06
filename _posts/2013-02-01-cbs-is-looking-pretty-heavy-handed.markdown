@@ -1,9 +1,24 @@
 ---
-layout:       post
-title:        "CBS is looking pretty heavy handed"
-date:         2013-02-01 18:08:53 -0800
+layout: default
+title: "CBS is looking pretty heavy handed"
+type: post
+navigation: false
+
+date: 2013-02-01 18:08:53 -0800
+excerpt: "First CBS (CNET's parent company) refused to le..."
 categories:
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
+
 
 First CBS (CNET's parent company) refused to let CNET give it's best in show award to Dish's Hopper because it competes with a product of theirs. 
 

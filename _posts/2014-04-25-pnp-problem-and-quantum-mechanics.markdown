@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "P≠NP Problem and Quantum Mechanics"
-date:         2014-04-25 08:47:14 -0700
-original_url: https://medium.com/the-physics-arxiv-blog/7ef5eea6fd7a
+layout: default
+title: "P≠NP Problem and Quantum Mechanics"
+type: post
+navigation: false
+
+date: 2014-04-25 08:47:14 -0700
+excerpt: "To put it in context, Bolotin imagines a comput..."
 categories:
   - Science
   - Computers
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: https://medium.com/the-physics-arxiv-blog/7ef5eea6fd7a
 ---
+
 
 
 

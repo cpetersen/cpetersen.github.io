@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Potential for Drones"
-date:         2013-05-25 23:35:50 -0700
-original_url: http://www.marketplace.org/topics/tech/glimpse-potential-drone-industry#.UZ8ZVa8GUOY.twitter
+layout: default
+title: "The Potential for Drones"
+type: post
+navigation: false
+
+date: 2013-05-25 23:35:50 -0700
+excerpt: "According to Marketplace, San Diego has over 60..."
 categories:
   - Drones
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.marketplace.org/topics/tech/glimpse-potential-drone-industry#.UZ8ZVa8GUOY.twitter
 ---
+
 
 According to Marketplace, San Diego has over 60% of the existing drone market, which is in it's infancy.
 

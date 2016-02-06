@@ -1,14 +1,14 @@
 ---
 
-layout:			default
-title:  		About this Theme
-type:			page
-navigation: 	true
+layout: default
+title: About
+type: page
+navigation: true
 
-date:   		2014-05-08
-excerpt: 		Don't let yourself be fooled by the <b>minimal and tidy overall appearance</b> of this theme — <i>you might be surprised what's included</i>.
-gradient: 		2
-image: 			header-2.jpg
+date: 2014-05-08
+excerpt: Don't let yourself be fooled by the <b>minimal and tidy overall appearance</b> of this theme — <i>you might be surprised what's included</i>.
+gradient: 2
+image: header-2.jpg
 
 ---
 
@@ -82,7 +82,7 @@ print_hi('Tom')
 
 ### Much More
 
-Those features above are just the tip of the iceberg and there's much more included. 
+Those features above are just the tip of the iceberg and there's much more included.
 
 Things like support for **Google Analytics & Web Fonts**, advanced **pagination** on overview pages, a custom **teaser of the next article** at the bottom of each post, **Twitter Cards & Facebook Open Graph** tags dynamically generated, multiple page types, etc.
 

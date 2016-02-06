@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Incautious Porn"
-date:         2013-03-19 11:45:09 -0700
-original_url: http://incautious.org/
+layout: default
+title: "Incautious Porn"
+type: post
+navigation: false
+
+date: 2013-03-19 11:45:09 -0700
+excerpt: "We captured more than  100,000 public comments ..."
 categories:
   - Web
   - Funny
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://incautious.org/
 ---
+
 
 
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Three Things"
-date:         2014-04-16 12:04:50 -0700
-original_url: http://blog.codinghorror.com/three-things/
+layout: default
+title: "Three Things"
+type: post
+navigation: false
+
+date: 2014-04-16 12:04:50 -0700
+excerpt: "What three things do you need to do today?   Yo..."
 categories:
   - Productivity
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://blog.codinghorror.com/three-things/
 ---
+
 
 
 

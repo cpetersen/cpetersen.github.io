@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Sales for Hackers"
-date:         2013-08-08 23:45:47 -0700
-original_url: http://brandonb.cc/enterprise-sales-tips-for-hackers
+layout: default
+title: "Sales for Hackers"
+type: post
+navigation: false
+
+date: 2013-08-08 23:45:47 -0700
+excerpt: "In this post, Brandon provides a lot of insight..."
 categories:
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://brandonb.cc/enterprise-sales-tips-for-hackers
 ---
+
 
 In this post, Brandon provides a lot of insight into sales. One point that I've learned the hard way is:
 

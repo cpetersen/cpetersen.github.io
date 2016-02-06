@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Warrantless wiretaps? Congress votes yes"
-date:         2012-12-28 16:16:55 -0800
-original_url: http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/
+layout: default
+title: "Warrantless wiretaps? Congress votes yes"
+type: post
+navigation: false
+
+date: 2012-12-28 16:16:55 -0800
+excerpt: "Fucking Congress. So they finally agree on one ..."
 categories:
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://arstechnica.com/tech-policy/2012/12/warrantless-wiretaps-congress-votes-yes/
 ---
+
 
 Fucking Congress. So they finally agree on one thing... and this is what they decide it should be?
 

@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Scott’s Story and the Election"
-date:         2012-10-18 17:02:18 -0700
-original_url: http://www.nytimes.com/2012/10/18/opinion/kristof-scotts-story-and-the-election.html?smid=tw-share&_r=0
+layout: default
+title: "Scott’s Story and the Election"
+type: post
+navigation: false
+
+date: 2012-10-18 17:02:18 -0700
+excerpt: "This is a sad story, but I like the sentiment o..."
 categories:
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.nytimes.com/2012/10/18/opinion/kristof-scotts-story-and-the-election.html?smid=tw-share&_r=0
 ---
+
 
 This is a sad story, but I like the sentiment of this op-ed.
 

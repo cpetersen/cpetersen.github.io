@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Can you spot the scratch?"
-date:         2013-06-14 10:46:08 -0700
-original_url: http://www.predatorythinking.com/scratch/
+layout: default
+title: "Can you spot the scratch?"
+type: post
+navigation: false
+
+date: 2013-06-14 10:46:08 -0700
+excerpt: "IF YOU CAN SPOT THE SCRATCH ON ANY OF OUR RENAU..."
 categories:
   - Sales
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.predatorythinking.com/scratch/
 ---
 
-  ![](/assets/import/7f6cc6650bd5a9bba5b230ab6aede216.jpg) 
+
+  ![](/attachments/7f6cc6650bd5a9bba5b230ab6aede216/image.png) 
 
  > 
  > 

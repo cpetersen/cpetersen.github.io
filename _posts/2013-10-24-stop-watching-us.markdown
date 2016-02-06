@@ -1,12 +1,26 @@
 ---
-layout:       post
-title:        "Stop Watching Us"
-date:         2013-10-24 12:53:55 -0700
+layout: default
+title: "Stop Watching Us"
+type: post
+navigation: false
+
+date: 2013-10-24 12:53:55 -0700
+excerpt: "Just in time for the  largest protest against m..."
 categories:
   - Surveillance
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FaGmiw_rrNxk%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaGmiw_rrNxk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaGmiw_rrNxk%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=aGmiw_rrNxk" title="Stop Watching Us" caption="Just in time for the  largest protest against m..." %}
 
 Just in time for the  [largest protest against mass surveillance](https://rally.stopwatching.us/)    [StopWatching.Us](https://optin.stopwatching.us/)  has released a video explaining what it is and why it's important that we stop it now. 
 

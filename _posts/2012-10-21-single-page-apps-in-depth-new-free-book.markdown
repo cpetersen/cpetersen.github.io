@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Single page apps in depth (new free book)"
-date:         2012-10-21 22:28:18 -0700
-original_url: http://singlepageappbook.com/
+layout: default
+title: "Single page apps in depth (new free book)"
+type: post
+navigation: false
+
+date: 2012-10-21 22:28:18 -0700
+excerpt: "I'm going to have to give this a read. I like t..."
 categories:
   - Web
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://singlepageappbook.com/
 ---
+
 
 I'm going to have to give this a read. I like the concept of a single page web app.
 

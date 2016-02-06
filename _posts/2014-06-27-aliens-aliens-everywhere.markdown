@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "Aliens, Aliens everywhere..."
-date:         2014-06-27 09:45:12 -0700
+layout: default
+title: "Aliens, Aliens everywhere..."
+type: post
+navigation: false
+
+date: 2014-06-27 09:45:12 -0700
+excerpt: "Aliens, Aliens everywhere… or maybe not.   I ra..."
 categories:
   - Space
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-  ![Stars-small.jpg](/assets/import/31f59b22ea4052244849c0ebe6cffd02.jpg)  
+
+  ![Stars-small.jpg](/attachments/31f59b22ea4052244849c0ebe6cffd02/image.png)  
 
  Aliens, Aliens everywhere… or maybe not. 
 

@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Nate Silver backlash"
-date:         2012-10-30 13:44:15 -0700
-original_url: http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/30/the-nate-silver-backlash/
+layout: default
+title: "The Nate Silver backlash"
+type: post
+navigation: false
+
+date: 2012-10-30 13:44:15 -0700
+excerpt: "People really don't understand statistics.  Fiv..."
 categories:
   - Politics
   - Statistics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.washingtonpost.com/blogs/ezra-klein/wp/2012/10/30/the-nate-silver-backlash/
 ---
+
 
 People really don't understand statistics.  [FiveThirtyEight](http://fivethirtyeight.blogs.nytimes.com)  is one of the best informed blogs out there (in my opinion). In this article the Washington Post covers some of the people attacking it.
 

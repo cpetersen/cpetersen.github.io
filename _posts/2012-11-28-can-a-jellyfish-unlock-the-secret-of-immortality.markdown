@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Can a Jellyfish Unlock the Secret of Immortality?"
-date:         2012-11-28 17:55:50 -0800
-original_url: http://www.nytimes.com/2012/12/02/magazine/can-a-jellyfish-unlock-the-secret-of-immortality.html?hp&_r=0&pagewanted=all
+layout: default
+title: "Can a Jellyfish Unlock the Secret of Immortality?"
+type: post
+navigation: false
+
+date: 2012-11-28 17:55:50 -0800
+excerpt: "Really interesting article about a jelly fish t..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.nytimes.com/2012/12/02/magazine/can-a-jellyfish-unlock-the-secret-of-immortality.html?hp&_r=0&pagewanted=all
 ---
+
 
 Really interesting article about a jelly fish that can basically age both normally and in reverse, making it immortal. However, I was more interested in the lessons we can learn from the people doing the research. For instance:
 

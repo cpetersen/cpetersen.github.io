@@ -1,13 +1,28 @@
 ---
-layout:       post
-title:        "The Enterprise Cool Kids"
-date:         2013-01-28 10:14:19 -0800
-original_url: http://techcrunch.com/2013/01/27/the-enterprise-cool-kids/
+layout: default
+title: "The Enterprise Cool Kids"
+type: post
+navigation: false
+
+date: 2013-01-28 10:14:19 -0800
+excerpt: "”The existing enterprise players are building s..."
 categories:
   - NoEmbed
   - Technology
   - Enterprise
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://techcrunch.com/2013/01/27/the-enterprise-cool-kids/
 ---
+
 
 
 

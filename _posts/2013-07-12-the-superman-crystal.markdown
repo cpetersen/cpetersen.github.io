@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "The Superman Crystal"
-date:         2013-07-12 08:58:09 -0700
-original_url: http://www.southampton.ac.uk/mediacentre/news/2013/jul/13_131.shtml?1
+layout: default
+title: "The Superman Crystal"
+type: post
+navigation: false
+
+date: 2013-07-12 08:58:09 -0700
+excerpt: "Hey, whatcha doin? Just backing up my data to a..."
 categories:
   - Science
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.southampton.ac.uk/mediacentre/news/2013/jul/13_131.shtml?1
 ---
+
 
 Hey, whatcha doin?
 

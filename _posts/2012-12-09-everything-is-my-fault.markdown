@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Everything is my fault"
-date:         2012-12-09 13:44:36 -0800
-original_url: http://sivers.org/my-fault
+layout: default
+title: "Everything is my fault"
+type: post
+navigation: false
+
+date: 2012-12-09 13:44:36 -0800
+excerpt: "Some philosophy from  @sivers. Everything's my ..."
 categories:
   - Philosophy
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://sivers.org/my-fault
 ---
+
 
 Some philosophy from  [@sivers](https://twitter.com/sivers). Everything's my fault... and that's great!
 

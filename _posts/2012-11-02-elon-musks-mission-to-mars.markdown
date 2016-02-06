@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "Elon Musk's Mission to Mars"
-date:         2012-11-02 11:22:04 -0700
-original_url: http://www.wired.com/wiredscience/2012/10/ff-elon-musk-qa/all/
+layout: default
+title: "Elon Musk's Mission to Mars"
+type: post
+navigation: false
+
+date: 2012-11-02 11:22:04 -0700
+excerpt: "No one thinks bigger than Elon Musk. In this ar..."
 categories:
   - Startups
   - Space
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.wired.com/wiredscience/2012/10/ff-elon-musk-qa/all/
 ---
+
 
 No one thinks bigger than Elon Musk. In this article Wired talks to him about is plan to send a ship to Mars and a multi-stage rocket that can achieve orbit, return to earth and land vertically.
 

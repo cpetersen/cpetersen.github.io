@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "10 Things Bosses Never Tells You"
-date:         2012-12-10 09:45:44 -0800
-original_url: http://www.inc.com/jeff-haden/10-things-bosses-never-tell-employees.html
+layout: default
+title: "10 Things Bosses Never Tells You"
+type: post
+navigation: false
+
+date: 2012-12-10 09:45:44 -0800
+excerpt: "Kind of a dumb, but fun little article. I like ..."
 categories:
   - Startups
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.inc.com/jeff-haden/10-things-bosses-never-tell-employees.html
 ---
+
 
 Kind of a dumb, but fun little article. I like the last one: "Ownership is the smorgasbord of insecurity."
 

@@ -1,13 +1,27 @@
 ---
-layout:       post
-title:        "COSMOS"
-date:         2013-07-21 13:07:23 -0700
+layout: default
+title: "COSMOS"
+type: post
+navigation: false
+
+date: 2013-07-21 13:07:23 -0700
+excerpt: "More great stuff from ComicCon and Neil DeGrass..."
 categories:
   - Science
   - ComicCon
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
 ---
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNeVCR1qfMaU%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNeVCR1qfMaU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNeVCR1qfMaU%2Fhqdefault.jpg&key=d815972c91e546edb5d2d02e509f8b1c&type=text%2Fhtml&schema=youtube" width="450" height="253" scrolling="no" frameborder="0" allowfullscreen></iframe>
+{% include media-youtube.html file="https://www.youtube.com/watch?v=NeVCR1qfMaU" title="COSMOS" caption="More great stuff from ComicCon and Neil DeGrass..." %}
 
 More great stuff from ComicCon and Neil DeGrasse Tyson. COSMOS is a 13 part "docu-series" premiering in 2014. Really looking forward to it.
 

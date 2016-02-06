@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "To eat or be eaten?"
-date:         2012-11-30 09:10:44 -0800
-original_url: http://radar.oreilly.com/2012/11/to-eat-or-be-eaten.html
+layout: default
+title: "To eat or be eaten?"
+type: post
+navigation: false
+
+date: 2012-11-30 09:10:44 -0800
+excerpt: "This is the flip-side of Marc Adreesen's &quot; Soft..."
 categories:
   - Software
   - Technology
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://radar.oreilly.com/2012/11/to-eat-or-be-eaten.html
 ---
+
 
 This is the flip-side of Marc Adreesen's " [Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) ". Interesting distinction, is software eating the world, or is the world eating software?
 

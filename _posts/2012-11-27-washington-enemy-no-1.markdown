@@ -1,11 +1,26 @@
 ---
-layout:       post
-title:        "Washington Enemy No. 1"
-date:         2012-11-27 22:17:49 -0800
-original_url: http://online.wsj.com/article/SB10001424127887324352004578137112355225342.html?mod=WSJ_hp_mostpop_read
+layout: default
+title: "Washington Enemy No. 1"
+type: post
+navigation: false
+
+date: 2012-11-27 22:17:49 -0800
+excerpt: "The Republican party should jettison all of thi..."
 categories:
   - Politics
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://online.wsj.com/article/SB10001424127887324352004578137112355225342.html?mod=WSJ_hp_mostpop_read
 ---
+
 
 The Republican party should jettison all of this Grover Norquist crap. Taxes are a reflection of government's role in our society and should be discussed as such.
 
@@ -19,4 +34,4 @@ The Republican party should jettison all of this Grover Norquist crap. Taxes are
 
 For 20 years Democrats have tried over and over to trick Republicans into breaking the pledge. It hasn't happened. This isn't my first rodeo.
 
-  ![image](/assets/import/cde10a4d2202b7a41812cf7a056196e6.jpg)  
+  ![image](/attachments/cde10a4d2202b7a41812cf7a056196e6/image.png)  

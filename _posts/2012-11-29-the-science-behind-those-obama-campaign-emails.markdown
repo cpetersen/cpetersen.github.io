@@ -1,12 +1,27 @@
 ---
-layout:       post
-title:        "The Science Behind Those Obama Campaign E-Mails"
-date:         2012-11-29 15:21:37 -0800
-original_url: http://www.businessweek.com/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails
+layout: default
+title: "The Science Behind Those Obama Campaign E-Mails"
+type: post
+navigation: false
+
+date: 2012-11-29 15:21:37 -0800
+excerpt: "More evidence of just how sophisticated and eff..."
 categories:
   - Politics
   - Software
+
+gradient: 1
+image: header-4.jpg
+details: false
+
+author: Chris Petersen
+bio: Professional Guy Behind the Guy
+twitter: http://twitter.com/cpetersen
+github: http://github.com/cpetersen
+
+original_url: http://www.businessweek.com/articles/2012-11-29/the-science-behind-those-obama-campaign-e-mails
 ---
+
 
 More evidence of just how sophisticated and effective the Obama campaign was online. I love the emphasis on A/B testing.
 
