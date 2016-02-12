@@ -7,7 +7,7 @@ navigation: false
 date: 2016-02-12 09:30:00 -0700
 excerpt: "Convert <a href='https://kapeli.com/dash'>Dash's</a> sqlite database to the directory structure expected by <a href='http://happenapps.com/#quiver'>Quiver</a>."
 categories:
-  - Video
+  - Programming
 
 gradient: 1
 image: header-1.jpg
