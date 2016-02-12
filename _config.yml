@@ -13,7 +13,7 @@ name: <b>petersen</b>.<i>io</i>
 description: 	A beautifully contemporary and elegant Jekyll theme
 url: "http://petersen.io" # the base hostname & protocol for your site
 
-paginate: 3
+paginate: 5
 paginate_path: "blog/page:num"
 
 twitter: cpetersen
@@ -29,3 +29,4 @@ markdown: kramdown
 
 gems:
   - jekyll-paginate
+  - jekyll-gist
