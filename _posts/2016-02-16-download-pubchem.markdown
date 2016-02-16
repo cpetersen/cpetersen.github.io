@@ -23,3 +23,11 @@ github: http://github.com/cpetersen
 [PubChem](https://pubchem.ncbi.nlm.nih.gov) offers an FTP site. This script will download all of the gzipped [SDfiles](https://en.wikipedia.org/wiki/Chemical_table_file) to a local directory. There are about 58GBs of zipped data and 535GBs of unzipped data.
 
 {% gist cpetersen/ea4ed11b22faf3387436 %}
+
+You can then unzip these using:
+
+{% highlight sh %}
+gunzip *.gz
+{% endhighlight %}
+
+(expect it to take a while)
