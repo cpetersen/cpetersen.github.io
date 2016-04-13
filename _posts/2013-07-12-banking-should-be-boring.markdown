@@ -22,8 +22,6 @@ github: http://github.com/cpetersen
 
 {% include media-youtube.html file="https://www.youtube.com/watch?v=TyRR-PsmPFM" title="Banking should be Boring" caption="Senator Elizabeth Warren introduces an updated ..." %}
 
-Senator Elizabeth Warren introduces an updated Glass Steagall act, with a great tag line. 
+Senator Elizabeth Warren introduces an updated Glass Steagall act, with a great tag line.
 
-  ![](/attachments/97259bff719fbabbd3462372e7c0acc4/image.png)  
-
- 
+  ![](/assets/import/97259bff719fbabbd3462372e7c0acc4.jpg)  

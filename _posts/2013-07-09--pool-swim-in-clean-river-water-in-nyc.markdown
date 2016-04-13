@@ -26,8 +26,8 @@ Ok, this is pretty cool. They drop a huge "+" shaped filter into the river and i
 
 Via  [@mokolabs](https://twitter.com/mokolabs/status/354637157362712577).
 
- > 
- > 
- >   ![](/attachments/4a6c889af680206f7c8074a0ad477cd7/image.png)  
- > 
- > 
+ >
+ >
+ >   ![](/assets/import/4a6c889af680206f7c8074a0ad477cd7.jpg)  
+ >
+ >

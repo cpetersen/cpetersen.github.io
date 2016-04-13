@@ -24,8 +24,8 @@ original_url: http://www.teslamotors.com/supercharger
 
 Tesla offers free charging for Model S owners at their Supercharger stations. They plan to have them coast to coast by 2015. I saw a Model S in one of their showrooms a while back. It's a beautiful car and I love the company's ambition.
 
- > 
- > 
- >   ![Model S at Supercharger](/attachments/5d33906aa1b4d71332f27bb956f18a52/image.png)  
- > 
- > 
+ >
+ >
+ >   ![Model S at Supercharger](/assets/import/5d33906aa1b4d71332f27bb956f18a52.jpg)  
+ >
+ >

@@ -27,7 +27,7 @@ Mathematical proof that by stacking overhanging blocks, you can support of a blo
  > 
  > 
  > 
-|![](/attachments/ee68b588464afb1c0fa7bf76698cb11f/image.png)|
+|![](/assets/import/ee68b588464afb1c0fa7bf76698cb11f.png)|
 |---|
 
  

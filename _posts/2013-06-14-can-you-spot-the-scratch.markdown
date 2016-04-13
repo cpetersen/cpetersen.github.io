@@ -22,11 +22,11 @@ original_url: http://www.predatorythinking.com/scratch/
 ---
 
 
-  ![](/attachments/7f6cc6650bd5a9bba5b230ab6aede216/image.png) 
+  ![](/assets/import/7f6cc6650bd5a9bba5b230ab6aede216.jpg) 
 
- > 
- > 
- > 
+ >
+ >
+ >
  > IF YOU CAN SPOT THE SCRATCH ON ANY OF OUR RENAULTS, WE’LL GIVE YOU $500 OFF.
 
- I found  [this article](http://www.predatorythinking.com/scratch/)  via  [Jason Fried](https://twitter.com/jasonfried/status/345571220156198913). I must admit, this sales technique is ingenious. 
+ I found  [this article](http://www.predatorythinking.com/scratch/)  via  [Jason Fried](https://twitter.com/jasonfried/status/345571220156198913). I must admit, this sales technique is ingenious.

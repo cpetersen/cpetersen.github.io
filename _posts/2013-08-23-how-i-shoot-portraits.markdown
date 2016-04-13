@@ -22,7 +22,7 @@ github: http://github.com/cpetersen
 ---
 
 
-  ![](/attachments/be39d71444917cebe6ea507bd8fce156/image.png)  
+  ![](/assets/import/be39d71444917cebe6ea507bd8fce156.png)  
 
  I am by no means a great photographer, but I do have a couple of tricks when it comes to shooting portraits that I thought I'd share. Here they are, in order of importance. 
 

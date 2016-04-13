@@ -24,7 +24,7 @@ original_url: http://www.reddit.com/r/chemicalreactiongifs
 
 
 
- ![U0CeYri.gif](/attachments/65ddd48011ba128d042aa4b69a4ba1d5/image.png) 
+ ![U0CeYri.gif](/assets/import/65ddd48011ba128d042aa4b69a4ba1d5.png) 
 
  Science is awesome, reddit has  [a lot more](http://www.reddit.com/r/chemicalreactiongifs). 
 

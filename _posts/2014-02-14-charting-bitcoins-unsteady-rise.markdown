@@ -23,6 +23,6 @@ original_url: http://www.technologyreview.com/graphiti/524796/show-me-the-bitcoi
 ---
 
 
-  ![graphitix860_3.png](/attachments/702236a70532a6a80560345e4efcf216/image.png)  
+  ![graphitix860_3.png](/assets/import/702236a70532a6a80560345e4efcf216.png)  
 
  Excellent infographic from the MIT Technology Review showing BitCoin’s price over time, how it’s spent and how it compares to other currencies (crypto and traditional). 

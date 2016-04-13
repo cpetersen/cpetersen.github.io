@@ -30,7 +30,7 @@ Well, fascinating might be a bit of an overstatement. The Atlantic has chosen  [
  > 
  >  
  > 
- >  [![Screen Shot 2013-05-29 at 12.30.20 PM.png](/attachments/c7493dcf162fa9946a88971ed16112d8/image.png)](http://cdn.theatlantic.com/static/mt/assets/business/Screen%20Shot%202013-05-29%20at%2012.30.20%20PM.png) 
+ >  [![Screen Shot 2013-05-29 at 12.30.20 PM.png](/assets/import/c7493dcf162fa9946a88971ed16112d8.png)](http://cdn.theatlantic.com/static/mt/assets/business/Screen%20Shot%202013-05-29%20at%2012.30.20%20PM.png) 
  > 
  >  
  > 

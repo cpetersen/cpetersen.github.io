@@ -23,7 +23,7 @@ original_url: http://blogs.smithsonianmag.com/artscience/2013/03/darkened-cities
 ---
 
 
-  ![](/attachments/2cddccaa8366ca6fa9fcb3e62806ff50/image.png)  
+  ![](/assets/import/2cddccaa8366ca6fa9fcb3e62806ff50.png)  
 
  Thierry Cohen is a photograph who wanted to photograph cities at night, but without the light pollution. Since actually removing the light pollution wasn't an option, he recorded the time, angle and latitude of each city scape. He then travelled the globe to corresponding latitudes to take pictures of the sky as it would look from the vantage point of the city. He then digitally combined the photograph of the sky with the photograph of the city. The results are stunning.
 

@@ -28,12 +28,12 @@ original_url: http://techcrunch.com/2012/12/17/organovo-autocad/
 
  [Assay Depot](http://www.assaydepot.com)  used to share an office with Organovo. Really a great bunch of people.
 
- > 
- > 
- >  [![organovo](/attachments/5614bdc3d537fee6821c832ac097f300/image.png)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/) 
- > 
+ >
+ >
+ >  [![organovo](/assets/import/5614bdc3d537fee6821c832ac097f300.jpg)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/) 
+ >
  > Autodesk’s software may be best-known for helping architects design buildings or for prototyping products, but it soon may be applied to designing tissues and organs.
- > 
+ >
  > Autodesk and [Organovo](http://www.organovo.com/) , a publicly-traded bioprinting company, are partnering on software for designing three-dimensional human tissues. While it’s still a few years too early for these tissues to be applied in treating humans, Organovo-printed tissues are already used in medical research.
- > 
- > 
+ >
+ >

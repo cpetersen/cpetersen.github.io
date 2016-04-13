@@ -21,8 +21,8 @@ github: http://github.com/cpetersen
 ---
 
 
- ![](/attachments/bc194ec1e6f6d650b73bb6a460b65c41/image.png)  
+ ![](/assets/import/bc194ec1e6f6d650b73bb6a460b65c41.jpg)  
 
- Wow, just wow. 
+ Wow, just wow.
 
- via  [@EarthPix](https://twitter.com/EarthPix/status/357501240046931968/photo/1). 
+ via  [@EarthPix](https://twitter.com/EarthPix/status/357501240046931968/photo/1).

@@ -32,7 +32,7 @@ That being said, I'm intrigued by the idea of a BitTorrent Sync mobile app that 
  > 
  >  
  > 
- >  [![](/attachments/fff8cde4372b7d3b990fef9ac347b382/image.png)](http://b-i.forbesimg.com/haydnshaughnessy/files/2013/05/sync-bittorrent.png) 
+ >  [![](/assets/import/fff8cde4372b7d3b990fef9ac347b382.png)](http://b-i.forbesimg.com/haydnshaughnessy/files/2013/05/sync-bittorrent.png) 
  > 
  > Sync proved to be very popular in its opening two weeks of the open Alpha over 1 petabyte of data was synced by users. “On a daily basis we have seen that translate to roughly 70 terabytes a day,” says Nishi.  So does it present a threat to existing, high growth file storage companies?
  > 

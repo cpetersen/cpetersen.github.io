@@ -22,7 +22,7 @@ original_url: http://theoatmeal.com/comics/mantis_shrimp
 ---
 
 
-  ![531568b64196440f4bb45067877df5b7.png](/attachments/531568b64196440f4bb45067877df5b7/image.png) 
+  ![531568b64196440f4bb45067877df5b7.png](/assets/import/531568b64196440f4bb45067877df5b7.png) 
 
  The mantis shrimp is the Oatmeal's new favorite animal… with good reason.
 

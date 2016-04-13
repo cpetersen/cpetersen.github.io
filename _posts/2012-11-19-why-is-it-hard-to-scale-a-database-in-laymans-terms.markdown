@@ -26,10 +26,9 @@ github: http://github.com/cpetersen
 This is a great description in layman's terms of why it is hard to scale a database. I can see myself using parts of this when talking with friends and family.
 
  > There are four main challenges when scaling databases: search, concurrency, consistency, and speed.
- > 
+ >
  >  
- > 
+ >
  > Suppose you have a list of 10 names. To find someone, you just go down the list.
- > 
- >   ![](/attachments/d6352d24bb54fe4a5d1926476dd10aff/image.png)  
-
+ >
+ >   ![](/assets/import/d6352d24bb54fe4a5d1926476dd10aff.jpg)  

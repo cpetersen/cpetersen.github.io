@@ -27,6 +27,6 @@ Apple really has the upgrade process down.
 
  > 
  > 
- >  ![All Discovr Apps iOS6 Adoption](/attachments/d87dba28e13515a848ed97fff38bf6d5/image.png) 
+ >  ![All Discovr Apps iOS6 Adoption](/assets/import/d87dba28e13515a848ed97fff38bf6d5.png) 
  > 
  > 

@@ -22,7 +22,7 @@ original_url: http://www.motherjones.com/politics/2013/03/national-rifle-associa
 ---
 
 
-  ![](/attachments/7ffc788d9be0bc57725e2458ea359749/image.png)  
+  ![](/assets/import/7ffc788d9be0bc57725e2458ea359749.png)  
 
  Mother Jones delves into the last 90 years of NRA advertising.
 

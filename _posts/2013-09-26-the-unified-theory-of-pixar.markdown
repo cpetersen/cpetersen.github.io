@@ -29,7 +29,7 @@ github: http://github.com/cpetersen
 <p><i>Like what you read? Connect with me further via twitter <a href="http://twitter.com/#!/@JonNegroni">@JonNegroni</a>. I’ll follow back if you seem like a real person. You can also subscribe to this blog by clicking the “follow” button in the top-left corner.</i></p>
 <p><em>Don’t forget to check out <a href="http://paper.li/JonNegroni/1353274973">New Professional News</a>, a list of headlines essential for any new professional, updated daily at 8am.</em></p>
 
-  ![c5371b5f0cc98458e3f266ee68c041d1.png](/attachments/c5371b5f0cc98458e3f266ee68c041d1/image.png) 
+  ![c5371b5f0cc98458e3f266ee68c041d1.png](/assets/import/c5371b5f0cc98458e3f266ee68c041d1.png) 
 
   [The unified theory of Pixar﻿](http://jonnegroni.com/2013/07/15/the-pixar-theory-timeline/). Someone took the time to develop a theory that links all Pixar movies together. It would be awesome if this was intentional on Pixar's part, but still pretty cool if it was after the fact (or even coincidental). 
 

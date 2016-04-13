@@ -22,12 +22,10 @@ github: http://github.com/cpetersen
 ---
 
 
- ![](/attachments/35a1074082b9660ee9a4f21c3a978ace/image.png)  
+ ![](/assets/import/35a1074082b9660ee9a4f21c3a978ace.jpg)  
 
- The top grossing movie franchises of all time… Twilight beat out Star Trek? 
+ The top grossing movie franchises of all time… Twilight beat out Star Trek?
 
-  ![](/attachments/7c0c8568f26e0110915eea9b4ae6d40e/image.png) 
+  ![](/assets/import/7c0c8568f26e0110915eea9b4ae6d40e.jpg)
 
- Found via  [@rands](https://mobile.twitter.com/rands/status/351050892918784000). 
-
- 
+ Found via  [@rands](https://mobile.twitter.com/rands/status/351050892918784000).

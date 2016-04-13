@@ -26,8 +26,6 @@ github: http://github.com/cpetersen
 
 
 
- ![](/attachments/0e6eba56ff1005bed5a6e634bdc08dce/image.png)  
+ ![](/assets/import/0e6eba56ff1005bed5a6e634bdc08dce.jpg)  
 
- Thought provoking piece from  [banksy](http://en.wikipedia.org/wiki/Banksy)  (via  [@MrAlanCooper](https://twitter.com/MrAlanCooper/status/294316404369399808) ) 
-
- 
+ Thought provoking piece from  [banksy](http://en.wikipedia.org/wiki/Banksy)  (via  [@MrAlanCooper](https://twitter.com/MrAlanCooper/status/294316404369399808) )

@@ -24,7 +24,7 @@ original_url: http://www.wired.com/design/2012/12/willit3dprint/
 
 I love the concept of this web app. The renderer appears to be a true HTML5 canvas based rendered. It was a bit too slow to run on my computer, but I think there is (or will be) a big market for an efficient canvas based renderer for these types of files.
 
- >   [![](/attachments/8e860fa6374a921c8d6d43aae7fd7ea0/image.png)](http://www.wired.com/design/2012/12/willit3dprint/willit3dprint-dot-com-dragon-head-wired-design/) 
+ >   [![](/assets/import/8e860fa6374a921c8d6d43aae7fd7ea0.png)](http://www.wired.com/design/2012/12/willit3dprint/willit3dprint-dot-com-dragon-head-wired-design/) 
  > 
  > Red areas will have a rougher surface texture than yellow sections.
  > 

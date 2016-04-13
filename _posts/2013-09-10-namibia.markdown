@@ -22,7 +22,6 @@ original_url: http://photography.nationalgeographic.com/photography/photo-of-the
 ---
 
 
-  ![](/attachments/7aab7d2ed317cde9906235d7adbf2685/image.png) 
+  ![](/assets/import/7aab7d2ed317cde9906235d7adbf2685.jpg) 
 
  Every time I see this picture, I can't believe it's an actual photograph. Must have been spectacular in person.
-

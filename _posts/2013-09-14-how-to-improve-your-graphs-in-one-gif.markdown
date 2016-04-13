@@ -21,7 +21,7 @@ github: http://github.com/cpetersen
 ---
 
 
-  ![](/attachments/463c6179943f63e4fd157fadf83eedf0/image.png)  
+  ![](/assets/import/463c6179943f63e4fd157fadf83eedf0.png)  
 
  A couple of simple rules to make your graphs suck less. I love that they are presented in the form of an animated gif. 
 

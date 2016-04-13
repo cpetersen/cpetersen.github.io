@@ -23,7 +23,7 @@ original_url: http://revealapp.com/
 ---
 
 
-  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/attachments/ca37136cd0e77a4ecd6d08a38a0bda41/image.png) 
+  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/assets/import/ca37136cd0e77a4ecd6d08a38a0bda41.png) 
 
   [Reveal App](http://revealapp.com/)  claims it can give you the ability to visually inspect your iOS apps.
 

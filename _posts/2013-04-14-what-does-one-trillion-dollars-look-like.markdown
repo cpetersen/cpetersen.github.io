@@ -22,7 +22,6 @@ original_url: http://www.pagetutor.com/trillion/index.html
 ---
 
 
-  ![$10,000](/attachments/638482a95e885b41eb09f16481802b17/image.png) 
+  ![$10,000](/assets/import/638482a95e885b41eb09f16481802b17.jpg) 
 
  Click through to see what a trillion dollars looks like. Hint it's a lot more than the picture above.
-

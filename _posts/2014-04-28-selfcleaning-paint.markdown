@@ -22,10 +22,8 @@ original_url: http://www.wired.com/2014/04/self-washing-car/?mbid=social_fb
 ---
 
 
-  ![self_cleaning_car_06-660x440.jpg](/attachments/ad76c15fb25e2815308c9aa11e92a4aa/image.png)  
+  ![self_cleaning_car_06-660x440.jpg](/assets/import/ad76c15fb25e2815308c9aa11e92a4aa.jpg)  
 
- Nissan is introducing a “self cleaning paint” so your car never (or rarely) needs to be washed. It’s a super hydrophobic and oleophobic material that repels both water and oil. 
+ Nissan is introducing a “self cleaning paint” so your car never (or rarely) needs to be washed. It’s a super hydrophobic and oleophobic material that repels both water and oil.
 
- I remember seeing a youtube video about super hydrophobic coatings a few years ago. It was used to protect phones and computers etc. Between this and  [Rust-Oleum’s NeverWet](http://www.rustoleum.com/product-catalog/consumer-brands/neverwet/neverwet-kit) , I’m glad to see some products finally coming to market. 
-
- 
+ I remember seeing a youtube video about super hydrophobic coatings a few years ago. It was used to protect phones and computers etc. Between this and  [Rust-Oleum’s NeverWet](http://www.rustoleum.com/product-catalog/consumer-brands/neverwet/neverwet-kit) , I’m glad to see some products finally coming to market.

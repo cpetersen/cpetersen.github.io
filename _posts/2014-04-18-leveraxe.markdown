@@ -22,8 +22,8 @@ original_url: http://www.vipukirves.fi/english/description.htm
 ---
 
 
-  ![Vipukirves_toiminta2.jpg](/attachments/751db6627b1d77040c0ae6b52c742c0b/image.png)  
+  ![Vipukirves_toiminta2.jpg](/assets/import/751db6627b1d77040c0ae6b52c742c0b.jpg)  
 
- The Leveraxe is an ingenious new axe design. A traditional axe uses brute force to first penetrate, then split the log being chopped. The leveraxe first penetrates, but since it’s head if off center from the handle, it then twists, using a lever action to split the log with much less force. 
+ The Leveraxe is an ingenious new axe design. A traditional axe uses brute force to first penetrate, then split the log being chopped. The leveraxe first penetrates, but since it’s head if off center from the handle, it then twists, using a lever action to split the log with much less force.
 
- I don’t chop a lot of wood, but I love that people innovate in unexpected areas. 
+ I don’t chop a lot of wood, but I love that people innovate in unexpected areas.

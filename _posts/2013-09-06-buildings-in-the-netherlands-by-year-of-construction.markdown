@@ -23,7 +23,7 @@ original_url: http://dev.citysdk.waag.org/buildings/#52.3716,4.8977,15
 ---
 
 
-  ![](/attachments/aed69b5b7ab2c20f025ebd3a2e3cc7d2/image.png)  
+  ![](/assets/import/aed69b5b7ab2c20f025ebd3a2e3cc7d2.png)  
 
  Explorer buildings in the Netherlands color coded by the year they were constructed.
 
