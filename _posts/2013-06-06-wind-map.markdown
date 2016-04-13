@@ -23,10 +23,8 @@ original_url: http://hint.fm/wind/
 ---
 
 
- ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.png)  
+ ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.gif)  
 
- Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy! 
+ Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy!
 
- Found on  [IO9](http://io9.com/a-humbling-map-of-real-time-wind-patterns-in-tornado-al-509037773). 
-
- 
+ Found on  [IO9](http://io9.com/a-humbling-map-of-real-time-wind-patterns-in-tornado-al-509037773).

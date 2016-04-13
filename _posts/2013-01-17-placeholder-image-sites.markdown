@@ -26,7 +26,7 @@ When you're mocking up a website, sometimes you just need an image of a particul
 
  You've got the standard placeholder that we see everywhere. (via  [http://placehold.it](http://placehold.it/) )
 
- ![350x150.gif](/assets/import/7455fe494e08a01b6896365ee36f1172.png)
+ ![350x150.gif](/assets/import/7455fe494e08a01b6896365ee36f1172.gif)
 
  But that's boring, so why not use a cat? (via  [http://placekitten.com](http://placekitten.com/) )
 
