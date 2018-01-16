@@ -15,7 +15,7 @@ image: header-8.jpg
 details: false
 
 author: Chris Petersen
-bio: Father, husband, CIO and cofounder of Assay Depot, developer, entrepreneur and technologist.
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
 twitter: http://twitter.com/cpetersen
 github: http://github.com/cpetersen
 

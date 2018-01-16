@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: petersen.io
 
 name: <b>petersen</b>.<i>io</i>
-description: 	A beautifully contemporary and elegant Jekyll theme
+description: Chris Petersen's blog
 url: "http://petersen.io" # the base hostname & protocol for your site
 
 paginate: 5
@@ -22,7 +22,7 @@ email: chris@petersen.io
 #disqus: 		your_disqus_shortname
 analytics: UA-73229902-1
 
-copyright: 		Copyright 2016 Chris Petersen.
+copyright: 		Copyright 2018 Chris Petersen.
 
 # Build settings
 markdown: kramdown

@@ -15,7 +15,7 @@ image: header-5.jpg
 details: false
 
 author: Chris Petersen
-bio: Father, husband, CIO and cofounder of Assay Depot, developer, entrepreneur and technologist.
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
 twitter: http://twitter.com/cpetersen
 github: http://github.com/cpetersen
 
@@ -27,7 +27,7 @@ original_url: http://www.businessinsider.com/state-of-internet-slides-2012-10#
 
 ***
 
-![Connected Device Growth](/assets/import/4b3d667ff62780184146b58d82b4d70a.jpg) A major media company was kind enough to ask me to speak to their senior executives at an off-site last week. 
+![Connected Device Growth](/assets/import/4b3d667ff62780184146b58d82b4d70a.jpg) A major media company was kind enough to ask me to speak to their senior executives at an off-site last week.
 
 The topic was an overview of the digital industry.
 

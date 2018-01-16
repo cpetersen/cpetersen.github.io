@@ -4,7 +4,7 @@ title: "Forbes - 15 Factors Essential For Tech Executives"
 type: post
 navigation: false
 
-date: 2016-12-26 07:00:00 -0800
+date: 2016-12-20 07:00:00 -0800
 excerpt: "Trust in your team is the most powerful thing a technology executive can do."
 categories:
   - Technology
@@ -16,7 +16,7 @@ image: header-3.jpg
 details: false
 
 author: Chris Petersen
-bio: Father, husband, CIO and cofounder of Scientist.com, developer, entrepreneur and technologist.
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
 twitter: http://twitter.com/cpetersen
 github: http://github.com/cpetersen
 
