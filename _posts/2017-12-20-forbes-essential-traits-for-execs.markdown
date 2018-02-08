@@ -4,7 +4,7 @@ title: "Forbes - 15 Factors Essential For Tech Executives"
 type: post
 navigation: false
 
-date: 2016-12-20 07:00:00 -0800
+date: 2017-12-20 07:00:00 -0800
 excerpt: "Trust in your team is the most powerful thing a technology executive can do."
 categories:
   - Technology
@@ -30,6 +30,8 @@ I told Forbes that *trust in your team* is the most powerful thing a technology 
  >
  > **Trust Your Team**
  >
- > Everyone does this, but we can always trust more. This means pushing decisions outward, away from central management, and closer to where the real work is done and where the real problems are tackled. - Christopher Petersen, [Scientist.com](https://www.scientist.com)
+ > Everyone does this, but we can always trust more. This means pushing decisions outward, away from central management, and closer to where the real work is done and where the real problems are tackled.
+ >
+ > \- Christopher Petersen, [Scientist.com](https://www.scientist.com)
  >
  >
