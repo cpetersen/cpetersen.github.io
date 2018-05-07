@@ -5,7 +5,7 @@ type: post
 navigation: false
 
 date: 2018-04-17 07:00:00 -0800
-excerpt: "I had the honor of introducing Dr Benjamin Cravatt as the keynote speaker at this years Drug Discovery Chemistry conference."
+excerpt: "I had the honor of introducing Dr Benjamin Cravatt as the keynote speaker at this year's Drug Discovery Chemistry conference."
 categories:
   - Health Care
 
@@ -21,7 +21,7 @@ github: http://github.com/cpetersen
 original_url: https://www.youtube.com/watch?v=mQgUVW9SLDw
 ---
 
-I had the honor of introducing Dr Benjamin Cravatt as the keynote speaker at this years Drug Discovery Chemistry conference. Our overview video is below.
+I had the honor of introducing Dr Benjamin Cravatt as the keynote speaker at this year's Drug Discovery Chemistry conference. Our overview video is below.
 
 {% include media-youtube.html file="https://www.youtube.com/watch?v=mQgUVW9SLDw" title="Drug Discovery Chemistry" %}
 
