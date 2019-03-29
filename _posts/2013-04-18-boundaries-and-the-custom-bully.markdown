@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://sethgodin.typepad.com/seths_blog/2013/04/avoiding-the-custom-bully.html
 ---

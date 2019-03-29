@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
@@ -24,4 +24,4 @@ github: http://github.com/cpetersen
 
 Wait, someone said "startups are easy"? That doesn't sound familiar to me!
 
-In this slide deck,  [@om](http://twitter.com/om)  talks about the ways startups have changed in the last 10-15 years.
+In this slide deck,  [@om](https://twitter.com/om)  talks about the ways startups have changed in the last 10-15 years.

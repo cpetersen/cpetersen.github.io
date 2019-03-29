@@ -15,12 +15,12 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/81616727" title="Into The Atmosphere" caption="Beautiful time lapse video of sunsets, oceans, ..." %}
+{% include media-vimeo.html file="https://vimeo.com/81616727" title="Into The Atmosphere" caption="Beautiful time lapse video of sunsets, oceans, ..." %}
 
 Beautiful time lapse video of sunsets, oceans, clouds, mountains etc. Less than 4 minutes. 
 

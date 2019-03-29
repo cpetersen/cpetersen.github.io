@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://www.wired.com/design/2012/11/staples-goes-3-d/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+wired/index+(Wired:+Top+Stories)
 ---

@@ -15,15 +15,15 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
 <blockquote class="twitter-tweet"><p>@headius give it away :) ruby is so much faster than java at finding the shape of a solution even if it doesn't end up being the solution</p>&mdash; Jacob Perkins (@TheDataChef) <a href="https://twitter.com/TheDataChef/status/437045024451084289">February 21, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I found this tweet in  [Charles Nutter’s](http://twitter.com/headius)  Twitter feed. Something about it struck me as “right”. Nothing about the languages in particular, but the description of a problem as having a shape feels right and specifically for the problem of product development. 
+I found this tweet in  [Charles Nutter’s](https://twitter.com/headius)  Twitter feed. Something about it struck me as “right”. Nothing about the languages in particular, but the description of a problem as having a shape feels right and specifically for the problem of product development. 
 
  I’ve long thought of products as having a shape and the process of building products is trying to discover that shape. When the process is working well, you discover the general shape, then you sit with it and use the product. As you use the product, you discover cracks and edges. You use these cracks to inform your development. You develop around these cracks and sometimes you get a foothold. These footholds are veins of code that are rich for development, you can use these as a wedge to discover new areas of the shape you are discovering. 
 

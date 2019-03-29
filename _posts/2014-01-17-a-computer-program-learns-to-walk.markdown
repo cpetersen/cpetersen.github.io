@@ -15,12 +15,12 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/79098420" title="A Computer Program Learns to Walk" caption="I thought, &quot;Neat! It learned how to kangaroo ho..." %}
+{% include media-vimeo.html file="https://vimeo.com/79098420" title="A Computer Program Learns to Walk" caption="I thought, &quot;Neat! It learned how to kangaroo ho..." %}
 
 I thought, "Neat! It learned how to kangaroo hop!" then I thought, "Why are they throwing boxes at that fat man?!”  
 

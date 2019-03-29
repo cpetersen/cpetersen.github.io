@@ -11,7 +11,7 @@ title: petersen.io
 
 name: <b>petersen</b>.<i>io</i>
 description: Chris Petersen's blog
-url: "http://petersen.io" # the base hostname & protocol for your site
+url: "https://petersen.io" # the base hostname & protocol for your site
 
 paginate: 5
 paginate_path: "blog/page:num"

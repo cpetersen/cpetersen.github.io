@@ -15,14 +15,14 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/55495626" title="Keep your goals to yourself" caption="A short version of @sivers TED talk about goals..." %}
+{% include media-vimeo.html file="https://vimeo.com/55495626" title="Keep your goals to yourself" caption="A short version of @sivers TED talk about goals..." %}
 
-A short version of [@sivers](http://twitter.com/sivers) TED talk about goals.
+A short version of [@sivers](https://twitter.com/sivers) TED talk about goals.
 
 Your brain can mistake talking about your goals as accomplishing your goals, so if you want to accomplish something, resist telling people about it.
 

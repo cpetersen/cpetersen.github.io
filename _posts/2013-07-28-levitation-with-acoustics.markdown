@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
@@ -24,5 +24,5 @@ github: http://github.com/cpetersen
 
 This video shows scientists levitating objects using nothing but sound waves. I found it while reading about Elon Musk's much talked about  [Hyperloop](http://conscienceofanentrepreneur.blogspot.com/2013/07/hyperloop-lets-you-travel-on-resonant.html).
 
- >   [http://www.youtube.com/watch?v=Rz6UzqegA6Q#action=share](http://www.youtube.com/watch?v=Rz6UzqegA6Q#action=share)  
+ >   [https://www.youtube.com/watch?v=Rz6UzqegA6Q#action=share](https://www.youtube.com/watch?v=Rz6UzqegA6Q#action=share)  
 

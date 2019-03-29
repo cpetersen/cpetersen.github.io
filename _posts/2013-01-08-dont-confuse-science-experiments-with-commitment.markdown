@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://blogs.wsj.com/accelerators/2013/01/07/dont-confuse-science-experiments-with-commitment/
 ---

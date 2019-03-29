@@ -15,12 +15,12 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/80704110" title="He Fell Off a Cliff" caption="A base jumper who goes by the handle Subtermina..." %}
+{% include media-vimeo.html file="https://vimeo.com/80704110" title="He Fell Off a Cliff" caption="A base jumper who goes by the handle Subtermina..." %}
 
  A base jumper who goes by the handle Subterminally was going to base jump off a cliff with a camera… but ended up falling off said cliff. He lived to tell the tail and captured some incredible and terrifying footage along the way. 
 

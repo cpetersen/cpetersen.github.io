@@ -17,8 +17,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://9to5mac.com/2013/05/24/jony-ives-new-look-for-ios-7-black-white-and-flat-all-over/?utm_content=bufferbc12c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
 ---

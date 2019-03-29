@@ -17,11 +17,11 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/90803579" title="Grand Theft Art" caption="An amazing piece of art done using time lapse p..." %}
+{% include media-vimeo.html file="https://vimeo.com/90803579" title="Grand Theft Art" caption="An amazing piece of art done using time lapse p..." %}
 
 An amazing piece of art done using time lapse photography in Grand Theft Auto. Very creative.

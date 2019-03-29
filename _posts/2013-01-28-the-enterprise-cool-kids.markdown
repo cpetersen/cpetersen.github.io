@@ -17,8 +17,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://techcrunch.com/2013/01/27/the-enterprise-cool-kids/
 ---
@@ -35,4 +35,4 @@ original_url: http://techcrunch.com/2013/01/27/the-enterprise-cool-kids/
  *  [GoodData](http://www.gooddata.com/)  - Data Visualization (Dashboards)
  *  [MobileIron](http://www.mobileiron.com/)  - Mobile Device and App Management
 
- And others, such as  [GitHub](http://github.com/) ,  [Asana](http://asana.com/) ,  [ZenDesk](http://www.zendesk.com/) ,  [Box](https://www.box.com/) , etc. 
+ And others, such as  [GitHub](https://github.com/) ,  [Asana](http://asana.com/) ,  [ZenDesk](http://www.zendesk.com/) ,  [Box](https://www.box.com/) , etc. 

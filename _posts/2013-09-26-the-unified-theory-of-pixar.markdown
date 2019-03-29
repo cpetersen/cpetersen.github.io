@@ -16,8 +16,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
@@ -26,7 +26,7 @@ github: http://github.com/cpetersen
 <p>Enjoy!</p>
 <h1><strong>THE PIXAR THEORY &#8211; TIMELINE</strong></h1>
 <p><img class="size-full wp-image-1387 aligncenter" alt="Pixar Theory" src="https://jonnegroni.files.wordpress.com/2013/07/pixar-theory.jpg?w=470&#038;h=2869" width="470" height="2869" /></p>
-<p><i>Like what you read? Connect with me further via twitter <a href="http://twitter.com/#!/@JonNegroni">@JonNegroni</a>. I’ll follow back if you seem like a real person. You can also subscribe to this blog by clicking the “follow” button in the top-left corner.</i></p>
+<p><i>Like what you read? Connect with me further via twitter <a href="https://twitter.com/#!/@JonNegroni">@JonNegroni</a>. I’ll follow back if you seem like a real person. You can also subscribe to this blog by clicking the “follow” button in the top-left corner.</i></p>
 <p><em>Don’t forget to check out <a href="http://paper.li/JonNegroni/1353274973">New Professional News</a>, a list of headlines essential for any new professional, updated daily at 8am.</em></p>
 
   ![c5371b5f0cc98458e3f266ee68c041d1.png](/assets/import/c5371b5f0cc98458e3f266ee68c041d1.png) 

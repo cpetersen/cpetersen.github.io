@@ -16,11 +16,11 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://maker.github.com/ratchet/
 ---
 
 
- [Ratchet](http://maker.github.com/ratchet/)  is an interesting project. I'm glad people who want to prototype iOS apps have a  [bootstrap](http://twitter.github.com/bootstrap/)  like framework to do so. However, I still prefer  [RubyMotion](http://www.rubymotion.com)  and something like  [Pixate](http://www.pixate.com)  for rapidly prototyping mobile apps.
+ [Ratchet](http://maker.github.com/ratchet/)  is an interesting project. I'm glad people who want to prototype iOS apps have a  [bootstrap](https://twitter.github.com/bootstrap/)  like framework to do so. However, I still prefer  [RubyMotion](http://www.rubymotion.com)  and something like  [Pixate](http://www.pixate.com)  for rapidly prototyping mobile apps.

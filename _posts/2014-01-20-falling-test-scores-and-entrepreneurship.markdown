@@ -16,8 +16,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://www.forbes.com/sites/gyro/2014/01/06/could-falling-test-scores-be-a-good-thing-for-the-u-s/
 ---

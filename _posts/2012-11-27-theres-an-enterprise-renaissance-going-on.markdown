@@ -16,14 +16,14 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://techcrunch.com/2012/11/14/andreessen-horowitz-general-partner-peter-levine-theres-an-enterprise-renaissance-going-on/
 ---
 
 
-The enterprise is dead, long live the enterprise! The Italian monarch is an interesting analogy and I like thinking of  [GitHub](http://github.com)  as a guild. It fits with our experience at  [Assay Depot](http://www.assaydepot.com)  selling into pharmaceutical companies. 
+The enterprise is dead, long live the enterprise! The Italian monarch is an interesting analogy and I like thinking of  [GitHub](https://github.com)  as a guild. It fits with our experience at  [Assay Depot](http://www.assaydepot.com)  selling into pharmaceutical companies. 
 
  > 
  > 

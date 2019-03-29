@@ -15,12 +15,12 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/86960593" title="Way of the Sword" caption="A short lesson in Japanese sword fighting. Appr..." %}
+{% include media-vimeo.html file="https://vimeo.com/86960593" title="Way of the Sword" caption="A short lesson in Japanese sword fighting. Appr..." %}
 
 A short lesson in Japanese sword fighting. Approximately 3 minutes. 
 

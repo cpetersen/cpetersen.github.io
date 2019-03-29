@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: https://www.blossom.io/blog/2013/06/26/the-scarcest-resource-at-startups-is-management-bandwidth.html?utm_content=wunderlist&utm_source=wunderlist&utm_medium=twitter&utm_campaign=wunderlist
 ---

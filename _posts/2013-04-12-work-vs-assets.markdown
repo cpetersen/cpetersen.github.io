@@ -15,8 +15,8 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 original_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
 ---

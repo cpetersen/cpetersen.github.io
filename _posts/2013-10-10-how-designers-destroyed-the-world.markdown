@@ -16,12 +16,12 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: http://twitter.com/cpetersen
-github: http://github.com/cpetersen
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
 
 ---
 
-{% include media-vimeo.html file="http://vimeo.com/68470326" title="How Designers Destroyed the World" caption="Mike Monteiro talks about taking responsibility..." %}
+{% include media-vimeo.html file="https://vimeo.com/68470326" title="How Designers Destroyed the World" caption="Mike Monteiro talks about taking responsibility..." %}
 
 Mike Monteiro talks about taking responsibility for our actions and our industry. Whenever you think you're just pushing pixels around, think about how those pixels (and the information they convey) can positively or negatively impact people's lives. ﻿  
 
