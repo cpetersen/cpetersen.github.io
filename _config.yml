@@ -27,7 +27,7 @@ copyright: 		Copyright 2018 Chris Petersen.
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
