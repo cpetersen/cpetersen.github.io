@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Got my blue belt"
+type: post
+navigation: false
+
+date: 2023-08-10 07:20:00 -0700
+excerpt: "After a few years of training, I got my BJJ Blue Belt"
+categories:
+  - BJJ
+
+gradient: 4
+image: header-2.jpg
+details: false
+
+author: Chris Petersen
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
+---
+
+{% include media-image.html file="blue-belt.jpeg" title="Blue Belt" caption="Got my blue belt!" %}
+
+After a few years of training, I got my BJJ Blue Belt. Shout out to Erik and the whole 6am crew at [Studio 540](https://www.studio540.com) in Solana Beach!
+

@@ -1,0 +1,30 @@
+---
+layout: default
+title: "AI Seminar Series"
+type: post
+navigation: false
+
+date: 2024-07-22 11:27:00 -0700
+excerpt: "I'm giving a seminar series on how LLMs work and the math that powers them."
+categories:
+  - Video
+
+gradient: 4
+image: header-3.jpg
+details: false
+
+author: Chris Petersen
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
+twitter: https://twitter.com/cpetersen
+github: https://github.com/cpetersen
+---
+
+{% include media-vimeo.html file="https://vimeo.com/988518759" title="Scientist.com AI Series Teaser 1" %}
+
+I'm giving a seminar series on how LLMs work and the math that powers them. This is a teaser for the first video. You can [sign up here](https://www.bigmarker.com/series/2024-ai-innovation/series_details).
+
+The agenda is as follows:
+ * Session 1: Neural Networks, their structure, matrix representation, feed forward processing and back propagation.
+ * Session 2: Embeddings, how they are computed and different ways you can use them.
+ * Session 3: Attention, how it works, the matrix math behind it and how it solves the context problem with embeddings.
+ * Session 4: An overview of the Transformer, how it works, how it's trained and how it produces such uncanny results.
