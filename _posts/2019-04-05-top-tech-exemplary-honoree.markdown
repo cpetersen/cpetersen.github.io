@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: https://www.prweb.com/releases/scientist_com_cto_and_founder_chris_petersen_wins_cox_business_exemplary_award_for_outstanding_tech_leadership/prweb16219764.htm

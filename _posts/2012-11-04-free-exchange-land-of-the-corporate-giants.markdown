@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.economist.com/news/finance-and-economics/21565609-economies-scale-run-out-certain-point-largest-firms-america-may-be

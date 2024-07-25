@@ -17,7 +17,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: https://www.forbes.com/sites/forbestechcouncil/2017/12/20/building-success-15-factors-essential-for-tech-executives/

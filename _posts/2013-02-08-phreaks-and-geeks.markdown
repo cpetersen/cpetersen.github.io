@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.slate.com/articles/technology/books/2013/02/steve_jobs_and_phone_hacking_exploding_the_phone_by_phil_lapsley_reviewed.single.html

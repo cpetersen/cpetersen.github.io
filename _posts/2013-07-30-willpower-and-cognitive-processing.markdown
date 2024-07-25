@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://seriouspony.com/blog/?utm_source=buffer&utm_campaign=Buffer&utm_content=bufferbabed&utm_medium=twitter

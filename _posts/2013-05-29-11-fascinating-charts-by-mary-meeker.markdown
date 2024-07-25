@@ -17,7 +17,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.theatlantic.com/business/archive/2013/05/the-12-most-fascinating-charts-from-mary-meekers-epic-slideshow-of-internet-trends/276350/

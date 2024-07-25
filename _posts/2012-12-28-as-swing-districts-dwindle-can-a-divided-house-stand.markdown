@@ -16,7 +16,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://fivethirtyeight.blogs.nytimes.com/2012/12/27/as-swing-districts-dwindle-can-a-divided-house-stand/?smid=li-share

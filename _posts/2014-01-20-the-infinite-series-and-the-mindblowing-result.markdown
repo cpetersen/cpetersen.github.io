@@ -16,7 +16,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.slate.com/blogs/bad_astronomy/2014/01/18/follow_up_the_infinite_series_and_the_mind_blowing_result.html

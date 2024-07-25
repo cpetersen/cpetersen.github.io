@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.slate.com/blogs/bad_astronomy/2014/02/15/falling_camera_spinning_camera_strobes_and_falls_into_a_pigpen.html

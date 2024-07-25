@@ -16,7 +16,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/

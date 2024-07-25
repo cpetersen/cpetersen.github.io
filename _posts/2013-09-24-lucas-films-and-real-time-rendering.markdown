@@ -16,7 +16,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://www.thatvideosite.com/v/11118/lucasfilm-shows-off-the-future-of-filmmaking-scenes-get-rendered-out-in-real-time-removing-the-need-for-post-production

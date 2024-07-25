@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://spectrum.ieee.org/automaton/robotics/aerial-robots/iros-2013-should-quadrotors-all-look-like-this#.UoRAb7LvVFs.hackernews

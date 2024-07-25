@@ -16,7 +16,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://gigaom.com/2012/12/03/marc-andreessen-not-every-startup-should-be-a-lean-startup-or-embrace-the-pivot/?utm_source=social&utm_medium=twitter&utm_campaign=gigaom

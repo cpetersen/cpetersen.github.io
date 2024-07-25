@@ -15,7 +15,7 @@ details: false
 
 author: Chris Petersen
 bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
-twitter: https://twitter.com/cpetersen
+twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
 original_url: http://bokardo.com/archives/sometimes-design-pulling-clients-future/?utm_source=twitter&utm_medium=social&utm_content=1fd0c405-f5e2-437d-bc16-2c229ec64ab0
