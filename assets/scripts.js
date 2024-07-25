@@ -29,22 +29,7 @@ $(document).ready(function(){
 
 	});
 
-	// Reveal Animation
-	var animatedElements = $('[data-animation]');
-
-	$.each(animatedElements, function(index, value) {
-
-		var $this = $(this),
-			animation = $this.data('animation');
-
-		$this.addClass('hidden').viewportChecker({
-			classToAdd: 'visible animated ' + animation,
-			offset: 100
-		});
-
-	});
-
-	// Parallax Ccrolling
+	// Parallax Scrolling
 	var parallaxElements = $('[data-parallax]'),
 		browserWindow = $(window);
 
