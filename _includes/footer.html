@@ -2,7 +2,7 @@
 
       <footer data-animation="fadeInUp">
         <div class="copyright">
-          {% if site.copyright %}<b>{{ site.copyright }}</b> All Rights Reserved.{% endif %}
+          {% if site.copyright %}<b>Copyright &copy; {{ site.time | date: '%Y' }} {{ site.copyright }}</b> All Rights Reserved.{% endif %}
         	{% if site.email %}<a href="mailto:{{ site.email }}" title="Send E-Mail">Contact</a>{% endif %}
         	<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="Subscribe to Feed">RSS</a>
         </div>

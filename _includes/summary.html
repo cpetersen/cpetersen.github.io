@@ -1,6 +1,5 @@
 {% if post %}
   <div class="summary">
-
     {% if post.details and post.image %}
       <div class="media image" data-animation="fadeInUp">
 
@@ -21,6 +20,13 @@
 
     {% if post.title %}
       <h2><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+      {% if post.date %}
+        <div class="caption" data-animation="fadeInUp">
+          <small><em>
+            {{ post.date | date: '%b %-d, %Y' }}
+          </em></small>
+        </div>
+      {% endif %}
     {% endif %}
 
     {% if post.excerpt %}

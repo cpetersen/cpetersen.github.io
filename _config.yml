@@ -19,10 +19,10 @@ paginate_path: "blog/page:num"
 twitter: cpetersen
 email: chris@petersen.io
 
-#disqus: 		your_disqus_shortname
+#disqus: your_disqus_shortname
 analytics: UA-73229902-1
 
-copyright: 		Copyright 2018 Chris Petersen.
+copyright: Chris Petersen.
 
 # Build settings
 markdown: kramdown
