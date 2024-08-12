@@ -10,7 +10,7 @@ categories:
   - Video
 
 gradient: 4
-image: header-3.jpg
+image: neural-network.png
 details: false
 
 author: Chris Petersen

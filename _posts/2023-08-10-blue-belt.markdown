@@ -10,7 +10,7 @@ categories:
   - BJJ
 
 gradient: 4
-image: header-2.jpg
+image: blue-belt.jpeg
 details: false
 
 author: Chris Petersen
