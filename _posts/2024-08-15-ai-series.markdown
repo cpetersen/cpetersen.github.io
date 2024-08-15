@@ -9,8 +9,8 @@ excerpt: "An excerpt from my 3rd LLM seminar examining how the Attention Mechani
 categories:
   - Video
 
-gradient: 4
-image: neural-network.png
+gradient: 1
+image: attention.png
 details: false
 
 author: Chris Petersen
