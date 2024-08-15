@@ -1,0 +1,30 @@
+---
+layout: default
+title: "AI Seminar Series"
+type: post
+navigation: false
+
+date: 2024-08-15 11:27:00 -0700
+excerpt: "An excerpt from my 3rd LLM seminar examining how the Attention Mechanism works."
+categories:
+  - Video
+
+gradient: 4
+image: neural-network.png
+details: false
+
+author: Chris Petersen
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
+twitter: https://x.com/cpetersen
+github: https://github.com/cpetersen
+---
+
+{% include media-vimeo.html file="https://vimeo.com/998910162" title="Scientist.com AI Series Teaser 2" %}
+
+This is the second teaser the seminar series I'm giving on LLMs. This is taken from the third in the series which examines how the attention mechanism works. You can [sign up here](https://www.bigmarker.com/series/2024-ai-innovation/series_details).
+
+The agenda is as follows:
+ * Session 1: Neural Networks, their structure, matrix representation, feed forward processing and back propagation.
+ * Session 2: Embeddings, how they are computed and different ways you can use them.
+ * Session 3: Attention, how it works, the matrix math behind it and how it solves the context problem with embeddings.
+ * Session 4: An overview of the Transformer, how it works, how it's trained and how it produces such uncanny results.
