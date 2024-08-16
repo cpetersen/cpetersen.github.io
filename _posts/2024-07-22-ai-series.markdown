@@ -9,7 +9,7 @@ excerpt: "I'm giving a seminar series on how LLMs work and the math that powers 
 categories:
   - Video
 
-gradient: 4
+gradient: 3
 image: neural-network.png
 details: false
 

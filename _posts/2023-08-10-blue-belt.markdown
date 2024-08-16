@@ -9,7 +9,7 @@ excerpt: "After a few years of training, I got my BJJ Blue Belt"
 categories:
   - BJJ
 
-gradient: 4
+gradient: 5
 image: blue-belt.jpeg
 details: false
 
