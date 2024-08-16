@@ -4,10 +4,10 @@ title: "Blockchain Patent"
 type: post
 navigation: false
 
-date: 2024-08-15 11:27:00 -0700
+date: 2024-08-13 11:27:00 -0700
 excerpt: "My blockchain related patent just issued."
 categories:
-  - Video
+  - Technology
 
 gradient: 2
 image: blockchain.webp
