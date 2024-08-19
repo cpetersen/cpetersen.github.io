@@ -29,6 +29,4 @@ There are other nuances, what happens if the data you want to verify contains PI
 
 I think it's a good use of the blockchain technology and I'm excite the patent final issued. 
 
-That patent is titled _Decentralized Data Verification_ and you can find it on the [USPTO's website](https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html) as patent 12,063,309. I've also got the full text [here](/assets/12063309.pdf). 
-
-I'll update this page when [Google Patents](https://patents.google.com) indexes it.
+That patent is titled _Decentralized Data Verification_ and you can find it on the [USPTO's website](https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html) as patent 12,063,309. I've also got the full text [here](/assets/12063309.pdf). You can find the application on [Google Patents](https://patents.google.com/patent/US20210075623A1/en) (Google hasn't reindexed since it issued).
