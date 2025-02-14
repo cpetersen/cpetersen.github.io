@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "AI Seminar Series"
+title: "How LLMs Work on YouTube"
 type: post
 navigation: false
 
-date: 2024-08-15 11:27:00 -0700
+date: 2025-02-13 18:37:00 -0700
 excerpt: "My webinar series 'How LLMs Work' is coming to YouTube"
 categories:
   - Video
