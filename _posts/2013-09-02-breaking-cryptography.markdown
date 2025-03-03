@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptography
+canonical_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptography
 ---
 
 
@@ -30,6 +30,6 @@ original_url: http://www.economist.com/blogs/babbage/2013/09/breaking-cryptograp
 
 Personally, I doubt they've actually found an algorithmic way to break crypto. If they have, it would be incredibly INCREDIBLY irresponsible to use that breakthrough to spy on us, rather than trying to protect us from the impending catastrophe that would happen if cryptography could be mathematically broken.
 
- I think their "breakthrough" is far more likely to be a  [backdoor embedded in Intel's random number generator](http://cryptome.org/2013/07/intel-bed-nsa.htm). 
+ I think their "breakthrough" is far more likely to be a  [backdoor embedded in Intel's random number generator](http://cryptome.org/2013/07/intel-bed-nsa.htm).
 
- 
+

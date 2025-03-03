@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check
+canonical_url: http://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check
 ---
 
 
 Mother Jones debunks 10 of the most common pro-gun myths in this well researched and well referenced article.
 
- >   ![gun ownership](/assets/import/dc1ba15736c967b11e95c9adba4a04c9.jpg)  
+ >   ![gun ownership](/assets/import/dc1ba15736c967b11e95c9adba4a04c9.jpg)

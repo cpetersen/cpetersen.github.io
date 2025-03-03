@@ -21,7 +21,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://www.forbes.com/sites/forbestechcouncil/2017/12/26/10-traits-every-new-technology-hire-needs-to-possess/
+canonical_url: https://www.forbes.com/sites/forbestechcouncil/2017/12/26/10-traits-every-new-technology-hire-needs-to-possess/
 ---
 
 

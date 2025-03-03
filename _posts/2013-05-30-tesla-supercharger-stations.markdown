@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.teslamotors.com/supercharger
+canonical_url: http://www.teslamotors.com/supercharger
 ---
 
 
@@ -26,6 +26,6 @@ Tesla offers free charging for Model S owners at their Supercharger stations. Th
 
  >
  >
- >   ![Model S at Supercharger](/assets/import/5d33906aa1b4d71332f27bb956f18a52.jpg)  
+ >   ![Model S at Supercharger](/assets/import/5d33906aa1b4d71332f27bb956f18a52.jpg)
  >
  >

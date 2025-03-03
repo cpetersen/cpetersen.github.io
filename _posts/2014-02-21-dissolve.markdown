@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.dissolve.com/
+canonical_url: http://www.dissolve.com/
 ---
 
 
-Dissolve looks pretty cool. They sell royalty free video clips. Basically b-roll if you are putting together your next product video. I clicked around, it looks like a significant portion of their catalog is available for a few bucks, with some videos ranging up to $150 (and probably higher). I nice resource to know about. 
+Dissolve looks pretty cool. They sell royalty free video clips. Basically b-roll if you are putting together your next product video. I clicked around, it looks like a significant portion of their catalog is available for a few bucks, with some videos ranging up to $150 (and probably higher). I nice resource to know about.
 
- 
+

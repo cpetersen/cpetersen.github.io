@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.inc.com/jeff-haden/10-things-bosses-never-tell-employees.html
+canonical_url: http://www.inc.com/jeff-haden/10-things-bosses-never-tell-employees.html
 ---
 
 

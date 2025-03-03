@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://boingboing.net/2013/01/01/robots-are-taking-your-job-and.html
+canonical_url: http://boingboing.net/2013/01/01/robots-are-taking-your-job-and.html
 ---
 
 
@@ -26,7 +26,7 @@ Interesting read about the jobs of the future. The article postulates that techn
 
  >
  >
- >  ![](/assets/import/d482d76c8f7773503d09bab1aa8f4663.jpg) 
+ >  ![](/assets/import/d482d76c8f7773503d09bab1aa8f4663.jpg)
  >
  > Two striking articles on the roboticization of the workforce: first is Kevin Kelly in Wired, with " [Better Than Human"](http://www.wired.com/gadgetlab/2012/12/ff-robots-will-take-our-jobs/all/) , an optimistic and practical-minded look at the way that robots change the jobs landscape, with some advice on how to survive the automation of your gig.
  >

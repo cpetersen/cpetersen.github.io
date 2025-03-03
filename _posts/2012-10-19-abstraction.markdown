@@ -18,8 +18,8 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://twitter.com/KentBeck/statuses/258316233068396544
+canonical_url: https://twitter.com/KentBeck/statuses/258316233068396544
 ---
 
 
-A gem from  [@kentbeck](http://www.twitter.com/kentbeck) 
+A gem from  [@kentbeck](http://www.twitter.com/kentbeck)

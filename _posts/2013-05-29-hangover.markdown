@@ -18,18 +18,18 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.datagenetics.com/blog/may32013/index.html
+canonical_url: http://www.datagenetics.com/blog/may32013/index.html
 ---
 
 
 Mathematical proof that by stacking overhanging blocks, you can support of a block that is completely over a ledge. I love mathematical explanations of such simple phenomena.
 
- > 
- > 
- > 
+ >
+ >
+ >
 |![](/assets/import/ee68b588464afb1c0fa7bf76698cb11f.png)|
 |---|
 
- 
- > 
- > 
+
+ >
+ >

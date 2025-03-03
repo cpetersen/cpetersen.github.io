@@ -18,12 +18,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://spectrum.ieee.org/automaton/robotics/aerial-robots/iros-2013-should-quadrotors-all-look-like-this#.UoRAb7LvVFs.hackernews
+canonical_url: http://spectrum.ieee.org/automaton/robotics/aerial-robots/iros-2013-should-quadrotors-all-look-like-this#.UoRAb7LvVFs.hackernews
 ---
 
 
-  ![](/assets/import/0fc13620e2e32c03445074f5f150308c.png) 
+  ![](/assets/import/0fc13620e2e32c03445074f5f150308c.png)
 
-Researchers thing they have found a better (more efficient) design for the quadcopter. Retaining the benefits of a traditional helicopter and the maneuverability and much of the simplicity of the quadcopter. 
+Researchers thing they have found a better (more efficient) design for the quadcopter. Retaining the benefits of a traditional helicopter and the maneuverability and much of the simplicity of the quadcopter.
 
- 
+

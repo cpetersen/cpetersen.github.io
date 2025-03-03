@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://twitter.com/ernestmueller/statuses/258723733517238273
+canonical_url: https://twitter.com/ernestmueller/statuses/258723733517238273
 ---
 
 

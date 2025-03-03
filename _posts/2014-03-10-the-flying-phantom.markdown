@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.gizmag.com/flying-phantom-hydrofoil-catamaran-sailing/31143/
+canonical_url: http://www.gizmag.com/flying-phantom-hydrofoil-catamaran-sailing/31143/
 ---
 
 
-  ![pictures.jpg](/assets/import/8bc6eb852b79916eb79889ae462a0dd5.jpg)  
+  ![pictures.jpg](/assets/import/8bc6eb852b79916eb79889ae462a0dd5.jpg)
 
  A new catamaran design that allows the boat to raise it’s hulls a few feet out of the water on two hydrofoils. This reduces drag meaning the boat is not only dramatically faster, but also dramatically smoother in the water. I’m not exactly in the market for a boat, it just looks like a cool design.
 

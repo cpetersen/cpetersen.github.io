@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://xkcd.com/
+canonical_url: http://xkcd.com/
 ---
 
 
 It's funny because it's true.
 
- >   ![Math](/assets/import/6f4084c71619183902a9ed07bb4a88a8.png)  
+ >   ![Math](/assets/import/6f4084c71619183902a9ed07bb4a88a8.png)
 

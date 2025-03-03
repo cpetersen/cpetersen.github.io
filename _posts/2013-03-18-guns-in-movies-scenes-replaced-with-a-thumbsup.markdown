@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://imgur.com/gallery/ONb0b
+canonical_url: http://imgur.com/gallery/ONb0b
 ---
 
 
-While we're on on the subject of new takes on existing movies, this is a collection of images from movies where the guns have been replaced with the thumbs up gesture. 
+While we're on on the subject of new takes on existing movies, this is a collection of images from movies where the guns have been replaced with the thumbs up gesture.
 
- From  [@janl](https://twitter.com/janl/status/313652806370328578) , more  [here](http://www.thumbsandammo.blogspot.co.uk). 
+ From  [@janl](https://twitter.com/janl/status/313652806370328578) , more  [here](http://www.thumbsandammo.blogspot.co.uk).

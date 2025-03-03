@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://usatoday30.usatoday.com/money/business/story/2012/09/16/jobs-fight-haves-vs-the-have-nots/57778406/1
+canonical_url: http://usatoday30.usatoday.com/money/business/story/2012/09/16/jobs-fight-haves-vs-the-have-nots/57778406/1
 ---
 
 

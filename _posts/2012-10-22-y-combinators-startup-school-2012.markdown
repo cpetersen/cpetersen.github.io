@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://nowaternomoon.com/post/34062996874/my-key-takeaways-from-y-combinators-startup-school
+canonical_url: http://nowaternomoon.com/post/34062996874/my-key-takeaways-from-y-combinators-startup-school
 ---
 
 
@@ -28,7 +28,7 @@ Lots of gems in this post, but my favorite is "focus over features".
  >
  >  __Tom Preston-Werner__. Founder, Github
  >
- >  ![](/assets/import/11c24e4e237a4b32f036fbafba209116.jpg) 
+ >  ![](/assets/import/11c24e4e237a4b32f036fbafba209116.jpg)
  >
  >
  >  * If you have customers willing to pay before you even have a billing system, that’s a good sign.

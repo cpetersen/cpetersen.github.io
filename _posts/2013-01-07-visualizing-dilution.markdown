@@ -19,14 +19,14 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://visual.ly/visualizing-dilution
+canonical_url: http://visual.ly/visualizing-dilution
 ---
 
 
-  ![884a216d513be435ac2046ee0ccb6e74.png](/assets/import/884a216d513be435ac2046ee0ccb6e74.png) 
+  ![884a216d513be435ac2046ee0ccb6e74.png](/assets/import/884a216d513be435ac2046ee0ccb6e74.png)
 
  This is a great infographic from  [visual.ly](http://visual.ly)  showing how dilution works in a start up company.
 
  Click through for the full graphic.
 
- 
+

@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://photography.nationalgeographic.com/photography/photo-of-the-day/camel-thorn-trees-namibia/
+canonical_url: http://photography.nationalgeographic.com/photography/photo-of-the-day/camel-thorn-trees-namibia/
 ---
 
 
-  ![](/assets/import/7aab7d2ed317cde9906235d7adbf2685.jpg) 
+  ![](/assets/import/7aab7d2ed317cde9906235d7adbf2685.jpg)
 
  Every time I see this picture, I can't believe it's an actual photograph. Must have been spectacular in person.

@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://www.youtube.com/watch?v=mQgUVW9SLDw
+canonical_url: https://www.youtube.com/watch?v=mQgUVW9SLDw
 ---
 
 I had the honor of introducing Dr Benjamin Cravatt as the keynote speaker at this year's Drug Discovery Chemistry conference. Our overview video is below.

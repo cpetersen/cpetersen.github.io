@@ -19,12 +19,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.voxelmars.com/
+canonical_url: http://www.voxelmars.com/
 ---
 
 
-  ![bc4f30d551c3ec5ade0644ad7a297e80.png](/assets/import/bc4f30d551c3ec5ade0644ad7a297e80.png) 
+  ![bc4f30d551c3ec5ade0644ad7a297e80.png](/assets/import/bc4f30d551c3ec5ade0644ad7a297e80.png)
 
- A global scale reproduction of Mars done entirely in  [voxel.js](http://voxeljs.com/). Pretty awesome. 
+ A global scale reproduction of Mars done entirely in  [voxel.js](http://voxeljs.com/). Pretty awesome.
 
- 
+

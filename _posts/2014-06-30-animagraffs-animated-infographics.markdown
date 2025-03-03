@@ -20,12 +20,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://animagraffs.com/
+canonical_url: http://animagraffs.com/
 ---
 
 
-  ![2f5e136de5463ae02408a99c43dfcea8.png](/assets/import/2f5e136de5463ae02408a99c43dfcea8.png)  
+  ![2f5e136de5463ae02408a99c43dfcea8.png](/assets/import/2f5e136de5463ae02408a99c43dfcea8.png)
 
- Jacob O’Neal publishes animated infographics at  [Animagraffs.com](http://animagraffs.com) , very cool, very informative. I love this sort of stuff. 
+ Jacob O’Neal publishes animated infographics at  [Animagraffs.com](http://animagraffs.com) , very cool, very informative. I love this sort of stuff.
 
- 
+

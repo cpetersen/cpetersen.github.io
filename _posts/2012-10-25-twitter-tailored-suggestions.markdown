@@ -18,20 +18,20 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://support.twitter.com/articles/20169421
+canonical_url: https://support.twitter.com/articles/20169421
 ---
 
 
 Well that's new.
 
- > 
- > 
+ >
+ >
  > ### Tailor Twitter to your interests.
- > 
- > Tailored suggestions make building a great timeline — filled with Tweets, links, media, and conversations from the people you’re interested in — easier and faster. Twitter can now make smarter and more relevant suggestions about who you might enjoy following. We’re beginning to test tailored suggestions now with some of our users. __ __ 
- > 
+ >
+ > Tailored suggestions make building a great timeline — filled with Tweets, links, media, and conversations from the people you’re interested in — easier and faster. Twitter can now make smarter and more relevant suggestions about who you might enjoy following. We’re beginning to test tailored suggestions now with some of our users. __ __
+ >
  > ### How tailored suggestions work:
- > 
+ >
  > We determine the people you might enjoy following based on your recent visits to websites in the Twitter ecosystem (sites that have integrated Twitter buttons or widgets). Specifically, our feature works by suggesting people who are frequently followed by other Twitter users that visit the same websites.
- > 
- > 
+ >
+ >

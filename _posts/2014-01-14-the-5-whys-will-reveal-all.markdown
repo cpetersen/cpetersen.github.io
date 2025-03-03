@@ -18,12 +18,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://vooza.com/videos/the-5-whys/
+canonical_url: http://vooza.com/videos/the-5-whys/
 ---
 
 
-What looks like a technical problem is actually a people problem. 
+What looks like a technical problem is actually a people problem.
 
- The Illuminati! 
+ The Illuminati!
 
- 
+

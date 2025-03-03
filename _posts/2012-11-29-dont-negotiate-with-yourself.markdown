@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/11/29/obama-to-gop-i-wont-negotiate-with-myself/
+canonical_url: http://www.washingtonpost.com/blogs/wonkblog/wp/2012/11/29/obama-to-gop-i-wont-negotiate-with-myself/
 ---
 
 

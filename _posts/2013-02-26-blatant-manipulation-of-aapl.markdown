@@ -18,13 +18,13 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossible-apple-stock-split-helps-fund-manager-clear-profits
+canonical_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossible-apple-stock-split-helps-fund-manager-clear-profits
 ---
 
 
 
 
- ![AAPL.022613.jpg](/assets/import/d5eb46efebb894cd1fcc66cda1bd7afe.jpg) 
+ ![AAPL.022613.jpg](/assets/import/d5eb46efebb894cd1fcc66cda1bd7afe.jpg)
 
  This is really disgusting, hedge fund manager spreads a completely unverifiable rumor,  [on twitter](https://twitter.com/DougKass/statuses/306475843784425472)  nonetheless, and profits from the result. Some choice quotes from the article:
 
@@ -34,6 +34,6 @@ original_url: http://appleinsider.com/articles/13/02/26/rotten-rumors-of-impossi
 
  >  Who cares about the fundamentals?
 
- And finally:  
+ And finally:
 
  >  "This is actually blatantly illegal,” he added, “but when you have six days and your company may be in doubt because you are down, I think it is really important to foment."

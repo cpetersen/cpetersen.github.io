@@ -19,11 +19,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://revealapp.com/
+canonical_url: http://revealapp.com/
 ---
 
 
-  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/assets/import/ca37136cd0e77a4ecd6d08a38a0bda41.png) 
+  ![ca37136cd0e77a4ecd6d08a38a0bda41.png](/assets/import/ca37136cd0e77a4ecd6d08a38a0bda41.png)
 
   [Reveal App](http://revealapp.com/)  claims it can give you the ability to visually inspect your iOS apps.
 

@@ -24,8 +24,11 @@
     <meta name="twitter:site" content="{{ site.twitter | prepend: '@' }}" />
 
     <link rel="alternate" href="{{ '/feed.xml' | prepend: site.baseurl }}" type="application/rss+xml" title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    {% if page.canonical_url %}
+    <link rel="canonical" href="{{ page.canonical_url }}" />
+    {% else %}
     <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl }}" />
-
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/normalize.css' | prepend: site.baseurl }}" />
     <link rel="stylesheet" href="{{ '/assets/animate.css' | prepend: site.baseurl }}" />
     <link rel="stylesheet" href="{{ '/assets/styles.css' | prepend: site.baseurl }}" />

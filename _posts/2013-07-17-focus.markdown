@@ -18,14 +18,14 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://blog.samaltman.com/how-things-get-done
+canonical_url: http://blog.samaltman.com/how-things-get-done
 ---
 
 
 Focus and personal connections are the key to getting things done.
 
- > 
- > 
- >  Most early-stage startup founders do a bad job of gettingthe company to focus on just two or three critical priorities—they chasewhatever shiny new object appears that day. This is somewhat expected—the sort of people that start companiesgenerally like doing new things, not executing relentlessly on the samethings.  But restraint is critical.  It’s very easy to justify taking on one moreproject by saying that it won’t be that time consuming.  Unfortunately, it will likely either be time consuming, or it won’tbe worth anything.  Most founders knowwhat to do; they just don’t know what not to do. 
- > 
- > 
+ >
+ >
+ >  Most early-stage startup founders do a bad job of gettingthe company to focus on just two or three critical priorities—they chasewhatever shiny new object appears that day. This is somewhat expected—the sort of people that start companiesgenerally like doing new things, not executing relentlessly on the samethings.  But restraint is critical.  It’s very easy to justify taking on one moreproject by saying that it won’t be that time consuming.  Unfortunately, it will likely either be time consuming, or it won’tbe worth anything.  Most founders knowwhat to do; they just don’t know what not to do.
+ >
+ >

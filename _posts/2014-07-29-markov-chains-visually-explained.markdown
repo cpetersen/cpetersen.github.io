@@ -20,12 +20,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://setosa.io/blog/2014/07/26/markov-chains/index.html
+canonical_url: http://setosa.io/blog/2014/07/26/markov-chains/index.html
 ---
 
 
-  ![351d356cf7c7e9fd9f1f73db880c6f94.png](/assets/import/351d356cf7c7e9fd9f1f73db880c6f94.png)  
+  ![351d356cf7c7e9fd9f1f73db880c6f94.png](/assets/import/351d356cf7c7e9fd9f1f73db880c6f94.png)
 
  Excellent, concise explanation of  [Markov Chains](http://en.wikipedia.org/wiki/Markov_chains)   As a side note, I really like the trend of interactive visuals in articles like these.
 
- 
+

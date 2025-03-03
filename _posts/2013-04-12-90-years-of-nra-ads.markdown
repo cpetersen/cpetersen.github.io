@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.motherjones.com/politics/2013/03/national-rifle-association-ads-history
+canonical_url: http://www.motherjones.com/politics/2013/03/national-rifle-association-ads-history
 ---
 
 
-  ![](/assets/import/7ffc788d9be0bc57725e2458ea359749.png)  
+  ![](/assets/import/7ffc788d9be0bc57725e2458ea359749.png)
 
  Mother Jones delves into the last 90 years of NRA advertising.
 

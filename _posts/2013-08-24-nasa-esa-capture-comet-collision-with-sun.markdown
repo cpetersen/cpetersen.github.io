@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.theweathernetwork.com/news/articles/nasa-esa-capture-comet-collision-with-sun/11518/
+canonical_url: http://www.theweathernetwork.com/news/articles/nasa-esa-capture-comet-collision-with-sun/11518/
 ---
 
 

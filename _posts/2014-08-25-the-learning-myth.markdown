@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-im-cautious-about-telling-my
+canonical_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learning-myth-why-im-cautious-about-telling-my
 ---
 
 
@@ -27,14 +27,14 @@ original_url: https://www.khanacademy.org/about/blog/post/95208400815/the-learni
 
  > Recently, I put into practice research I had been reading about for the past few years: I decided to praise my son not when he succeeded at things he was already good at, but when he persevered with things that he found difficult.
 
- Sal Khan of Khan Academy explains the growth mindset vs the fixed mindset and how it effects how he raises his children. 
+ Sal Khan of Khan Academy explains the growth mindset vs the fixed mindset and how it effects how he raises his children.
 
- >  She has found that most people adhere to one of two mindsets: fixed or growth. Fixed mindsets mistakenly believe that people are either smart or not, that intelligence is fixed by genes. People with growth mindsets correctly believe that capability and intelligence can be grown through effort, struggle and failure. 
+ >  She has found that most people adhere to one of two mindsets: fixed or growth. Fixed mindsets mistakenly believe that people are either smart or not, that intelligence is fixed by genes. People with growth mindsets correctly believe that capability and intelligence can be grown through effort, struggle and failure.
 
- I totally agree. Instilling a growth mindset is, in my opinion, one of the most important things I, as a parent, can do. However, it is easier said than done. I find myself saying “Good job, you’re so smart”, it’s a hard thing to change, but I believe worthwhile. 
+ I totally agree. Instilling a growth mindset is, in my opinion, one of the most important things I, as a parent, can do. However, it is easier said than done. I find myself saying “Good job, you’re so smart”, it’s a hard thing to change, but I believe worthwhile.
 
- The following pithy quote sums it up nicely. 
+ The following pithy quote sums it up nicely.
 
- >  the brain grows most by getting questions wrong, not right 
+ >  the brain grows most by getting questions wrong, not right
 
- 
+

@@ -19,20 +19,20 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://insideintercom.io/there-are-no-small-changes/
+canonical_url: http://insideintercom.io/there-are-no-small-changes/
 ---
 
 
 Inside Intercom might be my new favorite blog. In this post they cover why there are no "small features" when it comes to software. The example is slightly contrived... but only slightly. The point is so true.
 
- > 
- > 
- >  
- > 
+ >
+ >
+ >
+ >
  > “We want to limit the length of a review in the product to 140 characters, because we may want to use SMS at some stage. That’s a small change, right?”
- > 
+ >
  > Wrong.
- > 
- >  
- > 
- > 
+ >
+ >
+ >
+ >

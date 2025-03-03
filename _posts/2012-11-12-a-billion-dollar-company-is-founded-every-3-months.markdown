@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every
+canonical_url: http://blog.minming.net/post/35553963889/a-billion-dollar-software-tech-company-is-founded-every
 ---
 
 

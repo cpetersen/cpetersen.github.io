@@ -17,10 +17,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.quora.com/Game-of-Thrones-TV-series/What-are-some-of-the-best-Game-of-Thrones-type-sigils
+canonical_url: http://www.quora.com/Game-of-Thrones-TV-series/What-are-some-of-the-best-Game-of-Thrones-type-sigils
 ---
 
 
-  ![](/assets/import/ce18ec8f3fd579f7930d43fc3f7a1557.jpg) 
+  ![](/assets/import/ce18ec8f3fd579f7930d43fc3f7a1557.jpg)
 
  A collection of Game of Thrones inspired sigils. People are so creative.

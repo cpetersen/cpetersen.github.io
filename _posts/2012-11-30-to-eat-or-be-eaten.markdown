@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://radar.oreilly.com/2012/11/to-eat-or-be-eaten.html
+canonical_url: http://radar.oreilly.com/2012/11/to-eat-or-be-eaten.html
 ---
 
 

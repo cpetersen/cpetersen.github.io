@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://digg.com/video/what-happens-when-you-drop-a-magnet-inside-a-copper-tube
+canonical_url: http://digg.com/video/what-happens-when-you-drop-a-magnet-inside-a-copper-tube
 ---
 
 
-When you drop a magnet through a copper tube, it slowly drops. It’s mesmerizing. 
+When you drop a magnet through a copper tube, it slowly drops. It’s mesmerizing.
 
- 
+

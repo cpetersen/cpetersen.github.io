@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?hp
+canonical_url: http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?hp
 ---
 
 

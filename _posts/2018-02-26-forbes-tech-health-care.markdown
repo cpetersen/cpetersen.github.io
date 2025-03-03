@@ -21,7 +21,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://www.forbes.com/sites/forbestechcouncil/2018/02/26/14-predictions-about-the-impact-of-technologys-growing-presence-in-health-care/
+canonical_url: https://www.forbes.com/sites/forbestechcouncil/2018/02/26/14-predictions-about-the-impact-of-technologys-growing-presence-in-health-care/
 ---
 
 

@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://paulgraham.com/hw.html
+canonical_url: http://paulgraham.com/hw.html
 ---
 
 

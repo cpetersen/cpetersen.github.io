@@ -20,7 +20,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://keepflying.com
+canonical_url: https://keepflying.com
 ---
 
 

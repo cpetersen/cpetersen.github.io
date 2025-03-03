@@ -18,8 +18,8 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.newscientist.com/article/dn24706-ultrathin-fault-caused-gravitydistorting-japan-quake.html
+canonical_url: http://www.newscientist.com/article/dn24706-ultrathin-fault-caused-gravitydistorting-japan-quake.html
 ---
 
 
-Japan's Tohoku earthquake of 2011 actually caused permanent changes in the local gravitational field. It also sent pressure waves into the upper atmosphere. 
+Japan's Tohoku earthquake of 2011 actually caused permanent changes in the local gravitational field. It also sent pressure waves into the upper atmosphere.

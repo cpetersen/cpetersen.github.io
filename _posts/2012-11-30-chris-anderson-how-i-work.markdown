@@ -18,13 +18,13 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://lifehacker.com/5963966/im-chris-anderson-and-this-is-how-i-work
+canonical_url: http://lifehacker.com/5963966/im-chris-anderson-and-this-is-how-i-work
 ---
 
 
-Chris Anderson discusses how he works and the tools he uses. I'm jealous of his workshop! 
+Chris Anderson discusses how he works and the tools he uses. I'm jealous of his workshop!
 
- Great quote from the article: 
+ Great quote from the article:
 
  > Success is not a destination. It's the trail you leave behind you.
 

@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.vipukirves.fi/english/description.htm
+canonical_url: http://www.vipukirves.fi/english/description.htm
 ---
 
 
-  ![Vipukirves_toiminta2.jpg](/assets/import/751db6627b1d77040c0ae6b52c742c0b.jpg)  
+  ![Vipukirves_toiminta2.jpg](/assets/import/751db6627b1d77040c0ae6b52c742c0b.jpg)
 
  The Leveraxe is an ingenious new axe design. A traditional axe uses brute force to first penetrate, then split the log being chopped. The leveraxe first penetrates, but since it’s head if off center from the handle, it then twists, using a lever action to split the log with much less force.
 

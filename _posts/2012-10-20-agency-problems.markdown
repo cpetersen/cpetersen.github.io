@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://cdixon.org/2012/10/19/agency-problems/
+canonical_url: http://cdixon.org/2012/10/19/agency-problems/
 ---
 
 

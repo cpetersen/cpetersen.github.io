@@ -19,13 +19,13 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://pandodaily.com/2013/02/13/the-seven-best-things-steve-case-said-today-to-the-senate-committee-on-immigration/
+canonical_url: http://pandodaily.com/2013/02/13/the-seven-best-things-steve-case-said-today-to-the-senate-committee-on-immigration/
 ---
 
 
 
 
- ![2514641584_84cf3b8a89_o.jpeg](/assets/import/6b179bfadcfe982d3bc7a5dccdd555b3.jpg) 
+ ![2514641584_84cf3b8a89_o.jpeg](/assets/import/6b179bfadcfe982d3bc7a5dccdd555b3.jpg)
 
  There are some real gems in here. I think we can all agree that forcing recent grads to leave the country isn't a smart idea.
 

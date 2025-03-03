@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.nytimes.com/2012/11/26/opinion/buffett-a-minimum-tax-for-the-wealthy.html
+canonical_url: http://www.nytimes.com/2012/11/26/opinion/buffett-a-minimum-tax-for-the-wealthy.html
 ---
 
 

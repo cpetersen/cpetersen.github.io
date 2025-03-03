@@ -20,7 +20,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://techcrunch.com/2012/12/17/organovo-autocad/
+canonical_url: http://techcrunch.com/2012/12/17/organovo-autocad/
 ---
 
 
@@ -30,7 +30,7 @@ original_url: http://techcrunch.com/2012/12/17/organovo-autocad/
 
  >
  >
- >  [![organovo](/assets/import/5614bdc3d537fee6821c832ac097f300.jpg)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/) 
+ >  [![organovo](/assets/import/5614bdc3d537fee6821c832ac097f300.jpg)](http://techcrunch.com/2012/12/17/organovo-autocad/organovo/)
  >
  > Autodesk’s software may be best-known for helping architects design buildings or for prototyping products, but it soon may be applied to designing tissues and organs.
  >

@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://www.outsourcing-pharma.com/Article/2018/05/03/Scientist.com-using-blockchain-tech-to-ensure-data-integrity
+canonical_url: https://www.outsourcing-pharma.com/Article/2018/05/03/Scientist.com-using-blockchain-tech-to-ensure-data-integrity
 ---
 
 Outsourcing Pharma covered the launch of our Data Integrity Initiative, which is part of our broader Data Smart program.

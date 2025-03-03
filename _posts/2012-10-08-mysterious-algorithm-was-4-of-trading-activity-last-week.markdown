@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.cnbc.com/id/49333454
+canonical_url: http://www.cnbc.com/id/49333454
 ---
 
 

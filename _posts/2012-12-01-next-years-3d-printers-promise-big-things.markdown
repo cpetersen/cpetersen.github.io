@@ -18,12 +18,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.wired.com/design/2012/11/big-3d-printers-euromold-2012/?pid=1387&viewall=true
+canonical_url: http://www.wired.com/design/2012/11/big-3d-printers-euromold-2012/?pid=1387&viewall=true
 ---
 
 
 Lots of cool things coming in the 3d printing field. Printing with metal, huge printers, etc. very exciting stuff.
 
- >   ![Bike Frames and Race Cars](/assets/import/0448414f74f28bddffb4612b7101d37e.jpg)  
+ >   ![Bike Frames and Race Cars](/assets/import/0448414f74f28bddffb4612b7101d37e.jpg)
  >
  >  2012 has been a big year for 3-D printing, but the industry has quietly been growing for decades. And the innovations are impressive — for every new plywood-clad 3-D printer kit that makes the rounds on the internet, engineers are developing ways to print titanium parts for jet engines that will change the aerospace industry.

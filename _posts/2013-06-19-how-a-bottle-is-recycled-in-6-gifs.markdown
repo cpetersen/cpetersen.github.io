@@ -17,10 +17,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.npr.org/blogs/money/2013/06/11/190668206/how-a-used-bottle-becomes-a-new-bottle-in-6-gifs
+canonical_url: http://www.npr.org/blogs/money/2013/06/11/190668206/how-a-used-bottle-becomes-a-new-bottle-in-6-gifs
 ---
 
 
- ![Gobs](/assets/import/cbf5e3177549baa408bda5ae4041e75a.gif)  
+ ![Gobs](/assets/import/cbf5e3177549baa408bda5ae4041e75a.gif)
 
  NPR shows how a bottle is recycled in 6 Gifs.

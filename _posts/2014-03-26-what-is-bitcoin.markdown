@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://vooza.com/videos/what-is-bitcoin/
+canonical_url: http://vooza.com/videos/what-is-bitcoin/
 ---
 
 

@@ -19,11 +19,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://hint.fm/wind/
+canonical_url: http://hint.fm/wind/
 ---
 
 
- ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.gif)  
+ ![A humbling map of real-time wind patterns in Tornado Alley](/assets/import/7abfef38b76feaedc2b1e29fc59421d7.gif)
 
  Wind map is a beautiful visualization of the wind patterns in the US. The great plains sure are windy!
 

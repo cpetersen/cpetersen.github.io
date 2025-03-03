@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
+canonical_url: http://oliveremberton.com/2014/life-is-a-game-this-is-your-strategy-guide/
 ---
 
 
-  ![Drink-vs-code-1024x684.png](/assets/import/a55fb1c401990ce8949feb8c1c22a95c.png)  
+  ![Drink-vs-code-1024x684.png](/assets/import/a55fb1c401990ce8949feb8c1c22a95c.png)
 
- This is a wonderfully written guide to life. Written in the style of a strategy guide for a strategy game… which I guess it actually is. 
+ This is a wonderfully written guide to life. Written in the style of a strategy guide for a strategy game… which I guess it actually is.

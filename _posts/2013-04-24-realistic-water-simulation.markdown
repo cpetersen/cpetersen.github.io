@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://io9.com/this-jaw-dropping-water-simulation-is-the-most-realisti-479431439
+canonical_url: http://io9.com/this-jaw-dropping-water-simulation-is-the-most-realisti-479431439
 ---
 
 

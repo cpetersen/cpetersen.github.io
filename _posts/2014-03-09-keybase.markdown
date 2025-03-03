@@ -20,12 +20,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: https://keybase.io/
+canonical_url: https://keybase.io/
 ---
 
 
-  ![fd1caba1bbd90039c524f5d75391c994.png](/assets/import/fd1caba1bbd90039c524f5d75391c994.png)  
+  ![fd1caba1bbd90039c524f5d75391c994.png](/assets/import/fd1caba1bbd90039c524f5d75391c994.png)
 
-  [Keybase](http://keybase.io)  wants to be a public directory of public keys. So you can add your public keys and verify your identity and accounts, so people can verify your public key belongs to your twitter account. I’m waiting on my beta invite. 
+  [Keybase](http://keybase.io)  wants to be a public directory of public keys. So you can add your public keys and verify your identity and accounts, so people can verify your public key belongs to your twitter account. I’m waiting on my beta invite.
 
- You can see people verifying their twitter accounts using  [tweets like this](https://twitter.com/harper/status/442364425643630592). It’s an interesting idea and the publicly auditable angle is a great way to bake virality in (you need to publicly verify accounts, meaning you publicly endorse their service). 
+ You can see people verifying their twitter accounts using  [tweets like this](https://twitter.com/harper/status/442364425643630592). It’s an interesting idea and the publicly auditable angle is a great way to bake virality in (you need to publicly verify accounts, meaning you publicly endorse their service).

@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.marketplace.org/topics/tech/glimpse-potential-drone-industry#.UZ8ZVa8GUOY.twitter
+canonical_url: http://www.marketplace.org/topics/tech/glimpse-potential-drone-industry#.UZ8ZVa8GUOY.twitter
 ---
 
 
@@ -28,8 +28,8 @@ According to Marketplace, San Diego has over 60% of the existing drone market, w
 
  The also state that they expect the the worldwide demand for UAV's to double in the next ten years, which seems like a __dramatic__ underestimate to me… as in, one or to orders of magnitude low.
 
- >  "Our expectation, which is a fairly conservative estimate, is that worldwide demand for UAVs will double over the next 10 years," Bruvold says. 
+ >  "Our expectation, which is a fairly conservative estimate, is that worldwide demand for UAVs will double over the next 10 years," Bruvold says.
 
- That being said, this article does focus on military applications. I believe the vast majority of drone use in the next decade will be in the private sector. 
+ That being said, this article does focus on military applications. I believe the vast majority of drone use in the next decade will be in the private sector.
 
- 
+

@@ -18,18 +18,18 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html
+canonical_url: http://www.foundersatwork.com/1/post/2012/10/what-goes-wrong.html
 ---
 
 
 Jessica Livingston discusses the dangers that start ups face. Great post from a woman that knows. I wish I could have seen the talk.
 
- >  __Making Something People Want is Hard__  
- > 
- >  Now we come to the fiercest monster of all: the difficulty of making something people want. It's so hard that most startups aren't able to do it. You are trying to figure out something that's never been done before. 
- > 
- >  Not making something people want is the biggest cause of failure we see early on. (The second biggest is founder disputes.) 
- > 
- >  In order to make something people want, being brilliant and determined is not enough. You have to be able to talk to your users and adjust your idea accordingly. Ordinarily you have to change your idea quite a lot even if you start out with a reasonably good one. 
- > 
- > 
+ >  __Making Something People Want is Hard__
+ >
+ >  Now we come to the fiercest monster of all: the difficulty of making something people want. It's so hard that most startups aren't able to do it. You are trying to figure out something that's never been done before.
+ >
+ >  Not making something people want is the biggest cause of failure we see early on. (The second biggest is founder disputes.)
+ >
+ >  In order to make something people want, being brilliant and determined is not enough. You have to be able to talk to your users and adjust your idea accordingly. Ordinarily you have to change your idea quite a lot even if you start out with a reasonably good one.
+ >
+ >

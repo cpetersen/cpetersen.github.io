@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.wired.com/2014/04/self-washing-car/?mbid=social_fb
+canonical_url: http://www.wired.com/2014/04/self-washing-car/?mbid=social_fb
 ---
 
 
-  ![self_cleaning_car_06-660x440.jpg](/assets/import/ad76c15fb25e2815308c9aa11e92a4aa.jpg)  
+  ![self_cleaning_car_06-660x440.jpg](/assets/import/ad76c15fb25e2815308c9aa11e92a4aa.jpg)
 
  Nissan is introducing a “self cleaning paint” so your car never (or rarely) needs to be washed. It’s a super hydrophobic and oleophobic material that repels both water and oil.
 

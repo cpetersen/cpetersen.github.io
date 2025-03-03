@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.slate.com/blogs/bad_astronomy/2014/05/29/supercells_time_lapse_birth_of_huge_storm_systems.html
+canonical_url: http://www.slate.com/blogs/bad_astronomy/2014/05/29/supercells_time_lapse_birth_of_huge_storm_systems.html
 ---
 
 

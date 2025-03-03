@@ -20,14 +20,14 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://9to5mac.com/2013/05/24/jony-ives-new-look-for-ios-7-black-white-and-flat-all-over/?utm_content=bufferbc12c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
+canonical_url: http://9to5mac.com/2013/05/24/jony-ives-new-look-for-ios-7-black-white-and-flat-all-over/?utm_content=bufferbc12c&utm_source=buffer&utm_medium=twitter&utm_campaign=Buffer
 ---
 
 
 Looks like Jony Ive is pushing skeuomorphism out of iOS7. But seriously, if they removed the shredding animation from Passbook... would anyone really notice?
 
- > 
- > 
- >  In addition to the Home screen buttons, most of Apple’s apps have been redesigned to fit the white, black, and flat theme of the new operating system. For example, the shredding animation for deleting virtual passes has likely been removed from Passbook. 
- > 
- > 
+ >
+ >
+ >  In addition to the Home screen buttons, most of Apple’s apps have been redesigned to fit the white, black, and flat theme of the new operating system. For example, the shredding animation for deleting virtual passes has likely been removed from Passbook.
+ >
+ >

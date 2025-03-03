@@ -18,16 +18,16 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.galactanet.com/oneoff/theegg_mod.html
+canonical_url: http://www.galactanet.com/oneoff/theegg_mod.html
 ---
 
 
 
 
- >  You were on your way home when you died. 
- > 
- >  It was a car accident. Nothing particularly remarkable, but fatal nonetheless. You left behind a wife and two children. It was a painless death. The EMTs tried their best to save you, but to no avail. Your body was so utterly shattered you were better off, trust me. 
+ >  You were on your way home when you died.
+ >
+ >  It was a car accident. Nothing particularly remarkable, but fatal nonetheless. You left behind a wife and two children. It was a painless death. The EMTs tried their best to save you, but to no avail. Your body was so utterly shattered you were better off, trust me.
 
  Short story about what happens when you die. Interesting and thought provoking.
 
- 
+

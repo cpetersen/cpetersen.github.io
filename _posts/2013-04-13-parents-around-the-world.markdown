@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.theatlantic.com/international/archive/2013/04/how-parents-around-the-world-describe-their-children-in-charts/274955/
+canonical_url: http://www.theatlantic.com/international/archive/2013/04/how-parents-around-the-world-describe-their-children-in-charts/274955/
 ---
 
 
-  ![cef43ebe26e24302af8932f1e2909c8b.png](/assets/import/cef43ebe26e24302af8932f1e2909c8b.png) 
+  ![cef43ebe26e24302af8932f1e2909c8b.png](/assets/import/cef43ebe26e24302af8932f1e2909c8b.png)
 
  This study looks at how parents around the world describe their children. The results are interesting, but divide between the US and Europe is unsurprising.

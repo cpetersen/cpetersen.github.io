@@ -19,10 +19,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.technologyreview.com/graphiti/524796/show-me-the-bitcoins/
+canonical_url: http://www.technologyreview.com/graphiti/524796/show-me-the-bitcoins/
 ---
 
 
-  ![graphitix860_3.png](/assets/import/702236a70532a6a80560345e4efcf216.png)  
+  ![graphitix860_3.png](/assets/import/702236a70532a6a80560345e4efcf216.png)
 
- Excellent infographic from the MIT Technology Review showing BitCoin’s price over time, how it’s spent and how it compares to other currencies (crypto and traditional). 
+ Excellent infographic from the MIT Technology Review showing BitCoin’s price over time, how it’s spent and how it compares to other currencies (crypto and traditional).

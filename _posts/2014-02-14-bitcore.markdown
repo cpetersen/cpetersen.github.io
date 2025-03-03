@@ -20,27 +20,27 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://bitcore.io/
+canonical_url: http://bitcore.io/
 ---
 
 
 
 
- > 
+ >
 
- >  > 
+ >  >
 
- > 
- > 
- >  ![bb685be558a08f1bf3a74964091bcaa2.png](/assets/import/bb685be558a08f1bf3a74964091bcaa2.png) 
- > 
- >  A pure, powerful core for your bitcoin project. 
- > 
+ >
+ >
+ >  ![bb685be558a08f1bf3a74964091bcaa2.png](/assets/import/bb685be558a08f1bf3a74964091bcaa2.png)
+ >
+ >  A pure, powerful core for your bitcoin project.
+ >
  > Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin.
- > 
- > 
- > 
+ >
+ >
+ >
 
- > 
+ >
 
- Bitcore looks like a very interesting project. I was more than a little surprised to see it was written in Node, but the distributed nature of Bitcoin is probably a pretty good fit with the async nature of Node. Should make interacting with Bitcoin programmatically a bit more accessible. 
+ Bitcore looks like a very interesting project. I was more than a little surprised to see it was written in Node, but the distributed nature of Bitcoin is probably a pretty good fit with the async nature of Node. Should make interacting with Bitcoin programmatically a bit more accessible.

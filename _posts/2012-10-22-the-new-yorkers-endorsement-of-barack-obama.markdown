@@ -18,7 +18,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.newyorker.com/talk/comment/2012/10/29/121029taco_talk_editors?mbid=social_retweet
+canonical_url: http://www.newyorker.com/talk/comment/2012/10/29/121029taco_talk_editors?mbid=social_retweet
 ---
 
 

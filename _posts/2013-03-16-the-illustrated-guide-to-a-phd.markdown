@@ -18,12 +18,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://matt.might.net/articles/phd-school-in-pictures/
+canonical_url: http://matt.might.net/articles/phd-school-in-pictures/
 ---
 
 
 
 
- ![PhDKnowledge.011.jpg](/assets/import/33fef2267603fbce2935e8fc5eb919ad.jpg) 
+ ![PhDKnowledge.011.jpg](/assets/import/33fef2267603fbce2935e8fc5eb919ad.jpg)
 
  I've always loved this explanation of a PhD.

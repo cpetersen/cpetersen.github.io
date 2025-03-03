@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://twentytwowords.com/2013/04/04/how-the-sky-would-look-if-the-planets-were-as-close-as-the-moon-8-pictures/
+canonical_url: http://twentytwowords.com/2013/04/04/how-the-sky-would-look-if-the-planets-were-as-close-as-the-moon-8-pictures/
 ---
 
 
-  ![](/assets/import/d18332db041bbf3b6d5d037bad4c8a2e.jpg) 
+  ![](/assets/import/d18332db041bbf3b6d5d037bad4c8a2e.jpg)
 
  This is what the planets would look like if they were as far away as the moon… gravitational forces notwithstanding.

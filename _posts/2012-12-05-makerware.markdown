@@ -19,14 +19,14 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.makerbot.com/makerware/
+canonical_url: http://www.makerbot.com/makerware/
 ---
 
 
 It turns out, you can download and play with the software that powers the Replicator 2, even if you don't have a Replicator 2 at home!
 
- >   ![](/assets/import/8826ace8a155d2417c0e083d4dfdfda3.png)  
- > 
+ >   ![](/assets/import/8826ace8a155d2417c0e083d4dfdfda3.png)
+ >
  > Introducing MakerWare, the ideal software to drive your MakerBot—and not justbecause it's pretty and simple to use. This Beta release of MakerWare includesan all new slicing engine that prepares models up to 20 times faster thanbefore and improves print times by up to 30 percent. But wait, there's more!
- > 
- > 
+ >
+ >

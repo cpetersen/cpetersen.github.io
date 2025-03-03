@@ -20,14 +20,14 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://kenwheeler.github.io/slick/
+canonical_url: http://kenwheeler.github.io/slick/
 ---
 
 
-  ![c85b54cab44bbe64c8a780cef2da1d24.png](/assets/import/c85b54cab44bbe64c8a780cef2da1d24.png)  
+  ![c85b54cab44bbe64c8a780cef2da1d24.png](/assets/import/c85b54cab44bbe64c8a780cef2da1d24.png)
 
- Looks like a nice new entrant into the javascript carousel market. Looks pretty nice, I can think of a few places where I could use something like this… but there’s also this: 
+ Looks like a nice new entrant into the javascript carousel market. Looks pretty nice, I can think of a few places where I could use something like this… but there’s also this:
 
-  [Should I Use a Carousel?](http://shouldiuseacarousel.com) 
+  [Should I Use a Carousel?](http://shouldiuseacarousel.com)
 
- 
+

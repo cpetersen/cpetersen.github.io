@@ -19,8 +19,8 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.wired.com/autopia/2014/02/open-source-vehicle/
+canonical_url: http://www.wired.com/autopia/2014/02/open-source-vehicle/
 ---
 
 
-Tabby is an open source car that you can build in an hour. Starting at 500 euros, you can be driving in no time. 
+Tabby is an open source car that you can build in an hour. Starting at 500 euros, you can be driving in no time.

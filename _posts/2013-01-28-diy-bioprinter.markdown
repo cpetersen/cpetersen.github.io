@@ -19,15 +19,15 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.wired.com/design/2013/01/diy-bio-printer/
+canonical_url: http://www.wired.com/design/2013/01/diy-bio-printer/
 ---
 
 
- I've thought Bioprinting was a great idea ever since I heard about it from  [Organovo](http://www.organovo.com/). Now it seems some hackers are bringing bioprinting to the DIY movement. It's amazing how fast these hi-tech machines are getting translated into something that anyone can own and use. 
+ I've thought Bioprinting was a great idea ever since I heard about it from  [Organovo](http://www.organovo.com/). Now it seems some hackers are bringing bioprinting to the DIY movement. It's amazing how fast these hi-tech machines are getting translated into something that anyone can own and use.
 
- According to Wired, here are some of the possible uses for a bioprinter: 
+ According to Wired, here are some of the possible uses for a bioprinter:
 
- > 
+ >
  >  * Print gradients of nutrients and/or antibiotics on a layer of cells to study combinatorial interactions — or even to select different isolates from an environmental sample.
  >  * Print patterns of growth factors on a layer of eukaryotic cells to study cell differentiation.
  >  * Print two or more microbial species at different distances from each other, to study metabolic interactions.

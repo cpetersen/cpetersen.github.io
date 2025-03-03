@@ -18,8 +18,8 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.teslamotors.com/batteryswap
+canonical_url: http://www.teslamotors.com/batteryswap
 ---
 
 
-Elon Musk demos Tesla's new battery swap technology. He shows off a fully automated system that changes a Model S battery in 90 seconds. He changes 2 batteries on stage in the time it takes a person to fill up the gas tank of a traditional vehicle. 
+Elon Musk demos Tesla's new battery swap technology. He shows off a fully automated system that changes a Model S battery in 90 seconds. He changes 2 batteries on stage in the time it takes a person to fill up the gas tank of a traditional vehicle.

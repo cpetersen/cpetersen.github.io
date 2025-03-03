@@ -18,8 +18,8 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.sebmontaz.com/videos/69-i-believe-i-can-fly-flight-of-the-frenchies-trailer
+canonical_url: http://www.sebmontaz.com/videos/69-i-believe-i-can-fly-flight-of-the-frenchies-trailer
 ---
 
 
-People are amazing. With my fear of heights, this video makes me mildly uncomfortable, but it's pretty incredible. (under 4 minutes) 
+People are amazing. With my fear of heights, this video makes me mildly uncomfortable, but it's pretty incredible. (under 4 minutes)

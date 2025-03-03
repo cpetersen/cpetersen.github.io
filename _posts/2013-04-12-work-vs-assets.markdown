@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
+canonical_url: http://sethgodin.typepad.com/seths_blog/2013/04/where-are-your-assets.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+typepad%2Fsethsmainblog+%28Seth%27s+Blog%29&utm_content=Google+Reader
 ---
 
 
- 
+
 
  > Do work and get paid once. Build an asset and get paid for as long as it lasts.
 

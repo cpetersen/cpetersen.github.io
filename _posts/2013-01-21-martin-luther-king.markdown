@@ -19,16 +19,16 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.greenisthenewred.com/blog/remembering-mlk-the-terrorist/343/
+canonical_url: http://www.greenisthenewred.com/blog/remembering-mlk-the-terrorist/343/
 ---
 
 
 "A good trouble. A necessary trouble." Seems like an appropriate way to remember Dr King.
 
- > 
- > 
+ >
+ >
  > I think a quote from Representative John Lewis of Georgia–another Democrat, and civil rights champion–may offer some insight into that. He told PBS NewsHour, “King inspired me and thousands of other Americans to get in the way. He inspired us to get in trouble. But it was good trouble; it was necessary trouble. And that’s why we honor Martin Luther King, Jr. today.”
- > 
+ >
  > A good trouble. A necessary trouble.
- > 
- > 
+ >
+ >

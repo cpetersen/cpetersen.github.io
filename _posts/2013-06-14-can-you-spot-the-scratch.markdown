@@ -18,11 +18,11 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.predatorythinking.com/scratch/
+canonical_url: http://www.predatorythinking.com/scratch/
 ---
 
 
-  ![](/assets/import/7f6cc6650bd5a9bba5b230ab6aede216.jpg) 
+  ![](/assets/import/7f6cc6650bd5a9bba5b230ab6aede216.jpg)
 
  >
  >

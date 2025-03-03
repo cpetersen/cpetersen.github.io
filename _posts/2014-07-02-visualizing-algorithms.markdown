@@ -20,12 +20,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://bost.ocks.org/mike/algorithms/
+canonical_url: http://bost.ocks.org/mike/algorithms/
 ---
 
 
-  ![0a90600c0a90a7176c901fb5f8390ef6.png](/assets/import/0a90600c0a90a7176c901fb5f8390ef6.png)  
+  ![0a90600c0a90a7176c901fb5f8390ef6.png](/assets/import/0a90600c0a90a7176c901fb5f8390ef6.png)
 
- Really interesting post that attempts to visualize a variety of algorithms. Sorting and maze generation algorithms are explored.  
+ Really interesting post that attempts to visualize a variety of algorithms. Sorting and maze generation algorithms are explored.
 
- via… just about everyone. 
+ via… just about everyone.

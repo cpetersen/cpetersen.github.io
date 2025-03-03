@@ -19,12 +19,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.pbs.org/wgbh/pages/frontline/untouchables/
+canonical_url: http://www.pbs.org/wgbh/pages/frontline/untouchables/
 ---
 
 
 
 
- ![0b3ca5b5c073969eddbcbff5efac0427.png](/assets/import/0b3ca5b5c073969eddbcbff5efac0427.png) 
+ ![0b3ca5b5c073969eddbcbff5efac0427.png](/assets/import/0b3ca5b5c073969eddbcbff5efac0427.png)
 
  Frontline on PBS looks at why no Wall St executive has been prosecuted for crimes relating to the financial collapse. A well researched and balanced piece of journalism, approximately 1 hour.

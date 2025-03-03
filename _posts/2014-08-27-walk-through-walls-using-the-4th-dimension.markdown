@@ -19,10 +19,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/
+canonical_url: http://marctenbosch.com/news/2014/08/new-trailer-how-to-walk-through-walls-using-the-fourth-dimension/
 ---
 
 
-This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls. 
+This video explains (using a video game) what walking in a 4D world would look like to someone in a 3D world. It uses the example of walking through walls.
 
- 
+

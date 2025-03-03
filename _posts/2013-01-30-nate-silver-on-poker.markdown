@@ -18,10 +18,10 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://media.smh.com.au/news/national-news/no-poker-face-nate-silvers-card-playing-secrets-3987374.html
+canonical_url: http://media.smh.com.au/news/national-news/no-poker-face-nate-silvers-card-playing-secrets-3987374.html
 ---
 
 
-Nate Silver of  [@fivethirtyeight](https://twitter.com/fivethirtyeight)  talks poker (< 2 minutes). 
+Nate Silver of  [@fivethirtyeight](https://twitter.com/fivethirtyeight)  talks poker (< 2 minutes).
 
- 
+

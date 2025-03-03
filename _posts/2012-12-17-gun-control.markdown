@@ -20,7 +20,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://techcrunch.com/2012/12/16/gun-control/
+canonical_url: http://techcrunch.com/2012/12/16/gun-control/
 ---
 
 
@@ -36,6 +36,6 @@ I don't think the author is explicitly calling for no gun regulation, but the "i
  >
  > ### Gun
  >
- >  ![liberator](/assets/import/36cfc83cff05962b35f6160189b78468.jpg) 
+ >  ![liberator](/assets/import/36cfc83cff05962b35f6160189b78468.jpg)
  >
  >

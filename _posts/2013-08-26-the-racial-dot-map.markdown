@@ -19,12 +19,12 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://demographics.coopercenter.org/DotMap/index.html
+canonical_url: http://demographics.coopercenter.org/DotMap/index.html
 ---
 
 
-  ![67d230ba2bbdbea2635de00b8bf40909.png](/assets/import/67d230ba2bbdbea2635de00b8bf40909.png) 
+  ![67d230ba2bbdbea2635de00b8bf40909.png](/assets/import/67d230ba2bbdbea2635de00b8bf40909.png)
 
  This is a remarkable map, using a dot to map every person in America color coded by race (as of the 2010 census that is). In addition to showing showing segregation, it's surprising to me just how unpopulated the west is vs the east.
 
- 
+

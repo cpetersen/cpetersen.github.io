@@ -19,16 +19,16 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://robertreich.org/post/37752857908
+canonical_url: http://robertreich.org/post/37752857908
 ---
 
 
 This is appalling.  [Robert Reich](https://twitter.com/RBReich)  discuss the need for campaign finance reform.
 
- > 
- > 
+ >
+ >
  > A record [$6 billion](http://www.opensecrets.org/news/2012/08/2012-election-will-be-costliest-yet.html) was spent on the 2012 campaign, and outside groups poured $1.3 billion into political races, according to data from the [Federal Election Commission](http://topics.bloomberg.com/federal-election-commission/) and the Center for Responsive Politics.
- > 
+ >
  > That’s why *Citizens United v. the Federal Election Commission* has to be reversed – either by a Supreme Court that becomes aware of the poison it’s unleashed into our democracy, or by constitutional amendment.
- > 
- > 
+ >
+ >

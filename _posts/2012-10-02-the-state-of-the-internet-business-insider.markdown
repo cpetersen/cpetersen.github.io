@@ -19,7 +19,7 @@ bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneu
 twitter: https://x.com/cpetersen
 github: https://github.com/cpetersen
 
-original_url: http://www.businessinsider.com/state-of-internet-slides-2012-10#
+canonical_url: http://www.businessinsider.com/state-of-internet-slides-2012-10#
 ---
 
 
