@@ -1,0 +1,199 @@
+---
+layout: default
+title: "Water"
+type: post
+navigation: false
+
+date: 2025-04-06 03:54:00 -0700
+excerpt: "A vibe coding experiment"
+categories:
+  - Life
+
+gradient: 6
+image: header-10.png
+details: false
+
+author: Chris Petersen
+bio: Father, husband, CTO and cofounder of Scientist.com, developer, entrepreneur and technologist.
+twitter: https://x.com/cpetersen
+github: https://github.com/cpetersen
+---
+
+There is an app that I've wanted to build for over 5 years. I wanted to use the [Rust programming language](https://www.rust-lang.org) to build a [WASM](https://webassembly.org) application so it can run in a browser. The application would implement the [Navier Stokes equations](https://en.wikipedia.org/wiki/Navier–Stokes_equations) that describe fluid dynamics. I always thought that be an interesting project that, while basically useless, would be fun to implement.
+
+However, it involved a number of technologies that I'd need to research and math I'd need to understand, so it was left on the shelf.
+
+Until now. With all the hype (and not insignificant hate) around vibe-coding, I thought it would be fun to try and build it using [Claude Code](https://github.com/anthropics/claude-code). I was shocked at how well it worked. The results are below.
+
+## Click and drag inside the black box
+<style>
+  #fluid-canvas {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+  }
+</style>
+<canvas id="fluid-canvas"></canvas>
+<script>
+  // You can customize the fluid simulation by setting window.FLUID_CONFIG
+  // These settings will override the defaults
+  window.FLUID_CONFIG = {
+    // Visual settings
+    fluidColor: [0, 100, 255],     // RGB values for fluid color (blue)
+    densityAmount: 5.0,            // How much fluid to add per interaction
+    colorIntensity: 2.0,           // Intensity of the color (0-1)
+
+    // Physics settings
+    densityDecay: 0.999,           // How quickly fluid fades (1.0 = no fade)
+
+    // Layout settings
+    responsive: true,              // Auto-resize with window
+
+    // Advanced settings - uncomment to modify
+    // gridSize: 150,              // Higher = more detailed but slower
+    // diffusion: 0.0001,          // How quickly the fluid spreads
+    // viscosity: 0.0000001,       // How thick/sticky the fluid is
+    // velocityScale: 0.05,        // How strongly mouse affects the fluid
+    // velocityDecay: 0.99,        // How quickly motion slows down
+    // backgroundColor: [0, 0, 0], // RGB values for background (black)
+    // showVelocity: false,        // Show velocity vectors (for debugging)
+    // frameSkip: 0,               // Skip frames for performance (0 = none)
+    // timeStep: 0.2,              // Simulation speed
+  };
+</script>
+<script src="{{ '/assets/water/js/index.js' | prepend: site.baseurl }}"></script>
+
+I think the whole thing took me maybe 15 minutes of real time and about $2.85 of [Anthropic](https://www.anthropic.com) credits.
+
+Here is a log of every prompt I sent to Claude to generate the app:
+
+{% highlight txt %}
+ > You are in an empty directory. I want to create a Rust project that will ultimately render in a browser using WASM. I want to create a fluid visualization based on the Navier Stokes equations. What do you need to get started?
+
+ > It compiled great, but I'm getting this error when I open it in the browser: Compiled with problems:
+
+ │   ×
+ │   ERROR in ./src/web/index.js 1:0-30
+ │   Module not found: Error: Can't resolve '../..' in '/Users/cpetersen/src/cpetersen/water/src/web'
+
+ > Now I'm getting: warning: unexpected `cfg` condition value: `wee_alloc`
+
+ │    --> src/lib.rs:6:7
+ │     |
+ │   6 | #[cfg(feature = "wee_alloc")]
+ │     |       ^^^^^^^^^^^^^^^^^^^^^
+ │     |
+ │     = note: expected values for `feature` are: `console_error_panic_hook` and `default`
+ │     = help: consider adding `wee_alloc` as a feature in `Cargo.toml`
+ │     = note: see <https://doc.rust-lang.org/nightly/rustc/check-cfg/cargo-specifics.html> for more information about checking conditional configuration
+ │     = note: `#[warn(unexpected_cfgs)]` on by default
+ │
+ │   warning: unused import: `nalgebra as na`
+ │    --> src/lib.rs:3:5
+ │     |
+ │   3 | use nalgebra as na;
+ │     |     ^^^^^^^^^^^^^^
+ │     |
+ │     = note: `#[warn(unused_imports)]` on by default
+ │
+ │   warning: use of deprecated method `web_sys::CanvasRenderingContext2d::set_fill_style`
+ │     --> src/lib.rs:69:21
+ │      |
+ │   69 |                 ctx.set_fill_style(&JsValue::from_str(&color));
+ │      |                     ^^^^^^^^^^^^^^
+ │      |
+ │      = note: `#[warn(deprecated)]` on by default
+ │
+ │   warning: unused variable: `n`
+ │     --> src/lib.rs:89:13
+ │      |
+ │   89 |         let n = self.width;
+ │      |             ^ help: if this is intentional, prefix it with an underscore: `_n`
+ │      |
+ │      = note: `#[warn(unused_variables)]` on by default
+ │
+ │   error[E0502]: cannot borrow `self.velocity_x` as mutable because it is also borrowed as immutable
+ │      --> src/lib.rs:102:24
+ │       |
+ │   102 |         self.advect(1, &mut self.velocity_x, &velocity_x0, &velocity_x0, &velocity_y0);
+ │       |         ---- ------    ^^^^^^^^^^^^^^^^^^^^ mutable borrow occurs here
+ │       |         |    |
+ │       |         |    immutable borrow[Pasted text +45 lines]
+
+ > Now I get
+
+ │   > water@0.1.0 start
+ │   > npm run wasm-pack && webpack serve --open
+ │
+ │
+ │   > water@0.1.0 wasm-pack
+ │   > wasm-pack build --target web
+ │
+ │   [INFO]: 🎯  Checking for the Wasm target...
+ │   [INFO]: 🌀  Compiling to Wasm...
+ │      Compiling water v0.1.0 (/Users/cpetersen/src/cpetersen/water)
+ │   error[E0599]: no method named `set` found for struct `JsValue` in the current scope
+ │     --> src/lib.rs:69:34
+ │      |
+ │   69 |                 ctx.fill_style().set(&JsValue::from_str(&color));
+ │      |                                  ^^^ method not found in `JsValue`
+ │      |
+ │   help: consider pinning the expression
+ │      |
+ │   69 ~                 let mut pinned = std::pin::pin!(ctx.fill_style());
+ │   70 ~                 pinned.as_mut().set(&JsValue::from_str(&color));
+ │      |
+ │
+ │   error[E0502]: cannot borrow `self.velocity_x` as mutable because it is also borrowed as immutable
+ │      --> src/lib.rs:114:22
+ │       |
+ │   114 |         self.project(&mut self.velocity_x, &mut self.velocity_y);
+ │       |         ---- ------- ^^^^^^^^^^^^^^^^^^^^ mutable borrow occurs here
+ │       |         |    |
+ │       |         |    immutable borrow later used by call
+ │       |         immutable borrow occurs here
+ │
+ │   error[E0502]: cannot borrow `self.velocity_y` as mutable because it is also borrowed as immutable
+ │      --> src/lib.rs:114:44
+ │       |
+ │   114 |         self.project(&mut self.velocity_x, &mut self.velocity_y);
+ │       |         ---- -------                       ^^^^^^^^^^^^^^^^^^^^ mutable borrow occurs here
+ │       |         |    |
+ │       |         |    immutable borrow later used by call
+ │       |         immutable borrow occurs here
+ │
+ │   Some errors have detailed explanations: E0502, E0599.
+ │   For more information about an error, try `rustc --explain E0502`.
+ │   error: could not compile `water` (lib) due to 3 previous errors
+ │   Error: Compiling your crate to WebAssembly failed
+ │   Caused by: Compiling your crate to WebAssembly failed
+ │   Caused by: failed to execute `cargo build`: exited with exit status: 101
+ │     full command: cd "/Users/cpetersen/src/cpetersen/water" && "cargo" "build" "--lib" "--release" "--target" "wasm32-unknown-unknown"
+
+ > Please check this into git, please init a git repo and do that. Skip any directories that normally
+
+ > It looks awesome. I'm getting the following error occasionally: Uncaught runtime errors:
+
+ │   ×
+ │   ERROR
+ │   Bad value
+ │   decode@[native code]
+ │   @
+ │   <?>.wasm-function[66]@[wasm code]
+ │   render@
+ │   animate@
+
+ > Seems more robust, but the color got really dim, please lighten back to where it was
+
+ > Please update the README to include instructions on how to add the compiled version to a static
+
+ > What variables can be made configurable? Color? Intensity? Duration?
+
+ > Nothing is showing up, is there a bug or does the CONFIG file need updating?
+
+ > Look good
+
+ > Looking great, however I embedded it in a webpage and in doing so I made it smaller, so it only takes up a portion of the webpage rather than the entire screen. It seems that messed up the movement. Now when I click and move my mouse, it starts in the right spot, but as I move it drifts further from the actual movement on the screen. Please look at that
+
+ > Looking great. The CONFIG object currently seems buried in a big long single line in index.js. Is there a better way to edit it? Is it something I can do on the html page that includes the script?
+{% endhighlight %}
