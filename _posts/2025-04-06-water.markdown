@@ -7,7 +7,9 @@ navigation: false
 date: 2025-04-06 03:54:00 -0700
 excerpt: "A vibe coding experiment"
 categories:
-  - Life
+  - LLM
+  - Programming
+  - AI
 
 gradient: 6
 image: header-10.png
