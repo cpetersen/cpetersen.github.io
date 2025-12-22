@@ -9,8 +9,8 @@ excerpt: "After 18 years, Scientist.com has entered into an agreement to be acqu
 categories:
   - Scientist.com
 
-gradient: 4
-image: header-1.jpg
+gradient: 2
+image: header-6.jpg
 details: false
 
 author: Chris Petersen

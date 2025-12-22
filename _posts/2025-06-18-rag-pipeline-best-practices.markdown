@@ -11,8 +11,8 @@ categories:
   - AI
   - Video
 
-gradient: 3
-image: header-1.jpg
+gradient: 1
+image: header-8.jpg
 details: false
 
 author: Chris Petersen

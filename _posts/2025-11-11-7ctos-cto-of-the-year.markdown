@@ -9,8 +9,8 @@ excerpt: "I was named the 7CTOs CTO of the Year for 2025."
 categories:
   - Scientist.com
 
-gradient: 4
-image: header-1.jpg
+gradient: 6
+image: header-3.jpg
 details: false
 
 author: Chris Petersen
