@@ -27,3 +27,5 @@ We covered a lot of ground: pivotal business and architecture decisions, deployi
 I also shared one of my favorite early stories—a legendary Paul Blart Mall Cop rescue that happened in the early days of the company. You'll have to listen to get the full story.
 
 If you're anywhere near the intersection of technology and biotech, give it a listen. Robbie and Vince host a great show.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/54BsWz7W466Hd9VAQ0mgDq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
