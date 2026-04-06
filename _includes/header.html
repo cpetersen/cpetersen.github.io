@@ -1,41 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="{{ site.description | truncate: 155 }}" />
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 155 }}{% else %}{{ site.description | truncate: 155 }}{% endif %}" />
 
     <meta property="og:type" content="article" />
     <meta property="og:site_name" content="{{ site.title }}" />
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta property="og:description" content="{{ site.description | truncate: 300 }}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 300 }}{% else %}{{ site.description | truncate: 300 }}{% endif %}" />
     <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-    <meta property="og:image" content="{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: site.url }}" />
+    {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: site.url }}" />{% endif %}
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-    <meta name="twitter:description" content="{{ site.description | truncate: 200 }}" />
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 200 }}{% else %}{{ site.description | truncate: 200 }}{% endif %}" />
     <meta name="twitter:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-    <meta name="twitter:image" content="{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: site.url }}" />
+    {% if page.image %}<meta name="twitter:image" content="{{ page.image | prepend: '/images/' | prepend: site.baseurl | prepend: site.url }}" />{% endif %}
     <meta name="twitter:site" content="{{ site.twitter | prepend: '@' }}" />
 
-    <link rel="alternate" href="{{ '/feed.xml' | prepend: site.baseurl }}" type="application/rss+xml" title="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+    <link rel="alternate" href="{{ '/feed.xml' | prepend: site.baseurl }}" type="application/rss+xml" title="{{ site.title }}" />
     {% if page.canonical_url %}
     <link rel="canonical" href="{{ page.canonical_url }}" />
     {% else %}
     <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl }}" />
     {% endif %}
-    <link rel="stylesheet" href="{{ '/assets/normalize.css' | prepend: site.baseurl }}" />
-    <link rel="stylesheet" href="{{ '/assets/animate.css' | prepend: site.baseurl }}" />
     <link rel="stylesheet" href="{{ '/assets/styles.css' | prepend: site.baseurl }}" />
 
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
-    <![endif]-->
+    <script>
+      (function() {
+        var stored = localStorage.getItem('theme');
+        if (stored) {
+          document.documentElement.setAttribute('data-theme', stored);
+        } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      })();
+    </script>
 
     {% if site.analytics %}
       <script>
@@ -53,28 +58,38 @@
 
   <body>
 
-    <header data-animation="fadeInDownBig">
+    <div class="site-nav">
 
       {% if site.title %}<a href="{{ '/' | prepend: site.baseurl }}" title="Back to Homepage" class="logo">{{ site.name }}</a>{% endif %}
 
-      {% assign pages = site.pages | sort: 'date' | where: 'navigation', true %}
-      {% assign posts = site.posts | sort: 'date' | where: 'navigation', true %}
+      <div class="site-nav-right">
 
-      <button class="toggle">Menu</button>
-      <nav>
-        <ul>
-          <li><a href="{{ '/' | prepend: site.baseurl }}" title="Home">Home</a></li>
-          {% for page in pages %}
-            {% if page.title and page.type != 'home' %}
-              <li><a href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-          {% for post in posts %}
-            {% if post.title and post.type != 'home' %}
-              <li><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
+        <button class="toggle">Menu</button>
 
-    </header>
+        {% assign pages = site.pages | sort: 'date' | where: 'navigation', true %}
+        {% assign posts = site.posts | sort: 'date' | where: 'navigation', true %}
+
+        <nav>
+          <ul>
+            <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
+            {% for page in pages %}
+              {% if page.title and page.type != 'home' %}
+                <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+            {% for post in posts %}
+              {% if post.title and post.type != 'home' %}
+                <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+
+        <button class="theme-toggle" aria-label="Toggle theme">
+          <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+
+      </div>
+
+    </div>

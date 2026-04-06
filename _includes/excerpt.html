@@ -1,33 +1,50 @@
-{% if page.image %}<div class="overlay" style="background-image: url({{ site.baseurl }}/images/{{ page.image }});" data-parallax="9"></div>{% endif %}
+{% if page.gradient and page.gradient > 0 and page.gradient < 7 %}
+  {% assign gradient = page.gradient %}
+{% else %}
+  {% assign gradient = 2 %}
+{% endif %}
 
-<div class="excerpt">
+{% if page.type == 'home' %}
 
-	{% if page.title %}
+  <div class="article-header home-header">
+    <h1>Chris Petersen</h1>
+    <p class="subtitle">Father, husband, CTO &amp; cofounder of <a href="https://www.scientist.com">Scientist.com</a>, developer, and technologist in San Diego.</p>
+  </div>
 
-		{% if page.type == 'home' %}
-			<h1>{{ page.title }}</h1>
-		{% else %}
-			<h1><a href="{{ page.url | prepend: site.baseurl }}" title="{{ page.title }}">{{ page.title }}</a></h1>
-		{% endif %}
+{% else %}
 
-	{% endif %}
+  <div class="article-header accent-{{ gradient }}">
 
-  {% if page.excerpt %}
-	  <p>{{ page.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-  {% endif %}
+    {% if page.categories and page.type == 'post' %}
+      <div class="post-categories">{{ page.categories | join: ' &middot; ' }}</div>
+    {% endif %}
 
-	{% if page.date or page.categories %}
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
 
-		{% if page.type == 'post' %}
-			<span class="meta">Published {{ page.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ page.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
-		{% else %}
-			<span class="meta">Published {{ page.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }}</span>
-		{% endif %}
+    {% if page.excerpt and page.type != 'page' %}
+      <p class="subtitle">{{ page.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+    {% endif %}
 
-	{% endif %}
+    {% if page.date %}
+      <div class="post-meta">
+        {{ page.date | date: '%B %-d, %Y' }}{% if page.author %} &middot; {{ page.author }}{% endif %}
+      </div>
+    {% endif %}
 
-</div>
+    {% assign show_image = false %}
+    {% if page.image %}
+      {% unless page.image == 'header-0.jpg' or page.image == 'header-1.jpg' or page.image == 'header-2.jpg' or page.image == 'header-3.jpg' or page.image == 'header-4.jpg' or page.image == 'header-5.jpg' or page.image == 'header-6.jpg' or page.image == 'header-7.jpg' or page.image == 'header-8.jpg' or page.image == 'header-9.jpg' %}
+        {% assign show_image = true %}
+      {% endunless %}
+    {% endif %}
+    {% if show_image %}
+      <div class="hero-image">
+        <img src="{{ site.baseurl }}/images/{{ page.image }}" alt="{{ page.title }}" />
+      </div>
+    {% endif %}
 
-{% if page.type != 'home' %}
-	<a href="#" title="Scroll" class="scroll">Scroll</a>
+  </div>
+
 {% endif %}

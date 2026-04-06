@@ -1,51 +1,33 @@
-$(document).ready(function(){
+document.addEventListener('DOMContentLoaded', function () {
 
-	// Menu Toggle
-	var navigation = $('nav'),
-		navigationToggle = $('.toggle');
+  // Mobile menu toggle
+  var toggle = document.querySelector('.site-nav .toggle');
+  var nav = document.querySelector('.site-nav nav');
 
-	navigation.hide();
+  if (toggle && nav) {
+    toggle.addEventListener('click', function () {
+      nav.classList.toggle('open');
+      toggle.textContent = nav.classList.contains('open') ? 'Close' : 'Menu';
+    });
+  }
 
-	navigationToggle.on('click', function() {
+  // Theme toggle
+  var themeBtn = document.querySelector('.theme-toggle');
 
-		$(this).toggleClass('open');
-		navigation.fadeToggle('fast');
+  if (themeBtn) {
+    themeBtn.addEventListener('click', function () {
+      var current = document.documentElement.getAttribute('data-theme');
+      var next = current === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+    });
+  }
 
-	});
-
-	// Scroll Down
-	var scrollToggle = $('.scroll'),
-		scrollTarget = $('.body');
-
-	scrollToggle.show();
-
-	scrollToggle.on('click', function(e) {
-
-		e.preventDefault();
-
-		$('body').animate({
-			scrollTop: scrollTarget.offset().top
-		}, 1000);
-
-	});
-
-	// Parallax Scrolling
-	var parallaxElements = $('[data-parallax]'),
-		browserWindow = $(window);
-
-	$.each(parallaxElements, function(index, value) {
-
-		var $this = $(value),
-			speed = $this.data('parallax');
-
-		browserWindow.scroll(function() {
-
-			var offset = -(browserWindow.scrollTop() / speed);
- 
-			$this.css({ backgroundPosition: '50% ' + offset + 'px' });
-    
-		});
-
-	});
+  // Listen for system theme changes (only if no stored preference)
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
+    if (!localStorage.getItem('theme')) {
+      document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+    }
+  });
 
 });
