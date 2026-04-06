@@ -1,35 +1,27 @@
 {% if page.next or page.previous %}
 
-	{% if page.previous %}
-		{% assign teaser = page.previous %}
-	{% elsif page.next  %}
-		{% assign teaser = page.next %}
-	{% endif %}
+  {% if page.previous %}
+    {% assign teaser = page.previous %}
+  {% elsif page.next %}
+    {% assign teaser = page.next %}
+  {% endif %}
 
-	{% if teaser.gradient and teaser.gradient > 0 and teaser.gradient < 6 %}
-		{% assign gradient = teaser.gradient %}
-	{% else %}
-		{% assign gradient = 1 %}
-	{% endif %}
+  <div class="next-post">
 
-	<section class="teaser gradient-{{ gradient }}" data-animation="fadeInUp">
+    <div class="next-label">Continue Reading</div>
 
-		<div class="excerpt">
+    {% if teaser.title %}
+      <h2><a href="{{ teaser.url | prepend: site.baseurl }}">{{ teaser.title }}</a></h2>
+    {% endif %}
 
-			{% if teaser.title %}
-				<h1><a href="{{ teaser.url | prepend: site.baseurl }}" title="{{ teaser.title }}">{{ teaser.title }}</a></h1>
-			{% endif %}
+    {% if teaser.excerpt %}
+      <p class="next-excerpt">{{ teaser.excerpt | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}</p>
+    {% endif %}
 
-			{% if teaser.excerpt %}
-				<p>{{ teaser.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-			{% endif %}
+    <div class="next-meta">
+      {{ teaser.date | date: '%B %-d, %Y' }}{% if teaser.categories.size > 0 %} &middot; {{ teaser.categories | join: ', ' }}{% endif %}
+    </div>
 
-			{% if teaser.date or teaser.categories %}
-				<span class="meta">Published {{ teaser.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }} {{ teaser.categories | join: ', ' | prepend: 'in <b>' | append: '</b>' }}</span>
-			{% endif %}
-
-		</div>
-
-	</section>
+  </div>
 
 {% endif %}

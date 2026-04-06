@@ -6,22 +6,17 @@ type:       home
 navigation: true
 
 date:       2025-03-03
-image:      header-8.jpg
-excerpt:    "<b>Homepage</b> of <i>Chris Petersen</i>"
+excerpt:    ""
 gradient:   2
-# 1 purplish
-# 2 greenish
-# 3 green to red
-# 4 yellowish to purplish
-# 5 pinkish to greenish
+
 ---
 
-<div class="summary">
-  <p>This is where I post my thoughts, projects and occasionally pictures.</p>
-</div>
+<div class="post-list">
 
 {% for post in paginator.posts %}
 
   {% include summary.html %}
 
 {% endfor %}
+
+</div>

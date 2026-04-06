@@ -1,51 +1,14 @@
-$(document).ready(function(){
+document.addEventListener('DOMContentLoaded', function () {
 
-	// Menu Toggle
-	var navigation = $('nav'),
-		navigationToggle = $('.toggle');
+  // Mobile menu toggle
+  var toggle = document.querySelector('.site-nav .toggle');
+  var nav = document.querySelector('.site-nav nav');
 
-	navigation.hide();
-
-	navigationToggle.on('click', function() {
-
-		$(this).toggleClass('open');
-		navigation.fadeToggle('fast');
-
-	});
-
-	// Scroll Down
-	var scrollToggle = $('.scroll'),
-		scrollTarget = $('.body');
-
-	scrollToggle.show();
-
-	scrollToggle.on('click', function(e) {
-
-		e.preventDefault();
-
-		$('body').animate({
-			scrollTop: scrollTarget.offset().top
-		}, 1000);
-
-	});
-
-	// Parallax Scrolling
-	var parallaxElements = $('[data-parallax]'),
-		browserWindow = $(window);
-
-	$.each(parallaxElements, function(index, value) {
-
-		var $this = $(value),
-			speed = $this.data('parallax');
-
-		browserWindow.scroll(function() {
-
-			var offset = -(browserWindow.scrollTop() / speed);
- 
-			$this.css({ backgroundPosition: '50% ' + offset + 'px' });
-    
-		});
-
-	});
+  if (toggle && nav) {
+    toggle.addEventListener('click', function () {
+      nav.classList.toggle('open');
+      toggle.textContent = nav.classList.contains('open') ? 'Close' : 'Menu';
+    });
+  }
 
 });
