@@ -30,4 +30,11 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
+  // Console greeting for fellow developers
+  console.log(
+    '%c petersen.io ',
+    'background: #1a5c4c; color: #fff; padding: 4px 8px; border-radius: 3px; font-family: monospace; font-size: 14px;'
+  );
+  console.log('Built with Jekyll, curiosity, and too much coffee. https://github.com/cpetersen');
+
 });
