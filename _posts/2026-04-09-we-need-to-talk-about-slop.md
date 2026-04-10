@@ -29,7 +29,7 @@ The word is everywhere now, applied to everything indiscriminately. I think that
 
 This is the one that matters. Semantic slop is when the *ideas* are broken.
 
-Think of a blog post about machine learning that uses all the right vocabulary but reveals, on close reading, that the author (or the model) doesn't have a coherent picture of what's actually happening. The prose is beautiful. The sentences flow. But the thinking underneath is wrong, and you can't fix it by editing. Polishing the surface just makes the broken thinking more presentable.
+Code that doesn't compile. A point made in the third paragraph contradicted in the fifth. An explanation of a concept that sounds right until you actually know the concept. The thinking underneath is wrong, and you can't fix it by editing. Polishing the surface just makes the broken thinking more presentable.
 
 ## Syntactic slop
 
