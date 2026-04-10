@@ -37,7 +37,7 @@ This is the other thing people mean, and it's genuinely different. Syntactic slo
 
 You know the tells. Em-dashes everywhere. Tricolons. The word "delve." A faint, uniform smoothness that makes you think "an LLM wrote this" before you can articulate why. The em-dash has become [such a flashpoint](https://www.mcsweeneys.net/articles/an-em-dash-responds-to-the-ai-allegations) that it wrote its own defense.
 
-The difference from semantic slop: you *can* fix this by editing, because the ideas underneath are sound. The prose just sounds like a robot wrote it. Because a robot did. It's a real, measurable property of the text. (The next post in this series is about exactly what that property is, mechanically.)
+The difference from semantic slop: you *can* fix this by editing, because the ideas underneath are sound. The prose just sounds like a robot wrote it. Because a robot did. It's a real, measurable property of the text. (This is the topic of the next post.)
 
 ## Why the distinction matters
 
@@ -45,12 +45,4 @@ Semantic slop is always a problem. Syntactic slop is context-dependent: bad in p
 
 Collapsing both into the single word "slop" is how you end up unable to distinguish "this LLM produced contradictory nonsense" from "this LLM produced clear, competent prose I find aesthetically displeasing." Those are different problems. They call for different responses.
 
-## What's next
-
-This is the first of four posts. The taxonomy above is the setup; the interesting parts come later.
-
-Next: what syntactic slop actually *is*, mechanically. A short detour through how language models choose words, why AI detectors can spot them, and what people are really reacting to when they say AI prose feels flat.
-
-After that: the deeper thing. Why we're so unsettled by prose getting cheap, even when the prose is fine. (Spoiler: it's about a shortcut we lost, and we're grieving it without quite knowing that's what we're grieving.)
-
-And the last one: what writing with an LLM actually looks like in practice. That's the "more on that later" from the opening. It turns out the difference between insight and slop lives somewhere the reader will never see.
+This is the first in a series. Next up: what syntactic slop actually *is*, mechanically, and why the complaint is narrower than people think.
