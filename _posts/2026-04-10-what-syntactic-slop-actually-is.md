@@ -28,7 +28,7 @@ Let's start with the trick.
 
 At every step of generating text, a language model has a ranked guess about what word comes next.
 
-Some of those guesses are very confident. If the model has written "the cat sat on the," its top guess for the next word is something like "mat" or "floor" or "couch," and very little else. A small number of words account for nearly all the probability.
+Some of those guesses are very confident. If the model has written "it was a dark and stormy," its top guess for the next word is "night," and almost nothing else. A small number of words account for nearly all the probability.
 
 Other guesses are wide open. If the model has written "she opened the door and saw," almost anything could come next. A garden, a stranger, nothing at all, a small dog wearing a hat. The probability is spread across thousands of possibilities.
 
