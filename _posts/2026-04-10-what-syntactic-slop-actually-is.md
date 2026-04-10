@@ -34,8 +34,6 @@ Other guesses are wide open. If the model has written "she opened the door and s
 
 Temperature is the knob that controls how often the model picks something other than its top guess. Low temperature: it almost always picks the most likely next word. High temperature: it rolls the dice on less likely options.
 
-That's the entire trick. Everything else is bookkeeping.
-
 ## The Technical Version (For Those Who Want It)
 
 If the ranked-guess analogy is enough for you, skip ahead to "The Neat Fact." You won't miss anything structural. But if you want the real machinery, here it is.
