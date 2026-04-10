@@ -35,7 +35,7 @@ Code that doesn't compile. A point made in the third paragraph contradicted in t
 
 This is the other thing people mean, and it's genuinely different. Syntactic slop is when the *ideas* are fine but the tokens are flat.
 
-You know the tells. Em-dashes everywhere. Tricolons. The word "delve." A faint, uniform smoothness that makes you think "an LLM wrote this" before you can articulate why. The em-dash alone has become such a flashpoint that McSweeney's published a parody in which the em dash *itself* responds to the AI allegations.
+You know the tells. Em-dashes everywhere. Tricolons. The word "delve." A faint, uniform smoothness that makes you think "an LLM wrote this" before you can articulate why. The em-dash has become [such a flashpoint](https://www.mcsweeneys.net/articles/an-em-dash-responds-to-the-ai-allegations) that it wrote its own defense.
 
 The difference from semantic slop: you *can* fix this by editing, because the ideas underneath are sound. The prose just sounds like a robot wrote it. Because a robot did. It's a real, measurable property of the text. (The next post in this series is about exactly what that property is, mechanically.)
 
