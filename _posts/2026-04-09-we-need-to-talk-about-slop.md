@@ -23,7 +23,7 @@ I've been doing a lot of LLM-assisted writing lately, both code and prose (more 
 
 You know the pattern. Someone shares writing online, a commenter spots a phrase that *feels* like it came from a language model, and the conversation ends. The ideas never get engaged with. "Slop," the commenter writes, and moves on.
 
-The word is everywhere now, and nobody defines it. I think that's because there are at least two very different things hiding inside it, and collapsing them into one word is how we stopped being able to talk about this clearly.
+The word is everywhere now, applied to everything indiscriminately. I think that's because there are at least two very different things hiding inside it, and collapsing them into one word is how we stopped being able to talk about this clearly.
 
 ## Semantic slop
 
