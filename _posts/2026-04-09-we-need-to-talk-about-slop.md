@@ -41,7 +41,7 @@ The difference from semantic slop: you *can* fix this by editing, because the id
 
 ## Why the distinction matters
 
-Semantic slop is always a problem. Syntactic slop is context-dependent: bad in poetry, where surprise is the point, but basically fine in a status update or a business email nobody wanted to read in the first place. A lot of writing exists to transmit information, and "clear and slightly bland" is not a failure.
+Semantic slop is always a problem. Syntactic slop is context-dependent: bad in poetry, where the words are the point, but basically fine in a status update or a business email nobody wanted to read in the first place. A lot of writing exists to transmit information, and "clear and unsurprising" is not a failure.
 
 Collapsing both into the single word "slop" is how you end up unable to distinguish "this LLM produced contradictory nonsense" from "this LLM produced clear, competent prose I find aesthetically displeasing." Those are different problems. They call for different responses.
 
