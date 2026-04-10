@@ -33,7 +33,7 @@ Code that doesn't compile. A point made in the third paragraph contradicted in t
 
 ## Syntactic slop
 
-This is the other thing people mean, and it's genuinely different. Syntactic slop is when the *tokens* are wrong but the ideas are fine.
+This is the other thing people mean, and it's genuinely different. Syntactic slop is when the *ideas* are fine but the tokens are flat.
 
 You know the tells. Em-dashes everywhere. Tricolons. The word "delve." A faint, uniform smoothness that makes you think "an LLM wrote this" before you can articulate why. The em-dash alone has become such a flashpoint that McSweeney's published a parody in which the em dash *itself* responds to the AI allegations.
 
