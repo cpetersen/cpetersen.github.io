@@ -21,11 +21,9 @@ github: https://github.com/cpetersen
 
 I've been doing a lot of LLM-assisted writing lately, both code and prose (more on that later), and I've noticed quite a bit of what can only be described as reflexive dismissal.
 
-You know the pattern. Someone shares a piece of writing online. A commenter spots an em-dash, or a too-smooth transition, or a phrase that *feels* like it came from a language model. The verdict arrives instantly: slop. The ideas in the piece never get engaged with. The conversation is over before it started.
+You know the pattern. Someone shares writing online, a commenter spots a phrase that *feels* like it came from a language model, and the conversation ends. The ideas never get engaged with. "Slop," the commenter writes, and moves on.
 
-The word "slop" is everywhere now. It shows up in every LinkedIn thread about AI writing. Everyone nods. Nobody defines it. It's become one of those thought-terminating cliches, the kind of word that ends conversations instead of starting them. And I think it's ending conversations we actually need to have.
-
-Here's the problem: there are at least two very different things people mean when they say "slop," and treating them as the same thing is how the discourse got dumb.
+The word is everywhere now, and nobody defines it. I think that's because there are at least two very different things hiding inside it, and collapsing them into one word is how we stopped being able to talk about this clearly.
 
 ## Semantic slop
 
