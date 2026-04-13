@@ -30,9 +30,7 @@ For each token it generates, a transformer computes a probability for every othe
 
 Temperature is the knob that controls how often the model picks something other than its top guess. Low temperature: it almost always picks the most likely next word. High temperature: it rolls the dice on less likely options.
 
-## The Technical Version (For Those Who Want It)
-
-If the ranked-guess analogy is enough for you, skip ahead to "The Neat Fact." You won't miss anything structural. But if you want the real machinery, here it is.
+## The Technical Version
 
 A transformer's forward pass produces a probability distribution over the entire vocabulary at each position. Temperature is a parameter on the softmax function that sharpens or flattens that distribution before sampling. A temperature of zero would always pick the single highest-probability token. Higher values spread the probability more evenly, letting less likely tokens get chosen.
 
