@@ -24,7 +24,7 @@ AI detectors are not magic. Once you see what they're actually doing (which is s
 
 Let's start with the trick.
 
-## The Ranked Guess
+## The Distribution
 
 For each token it generates, a transformer computes a probability for every other token in its vocabulary. The result is a distribution: a few score high, most score near zero.
 
