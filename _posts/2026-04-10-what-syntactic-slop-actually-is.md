@@ -26,11 +26,11 @@ Let's start with the trick.
 
 ## The Ranked Guess
 
-At every step of generating text, a language model has a ranked guess about what word comes next.
+For each token it generates, a transformer computes a probability for every other token in its vocabulary. The result is a distribution: a few score high, most score near zero.
 
-Some of those guesses are very confident. If the model has written "it was a dark and stormy," its top guess for the next word is "night," and almost nothing else. A small number of words account for nearly all the probability.
+Some of those guesses are very confident. If the model has written "it was a dark and stormy" its top guess for the next word is "night" and almost nothing else. A small number of words account for nearly all the probability.
 
-Other guesses are wide open. If the model has written "she opened the door and saw," almost anything could come next. A garden, a stranger, nothing at all, a small dog wearing a hat. The probability is spread across thousands of possibilities.
+Other guesses are wide open. If the model has written "she opened the door and saw" almost anything could come next. A garden, a stranger, nothing at all, a small dog wearing a hat. The probability is spread across thousands of possibilities.
 
 Temperature is the knob that controls how often the model picks something other than its top guess. Low temperature: it almost always picks the most likely next word. High temperature: it rolls the dice on less likely options.
 
