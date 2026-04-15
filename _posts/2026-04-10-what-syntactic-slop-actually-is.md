@@ -26,13 +26,9 @@ Let's start with the trick.
 
 ## The Distribution
 
-For each token it generates, a transformer computes a probability for every other token in its vocabulary. The result is a distribution: a few score high, most score near zero. If the model has written "it was a dark and stormy," its top guess for the next word is "night" and almost nothing else. But if it's written "she opened the door and saw," almost anything could come next. A garden, a stranger, nothing at all, a small dog wearing a hat. The probability is spread across thousands of possibilities.
+For each token it generates, a transformer computes a probability for every other token in its vocabulary. The result is a distribution: a few score high, most score near zero. If the model has written "it was a dark and stormy," its top guess for the next word is "night" and almost nothing else. But if it's written "she opened the door and saw," almost anything could come next. A garden, a stranger, nothing at all, a small dog wearing a hat.
 
-Temperature is the knob that controls how often the model picks something other than its top guess. Low temperature: it almost always picks the most likely next word. High temperature: it rolls the dice on less likely options.
-
-## The Technical Version
-
-A transformer's forward pass produces a probability distribution over the entire vocabulary at each position. Temperature is a parameter on the softmax function that sharpens or flattens that distribution before sampling. A temperature of zero would always pick the single highest-probability token. Higher values spread the probability more evenly, letting less likely tokens get chosen.
+Temperature controls how strictly the model follows its own rankings. Technically, it's a parameter on the softmax function that sharpens or flattens the distribution before sampling. Low temperature: the model almost always picks the highest-probability token. High temperature: it rolls the dice on less likely options.
 
 **Surprisal** is the formal measure of how unexpected a particular token was. It's defined as the negative log of the token's probability: −log(p). A token the model was confident about has low surprisal. A token it considered unlikely has high surprisal.
 
