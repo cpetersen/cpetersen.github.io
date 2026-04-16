@@ -33,6 +33,10 @@
   --accent-5: #9445a0;
   --accent-6: #2873a8;
 
+  /* Page accent — set by body.accent-N, used throughout */
+  --page-accent: var(--accent-2);
+  --page-accent-faint: rgba(26, 92, 76, 0.15);
+
   /* Syntax highlighting */
   --hl-comment:  #8a8a8a;
   --hl-keyword:  #6c5ce7;
@@ -76,7 +80,25 @@
   --hl-variable: #6aad97;
   --hl-diff-add-bg: #1e3530;
   --hl-diff-del-bg: #3d2020;
+
+  --page-accent-faint: rgba(77, 184, 154, 0.12);
 }
+
+/* Page accent per gradient — light mode */
+body.accent-1 { --page-accent: var(--accent-1); --page-accent-faint: rgba(108, 92, 231, 0.15); }
+body.accent-2 { --page-accent: var(--accent-2); --page-accent-faint: rgba(26, 92, 76, 0.15); }
+body.accent-3 { --page-accent: var(--accent-3); --page-accent-faint: rgba(181, 65, 42, 0.15); }
+body.accent-4 { --page-accent: var(--accent-4); --page-accent-faint: rgba(184, 137, 15, 0.15); }
+body.accent-5 { --page-accent: var(--accent-5); --page-accent-faint: rgba(148, 69, 160, 0.15); }
+body.accent-6 { --page-accent: var(--accent-6); --page-accent-faint: rgba(40, 115, 168, 0.15); }
+
+/* Page accent per gradient — dark mode (data-theme is on html) */
+[data-theme="dark"] body.accent-1 { --page-accent: var(--accent-1); --page-accent-faint: rgba(155, 141, 245, 0.12); }
+[data-theme="dark"] body.accent-2 { --page-accent: var(--accent-2); --page-accent-faint: rgba(77, 184, 154, 0.12); }
+[data-theme="dark"] body.accent-3 { --page-accent: var(--accent-3); --page-accent-faint: rgba(224, 116, 96, 0.12); }
+[data-theme="dark"] body.accent-4 { --page-accent: var(--accent-4); --page-accent-faint: rgba(218, 168, 64, 0.12); }
+[data-theme="dark"] body.accent-5 { --page-accent: var(--accent-5); --page-accent-faint: rgba(192, 119, 190, 0.12); }
+[data-theme="dark"] body.accent-6 { --page-accent: var(--accent-6); --page-accent-faint: rgba(90, 159, 212, 0.12); }
 
 
 /* ---- Reset ---- */
@@ -94,7 +116,10 @@ body {
   font-size: 1.0625rem;
   color: var(--text);
   line-height: 1.65;
-  background: var(--bg);
+  background:
+    radial-gradient(ellipse 50% 50% at top left, var(--page-accent-faint), transparent),
+    radial-gradient(ellipse 50% 50% at bottom right, var(--page-accent-faint), transparent),
+    var(--bg);
   min-height: 100vh;
   transition: background 0.25s ease, color 0.25s ease;
 }
@@ -148,14 +173,14 @@ b, strong { font-weight: 600; }
 i, em { font-style: italic; }
 
 a {
-  color: var(--accent);
+  color: var(--page-accent);
   text-decoration: none;
   transition: color 0.15s ease;
 }
 
 a:hover { color: var(--accent-hover); }
 
-a:visited { color: var(--accent); }
+a:visited { color: var(--page-accent); }
 
 hr {
   height: 1px;
@@ -165,7 +190,7 @@ hr {
 }
 
 blockquote {
-  border-left: 3px solid var(--accent);
+  border-left: 3px solid var(--page-accent);
   padding: 0.25rem 0 0.25rem 1.25rem;
   margin: 1.5rem 0;
   color: var(--text-secondary);
@@ -272,7 +297,7 @@ input[type="button"]:hover, input[type="submit"]:hover {
 }
 
 .site-nav .logo:hover {
-  color: var(--accent);
+  color: var(--page-accent);
   letter-spacing: 0.01em;
 }
 
@@ -314,7 +339,7 @@ input[type="button"]:hover, input[type="submit"]:hover {
   left: 0;
   width: 0;
   height: 1.5px;
-  background: var(--accent);
+  background: var(--page-accent);
   border-radius: 1px;
   transition: width 0.25s cubic-bezier(0.25, 1, 0.5, 1);
 }
@@ -411,7 +436,7 @@ input[type="button"]:hover, input[type="submit"]:hover {
   font-weight: 500;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--page-accent);
   margin-bottom: 0.75rem;
 }
 
@@ -509,7 +534,7 @@ input[type="button"]:hover, input[type="submit"]:hover {
 
 .article-body a {
   text-decoration: none;
-  background-image: linear-gradient(var(--accent), var(--accent));
+  background-image: linear-gradient(var(--page-accent), var(--page-accent));
   background-size: 0% 1.5px;
   background-position: 0 100%;
   background-repeat: no-repeat;
@@ -907,11 +932,11 @@ pre code {
   left: 0;
   width: 0;
   height: 1px;
-  background: var(--accent);
+  background: var(--page-accent);
   transition: width 0.25s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
-.site-footer a:hover { color: var(--accent); }
+.site-footer a:hover { color: var(--page-accent); }
 .site-footer a:hover::after { width: 100%; }
 
 .site-footer .footer-links {
