@@ -56,7 +56,13 @@
 
   </head>
 
-  <body>
+  {% if page.gradient and page.gradient > 0 and page.gradient < 7 %}
+    {% assign body_gradient = page.gradient %}
+  {% else %}
+    {% assign body_gradient = 2 %}
+  {% endif %}
+
+  <body class="accent-{{ body_gradient }}">
 
     <div class="site-nav">
 
