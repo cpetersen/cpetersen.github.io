@@ -138,25 +138,25 @@ body::before {
   top: -20vh;
   left: -20vw;
   background: radial-gradient(ellipse at center, var(--page-accent-faint), transparent 60%);
-  animation: breathe-a 14s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+  animation: drift-a 48s cubic-bezier(0.45, 0, 0.55, 1) infinite;
 }
 
 body::after {
   bottom: -20vh;
   right: -20vw;
   background: radial-gradient(ellipse at center, var(--page-accent-faint), transparent 60%);
-  animation: breathe-b 18s cubic-bezier(0.45, 0, 0.55, 1) infinite;
-  animation-delay: -6s;
+  animation: drift-b 60s cubic-bezier(0.45, 0, 0.55, 1) infinite;
+  animation-delay: -22s;
 }
 
-@keyframes breathe-a {
-  0%, 100% { opacity: 0.85; transform: scale(1); }
-  50%      { opacity: 1;    transform: scale(1.08); }
+@keyframes drift-a {
+  0%, 100% { opacity: 0.8; transform: translateY(0)    scale(1); }
+  50%      { opacity: 1;   transform: translateY(40vh) scale(1.1); }
 }
 
-@keyframes breathe-b {
-  0%, 100% { opacity: 1;    transform: scale(1.06); }
-  50%      { opacity: 0.8;  transform: scale(1); }
+@keyframes drift-b {
+  0%, 100% { opacity: 1;   transform: translateY(0)     scale(1.06); }
+  50%      { opacity: 0.8; transform: translateY(-40vh) scale(1); }
 }
 
 [data-theme="dark"] { color-scheme: dark; }
